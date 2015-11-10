@@ -56,6 +56,11 @@ $i2ce_site_i2ce_path = "/var/lib/iHRIS/lib/4.1.4/I2CE";
  */
 $i2ce_site_dsn = 'mysql://ihris_manage:apelon1@localhost/ihris_manage' ;
 
+//FHIR Sync Data
+$fhir_server_url = 'http://40.143.220.156:8081/dtsserverws/fhir/';
+$fhir_server_username = 'dtsadminuser';
+$fhir_server_password = 'dtsadmin';
+
 
 /**
  * Initialization string for user access.  See http://open.intrahealth.org/mediawiki/Pluggable_Authentication
