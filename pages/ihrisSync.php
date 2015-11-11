@@ -120,6 +120,8 @@ class ihrisSync {
                     . "'1') ";
             $query = mysqli_query($this->conn, $sql);
             
+            echo '<b>' . $sql  . '</b><br>';
+            
             if(!$query) {
             	return false;
             	exit();
@@ -138,10 +140,16 @@ class ihrisSync {
         }
     }
     
-    public function browseCountry() {
-    	$sql = "SELECT * FROM hippo_country";
+    public function fetchCountries() {
+    	$sql = "SELECT * FROM `hippo_country`";
     	$query = mysqli_query($this->conn, $sql);
-    	return mysqli_fetch_array($query);
+    	if(mysqli_errno($this->conn)) {
+    		echo 'MySQL Query Error, SQL: ' . $sql . ' ERROR: ' . mysqli_error($this->conn);
+    		return false;
+    	} else {
+    		return mysqli_fetch_assoc($query);
+    	}
+    	
     }
     
     public function dropRegion() {
@@ -150,7 +158,6 @@ class ihrisSync {
         
         if(!$query) {
         	return false;
-        	exit();
         } else {
         	return true;
         }
@@ -172,7 +179,6 @@ class ihrisSync {
         
         if(!$query) {
         	return false;
-        	exit();
         } else {
         	return true;
         }
@@ -294,13 +300,13 @@ class ihrisSync {
         }
     }
     
-    public function browseFacility() {
+    public function fetchFacility() {
     	$sql = "SELECT * FROM hippo_facility_type";
     	$query = mysqli_query($this->conn, $sql);
     	return mysqli_fetch_array($query);
     }
     
-    public function browsePosition() {
+    public function fetchPosition() {
     	$sql = "SELECT * FROM hippo_position_type";
     	$query = mysqli_query($this->conn, $sql);
     	return mysqli_fetch_array($query);

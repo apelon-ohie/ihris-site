@@ -61,6 +61,15 @@ $fhir_server_url = 'http://40.143.220.156:8081/dtsserverws/fhir/';
 $fhir_server_username = 'dtsadminuser';
 $fhir_server_password = 'dtsadmin';
 
+$site_url = 'http://hardevhim.ct.apelon.com:83/manage/';
+
+$fhir_valueset_country = 'valueset-c80-facilitycodes';
+$fhir_valueset_facilities = 'valueset-c80-facilitycodes';
+$fhir_valueset_positions = 'HeathCareWorkerTypes';
+//Not Tested
+$fhir_valueset_county = '';
+$fhir_valueset_region = '';
+$fhir_valueset_district = '';
 
 /**
  * Initialization string for user access.  See http://open.intrahealth.org/mediawiki/Pluggable_Authentication
