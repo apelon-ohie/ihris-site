@@ -3,7 +3,8 @@
 use APELON\ihrisFhirSync\ihrisSync;
 
 //Dependencies
-require './ihrisSync.php';
+require './ihrisSync.php'; //Standalone version
+//require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
 require './config.values.php';
 
 //Global Variables
@@ -25,14 +26,20 @@ function valuesetTextbox($name, $valueSet) {
 		  </div>';
 }
 function formStart() {
+	global $url;
 	echo '<form style="display:inline" class="form-horizontal" action="' . $url . '" method="post">';
 }
 function formFinish() {
 	echo '</form>';
-	}
+}
+// function getUrl() {
+// 	$url  = @( $_SERVER["HTTPS"] != 'on' ) ? 'http://'.$_SERVER["SERVER_NAME"] :  'https://'.$_SERVER["SERVER_NAME"];
+// 	$url .= ( $_SERVER["SERVER_PORT"] !== 80 ) ? ":".$_SERVER["SERVER_PORT"] : "";
+// 	$url .= $_SERVER["REQUEST_URI"];
+// 	return $url;
+// }
 
 //HTML Start
-echo $_POST['action'];
 echo '<html><head>';
 echo '<style type="text/css">
 		ul {
@@ -50,21 +57,21 @@ if(!isset($_POST['action'])) {
 	echo '<ul style="display:inline" style="list-style-type: none">';
 		echo '<li><div class="alert alert-warning" role="alert">Countries</div>';
 				formStart(); button('Browse iHRIS Countries', 'browseCountries', 'primary');formFinish();
-				formStart(); button('Drop Countries', 'dropCountries');formFinish();
+				formStart(); button('Drop Countries', 'dropCountries', 'danger');formFinish();
 				formStart(); button('Populate Countries', 'syncCountries', 'success');
 				valuesetTextbox("Country", "valueset-c80-facilitycodes");formFinish();
 				//TODO: Or, get the Value-Set from the Config
 		echo '</li><br>';
 		echo '<li><div class="alert alert-warning" role="alert">Facilities</div>';
 			formStart(); button('Browse iHRIS Facilities', 'browseFacilities', 'primary');formFinish();
-			formStart(); button('Drop Facilities', 'dropFacilities');formFinish();
+			formStart(); button('Drop Facilities', 'dropFacilities', 'danger');formFinish();
 			formStart(); button('Populate Facilities', 'syncFacilities', 'success');
 			valuesetTextbox("Country", "valueset-c80-facilitycodes");formFinish();
 			//TODO: Or, get the Value-Set from the Config
 		echo '</li><br>';
 		echo '<li><div class="alert alert-warning" role="alert">Healthcare-Worker Types</div>';formFinish();
 			formStart(); button('Browse iHRIS Positions', 'browsePositions', 'primary');formFinish();
-			formStart(); button('Drop Positions', 'dropPositions');
+			formStart(); button('Drop Positions', 'dropPositions', 'danger');
 			formStart(); button('Populate Positions', 'syncPositions', 'success');
 			valuesetTextbox("Country", "HeathCareWorkerTypes");formFinish();
 			//TODO: Or, get the Value-Set from the Config
@@ -73,7 +80,6 @@ if(!isset($_POST['action'])) {
 	echo '</ul>';
 } else if(isset($_POST['action'])) {
 	$action = $_POST['action'];
-	echo $action;
 	$is = new ihrisSync();
 	
 	//Authenticate MySQL
@@ -84,7 +90,9 @@ if(!isset($_POST['action'])) {
 	
 	switch($action) {
 		case 'browseCountries':
+			echo 'Browse Countries<br>';
 			browseCountries();
+			//print_r($is->fetchCountries());
 		break;
 		case 'dropCountries':
 			if($is->dropCountry()) {
@@ -138,13 +146,15 @@ if(!isset($_POST['action'])) {
 }
 
 function browseCountries() {
-	$columns = array(0=>"id",1=>"parent",2=>"modified",3=>"hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
-	startTable($columns);
-	while($row = $is->fetchCountries()) {
-		echo '<tr>Row-';
-		for($x=0;$x<size($row);$x++) {
-			print_r($row);
-			echo '<td>Cell: ' . $row[$x] . '</td>';
+	$table_columns = array(0=>"id",1=>"parent",2=>"modified",3=>"hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+	startTable($table_columns);
+	global $is;
+	$fetch_data = $is->fetchCountries();
+	echo 'Count: ' . count($row) . '<br>';
+	while($row = $fetch_data) {
+		echo '<tr>';
+		for($y=0;$y < count($row);$y++) {
+			echo '<td>' . $row[$y] . '</td>';
 		}
 		echo'</tr>';
 	}
@@ -153,6 +163,7 @@ function browseCountries() {
 
 function startTable($columns) {
 	echo '<table border="0"><tr>';
+	echo 'Count: ' . count($columns) . '<br>';
 		for($x = 0; $x < count($columns); $x++) {
 			echo '<td>' . $columns[$x] . '</td>';
 		}

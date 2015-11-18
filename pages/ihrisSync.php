@@ -147,7 +147,8 @@ class ihrisSync {
     		echo 'MySQL Query Error, SQL: ' . $sql . ' ERROR: ' . mysqli_error($this->conn);
     		return false;
     	} else {
-    		return mysqli_fetch_assoc($query);
+    		$array = mysqli_fetch_array($query);
+    		return  $array;
     	}
     	
     }
@@ -341,7 +342,6 @@ class ihrisSync {
     public function dropPosition() {
         $sql = "TRUNCATE table hippo_position_type";
     	$query = mysqli_query($this->conn, $sql);
-        
         if(!$query) {
         	return false;
         	exit();
@@ -352,7 +352,6 @@ class ihrisSync {
     
     public function insertPosition($valueSet) {
     	$fhirData = $this->getFhirData($valueSet)->expansion->contains;
-        
         $size = iterator_count($fhirData);
         for ($x = 0; $x < $size; $x++) {
 			$f = $fhirData[$x];

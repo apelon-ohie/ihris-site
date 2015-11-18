@@ -8,17 +8,17 @@
     <creator>Intrahealth Informatics</creator>
     <email>hris@capacityproject.org</email>
     <link>https://launchpad.net/ihris-manage</link>
-    <version>4.1.1.0</version>
+    <version>4.2.2.0</version>
     <path name="configs">
       <value>./configs</value>
     </path>
     <requirement name="ihris-manage">
-      <atLeast version="4.1" />
-      <lessThan version="4.2" />
+      <atLeast version="4.2" />
+      <lessThan version="4.3" />
     </requirement>
     <requirement name="UserAccess">
-      <atLeast version="4.1" />
-      <lessThan version="4.2" />
+      <atLeast version="4.2" />
+      <lessThan version="4.3" />
     </requirement>
     <enable name="default-locales" />
     <enable name="PersonContact" />
@@ -59,7 +59,7 @@
       <status>required:false</status>
       <configuration name="email" path="to" values="single">
         <displayName>Email Address</displayName>
-        <value>apelon.development@gmail.com</value>
+        <value>root@localhost</value>
       </configuration>
       <configuration name="subject" values="single" locale="en_US">
         <displayName>Subject Line</displayName>
