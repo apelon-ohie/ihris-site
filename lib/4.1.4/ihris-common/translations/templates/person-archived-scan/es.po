@@ -1,0 +1,72 @@
+# Translation of iHRIS Common - Person Archived Scan to Spanish (español)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Person Archived Scan\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:07:51+0000\n"
+"Last-Translator: MHolguin <Unknown>\n"
+"Language-Team: Spanish <https://translatewiki.net/wiki/Portal:es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:16+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: es\n"
+"X-Message-Group: #out-ihris-common-pas\n"
+"X-POT-Import-Date: 2013-10-07 17:20:00+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html#L3'>modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Editar Esta Información"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html#L8'>modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Actualizar esta información"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml#L34'>modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html#L17'>modules/Person/modules/ArchivalScans/templates/en_US/view_person_archive_scan.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/templates/en_US/form_person_archive_scan.html#L3'>modules/Person/modules/ArchivalScans/templates/en_US/form_person_archive_scan.html</a>
+#, no-c-format
+msgid "Scanned Paper Record"
+msgstr "Escanear Registro en Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml#L11'>modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml</a>
+#, no-c-format
+msgid "Can view archive scan of a person"
+msgstr "Puede ver el archivo escaneado de una persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml#L14'>modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml</a>
+#, no-c-format
+msgid "Can edit archive scan of a person"
+msgstr "uede editar archivos escaneado de una persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml#L23'>modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml</a>
+#, no-c-format
+msgid "Document"
+msgstr "Documento"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml#L43'>modules/Person/modules/ArchivalScans/configs/en_US/ArchivalScans.xml</a>
+#, no-c-format
+msgid "Add/Update Scanned Paper Record"
+msgstr "Añadir / actualizar registro en papel escaneados"

@@ -1,0 +1,113 @@
+# French translation for i2ce
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the i2ce package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: i2ce\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-03-12 15:19-0400\n"
+"PO-Revision-Date: 2012-07-15 00:16+0000\n"
+"Last-Translator: Kayode Odusote <odusote.kayode@gmail.com>\n"
+"Language-Team: French <fr@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:19+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L19'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Sunday"
+msgstr "dimanche"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L20'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Monday"
+msgstr "lundi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L21'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Tuesday"
+msgstr "mardi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L22'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Wednesday"
+msgstr "mercredi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L23'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Thursday"
+msgstr "jeudi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L24'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Friday"
+msgstr "vendredi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L25'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "Saturday"
+msgstr "samedi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L28'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "January"
+msgstr "janvier"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L29'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "February"
+msgstr "février"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L30'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "March"
+msgstr "mars"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L31'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "April"
+msgstr "avril"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L32'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "May"
+msgstr "mai"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L33'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "June"
+msgstr "juin"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L34'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "July"
+msgstr "juillet"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L35'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "August"
+msgstr "août"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L36'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "September"
+msgstr "septembre"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L37'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "October"
+msgstr "octobre"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L38'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "November"
+msgstr "novembre"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml#L39'>modules/MooTools/modules/DatePicker/configs/en_US/DatePicker.xml</a>
+#, no-c-format
+msgid "December"
+msgstr "décembre"

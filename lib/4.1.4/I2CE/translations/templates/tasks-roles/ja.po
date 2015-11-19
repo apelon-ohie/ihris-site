@@ -1,0 +1,280 @@
+# Translation of iHRIS I2CE - Task Roles to Japanese (日本語)
+# Exported from translatewiki.net
+#
+# Author: Allinpunchay
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Task Roles\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:16:07+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:24:29+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L27'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L8'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles"
+msgstr "ロールを管理します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Existing Roles"
+msgstr "既存のロール"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Add a new role"
+msgstr "新しいロールを追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Short Name"
+msgstr "ロールのショートネーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L22'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Display Name"
+msgstr "ロールの表示名"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user."
+msgstr "エンドユーザーに表示されるこのロールの表示名。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Edit Role"
+msgstr "ロールを編集します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Inheritence"
+msgstr "ロールの継承"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L30'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Tasks"
+msgstr "ロールタスク"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L31'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this role"
+msgstr "このロールに割り当てられているタスク"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L34'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Tasks"
+msgstr "タスクを管理します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Existing Tasks"
+msgstr "既存のタスク"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Add a new task"
+msgstr "新しいタスクを追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Task Short Name"
+msgstr "タスクのショートネーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Description"
+msgstr "タスクの説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "A short description of this task."
+msgstr "このタスクの簡略な説明。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html#L4'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html</a>
+#, no-c-format
+msgid "This is a role fixed by the system and cannot be edited."
+msgstr "これはシステムにより固定されたロールのため編集できません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles and Tasks"
+msgstr "ロールとタスクを管理します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L5'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Here you may administer the roles and tasks for the system."
+msgstr "ここからシステムのロールとタスクの管理ができます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Edit Task"
+msgstr "タスクを編集します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "A description for this task that is displayed to the end user."
+msgstr "エンドユーザーに表示されるこのタスクの説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Tasks"
+msgstr "タスクの割当"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L20'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this task"
+msgstr "このタスクに割り当てられているタスク"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L11'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows minimal access to the Task and Role Management System"
+msgstr "タスクとロール管理システムに対する最小限のアクセスを許可します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L14'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Task Management System"
+msgstr "タスク管理システムへの編集アクセスを許可します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L17'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Role Management System"
+msgstr "ロール管理システムへの編集アクセスを許可します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L20'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows complete access to the Task and Role Management System"
+msgstr "タスクとロール管理システムへのフルアクセスを許可します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L41'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Administer Tasks and Roles"
+msgstr "タスクとロールを管理します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L23'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user"
+msgstr "エンドユーザーに表示されるこのロールの表示名"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"role in pages and templates."
+msgstr ""
+"\"-\"、\".\"、\"_\" を含む文字と数字から成るショートネームは、ページとテンプ"
+"レート上のロールを参照するために使用します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L21'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid ""
+"The roles that have all the rights of this role. The admin role will have "
+"automatically have access to this role"
+msgstr ""
+"このロールすべての権限を持つロール。管理者ロールは自動的このロールへのアクセ"
+"ス可になります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"task in pages and templates."
+msgstr ""
+"\"-\"、\".\"、\"_\" を含む文字と数字から成るショートネームは、ページとテンプ"
+"レート上のタスクを参照するために使用します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L13'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A role is used when creating a user. You will assign a role to a user. There "
+"is a special role 'admin' this is the Adminstator role. You may also "
+"designate which roles have the same all of the rights of a specified role."
+msgstr ""
+"ユーザー作成時に使用するロールです。ロールをユーザーに割り当てます。特殊ロー"
+"ル'admin'は管理者ロールになります。仕様ロールすべてと同等の権限の指定もできま"
+"す。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L18'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A task is a specific action that is performed by the system. You may assign "
+"a collection of tasks to a role. You may also create a new task by grouping "
+"tasks together"
+msgstr ""
+"タスクとは、システムによって実行される特定のアクションです。一連のタスクを"
+"ロールに割り当てることができます。タスクをグループ化して、新しいタスクを作成"
+"することも可能です。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L39'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Home page"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L40'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Default home page for this role"
+msgstr ""

@@ -1,0 +1,438 @@
+# French (Mali) translation for ihris-common
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the ihris-common package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2011-04-14 12:27+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: French (Mali) <fr_ML@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:14+0000\n"
+"X-Generator: Launchpad (build 16869)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html#L4'>modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L3'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_category.html#L4'>modules/TrainingCourse/templates/en_US/view_list_training_course_category.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html#L3'>modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L3'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html#L3'>modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_status.html#L4'>modules/TrainingCourse/templates/en_US/view_list_training_course_status.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Éditer cette information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L11'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Correct this Information"
+msgstr "Corriger cette information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L19'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Course Competency Evaluations"
+msgstr "Évaluations des compétences du cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/form_schedule_training_course.html#L19'>modules/TrainingCourse/templates/en_US/form_schedule_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L38'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Course"
+msgstr "Cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L42'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Course Name"
+msgstr "Nom du cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html#L6'>modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L5'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_category.html#L6'>modules/TrainingCourse/templates/en_US/view_list_training_course_category.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html#L6'>modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html#L5'>modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_status.html#L6'>modules/TrainingCourse/templates/en_US/view_list_training_course_status.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Mettre à jour cette information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html#L17'>modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Scheduled Course"
+msgstr "Cours programmé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html#L31'>modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/form_schedule_training_course.html#L6'>modules/TrainingCourse/templates/en_US/form_schedule_training_course.html</a>
+#, no-c-format
+msgid "Enrolled Students"
+msgstr "Étudiants inscrits"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L6'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#, no-c-format
+msgid "Select another Course"
+msgstr "Sélectionner un autre cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L142'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L278'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L13'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#, no-c-format
+msgid "Training Course"
+msgstr "Cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L39'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#, no-c-format
+msgid "Scheduled Courses"
+msgstr "Cours programmés"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L42'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#, no-c-format
+msgid "Hide"
+msgstr "Masquer"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course.html#L45'>modules/TrainingCourse/templates/en_US/view_list_training_course.html</a>
+#, no-c-format
+msgid "Schedule a Course"
+msgstr "Programmé un Cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/form_schedule_training_course.html#L2'>modules/TrainingCourse/templates/en_US/form_schedule_training_course.html</a>
+#, no-c-format
+msgid "Add/Update a Scheduled Training Course"
+msgstr "Ajouter/Mettre à jour un cours de formation programmé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_category.html#L7'>modules/TrainingCourse/templates/en_US/view_list_training_course_category.html</a>
+#, no-c-format
+msgid "Select another Training Course Category"
+msgstr "Sélectionner une autre catégorie de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L137'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_category.html#L14'>modules/TrainingCourse/templates/en_US/view_list_training_course_category.html</a>
+#, no-c-format
+msgid "Training Course Category"
+msgstr "Catégorie de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_status.html#L7'>modules/TrainingCourse/templates/en_US/view_list_training_course_status.html</a>
+#, no-c-format
+msgid "Select another Training Course Status"
+msgstr "Sélectionner une autre situation de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L132'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_status.html#L14'>modules/TrainingCourse/templates/en_US/view_list_training_course_status.html</a>
+#, no-c-format
+msgid "Training Course Status"
+msgstr "Situation de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html#L7'>modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html</a>
+#, no-c-format
+msgid "Select another Training Course Requestor"
+msgstr "Sélectionner un autre demandeur de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html#L14'>modules/TrainingCourse/templates/en_US/view_list_training_course_requestor.html</a>
+#, no-c-format
+msgid "Training Course Requestor"
+msgstr "Demandeur de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html#L6'>modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html</a>
+#, no-c-format
+msgid "Select another Training Course Evaluation"
+msgstr "Sélectionner une autre évaluation de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L162'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html#L13'>modules/TrainingCourse/templates/en_US/view_list_training_course_evaluation.html</a>
+#, no-c-format
+msgid "Training Course Evaluation"
+msgstr "Evaluation de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/form_person_schedule_training_course.html#L2'>modules/TrainingCourse/templates/en_US/form_person_schedule_training_course.html</a>
+#, no-c-format
+msgid "Schedule a Person for a Training Course"
+msgstr "Programmer une personne pour un cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/form_person_schedule_training_course.html#L11'>modules/TrainingCourse/templates/en_US/form_person_schedule_training_course.html</a>
+#, no-c-format
+msgid "Add/Update Training Course Scheduling"
+msgstr "Ajouter/Mettre à jour une programmation d’un cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html#L9'>modules/TrainingCourse/templates/en_US/view_list_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Select Another Course"
+msgstr "Sélectionner un autre cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L19'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Open"
+msgstr "Ouvert"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L26'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Closed"
+msgstr "Fermé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L35'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Pass"
+msgstr "Réussi"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L42'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Fail"
+msgstr "Échoue"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L49'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Incomplete"
+msgstr "Incomplet"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L56'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Not Evaluated"
+msgstr "Non évalué"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L65'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Training Manager"
+msgstr "Gestionnaire de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L71'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L77'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the training course status list"
+msgstr "Editer la liste de la situation du cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L74'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L80'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View the training course status list"
+msgstr "Afficher la liste du situation du cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L83'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the training course evaluation list"
+msgstr "Editer la liste des évaluations du cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L86'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View the training course evaluation list"
+msgstr "Afficher la liste des évaluations du cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L89'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the training course category list"
+msgstr "Editer la liste des catégories de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L92'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "view the training course category list"
+msgstr "Afficher la liste des catégories de cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L95'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the training course list"
+msgstr "Editer la liste des cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L98'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the scheduled training course category list"
+msgstr "Editer la liste des catégories de cours de formation programmés"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L107'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View the training course list"
+msgstr "Afficher la liste des cours de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L110'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit a scheduled training course"
+msgstr "Editer un cours de formation programmé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L113'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View the scheduled training course category list"
+msgstr "Afficher la liste des catégories de cours de formation programmés"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L116'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit some lists assoicated with the training module"
+msgstr "Editer certaines listes associées au module de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L119'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View some lists assoicated with the training module"
+msgstr "Afficher certaines listes associées au module de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L122'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit all lists assoicated with the training module"
+msgstr "Editer toutes les listes associées au module de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L125'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "View all lists assoicated with the training module"
+msgstr "Afficher toutes les listes associées au module de formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L146'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "This form holds basic information about a training course"
+msgstr ""
+"Ce formulaire contient des informations de base concernant un cours de "
+"formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L152'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Scheduled Training Course"
+msgstr "Cours de formation programmé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L157'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Person Scheduled Training Course"
+msgstr "Cours de formation programmé de la personne"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L167'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Training Requestor"
+msgstr "Demandeur de cours"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L324'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Add/Update Person's Scheduled Training Course"
+msgstr "Ajouter/AMettre à jour un cours de formation d’une personne"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L176'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Name"
+msgstr "Nom"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L181'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Competency Evaluation"
+msgstr "Évaluation de compétence"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L190'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Topic"
+msgstr "Sujet"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L195'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L249'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L293'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Notes"
+msgstr "Commentaires"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L200'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Training Institution"
+msgstr "Établissement de Formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L205'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Training Funders"
+msgstr "Bailleurs de fonds de la formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L210'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "CEUs Provided"
+msgstr "CEUs fournis"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L215'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Status"
+msgstr "Situation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L220'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Category"
+msgstr "Catégorie"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L229'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Retraining"
+msgstr "Recyclage"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L234'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Completed"
+msgstr "Achevé"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L244'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Request Date"
+msgstr "Date de la demande"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L254'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Evaluation"
+msgstr "Évaluation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L259'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Requested By"
+msgstr "Demandé par"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L264'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Instance"
+msgstr "Exemple"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L283'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Site"
+msgstr "Site"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L288'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Maximum Number of Students"
+msgstr "Nombre maximal d’étudiants"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L298'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Instructors"
+msgstr "Professeurs"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L303'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Start Date"
+msgstr "Date de début"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L308'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "End Date"
+msgstr "Date de Fin"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L313'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Location"
+msgstr "Lieu"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L101'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L104'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Edit the training course requestor list"
+msgstr "Éditer la liste des demandeurs de la formation"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L272'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "%s on %s"
+msgstr "%s sur %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L239'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "Duty Commencement"
+msgstr "Commencement du devoir"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_training_course_exam.html#L5'>modules/TrainingCourse/templates/en_US/view_training_course_exam.html</a>
+#, no-c-format
+msgid "Exam Result"
+msgstr "Résultat d'examen"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html#L28'>modules/TrainingCourse/templates/en_US/view_person_scheduled_training_course.html</a>
+#, no-c-format
+msgid "Record An Exam Result"
+msgstr "Enregistrer le résultat d'un examen"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/TrainingCourse/configs/en_US/TrainingCourse.xml#L11'>modules/TrainingCourse/configs/en_US/TrainingCourse.xml</a>
+#, no-c-format
+msgid "The end date must be after the start date."
+msgstr ""

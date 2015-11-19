@@ -1,0 +1,276 @@
+# Sinhalese translation for ihris-manage
+# Copyright (c) 2013 Rosetta Contributors and Canonical Ltd 2013
+# This file is distributed under the same license as the ihris-manage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2013.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-manage\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2013-05-30 13:13+0000\n"
+"Last-Translator: Dasitha Wijesundara <www.dmw07@gmail.com>\n"
+"Language-Team: Sinhalese <si@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:22+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L13'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L23'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Mass Delete By Facility"
+msgstr "පහසුකමක් පාසා රාශියක් මැකීම"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L16'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Mark Facility for Deletion"
+msgstr "මැකීම සඳහා පහසුකම් සලකුණු කරන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L30'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L66'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L122'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Facility Positions"
+msgstr "පහසුකම් තනතුරු"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L33'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "List of all facilities and current positions."
+msgstr "සියලු පහසුකම් සහ දැනට පවතින තනතුරු ලැයිස්තුව."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L38'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "1 if the position is filled, 0 if not."
+msgstr "තනතුර පිරවී ඇත්නම් 1 ද, නැත්නම් 0 වේ."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L45'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Positions in this facility."
+msgstr "මෙම පහසුකම තුළ පවතින තනතුරු"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L48'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Position"
+msgstr "තනතුර"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L53'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "The current person position linked to this position."
+msgstr "වත්මන් පුද්ගල තනතුර මෙම තනතුර හා සම්බන්ධිතය."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L56'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Person Position"
+msgstr "පුද්ගල තනතුර"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L69'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "List of all facilities with counts of positions."
+msgstr "තනතුරු සංඛ්‍යාව සමඟ සියලු පහසුකම් ලැයිස්තුව."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L79'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L84'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Office/Facility Location"
+msgstr "කාර්යාල/පහසුකම පිහිටි ස්ථානය"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L89'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Office/Facility"
+msgstr "කාර්යාල/පහසුකම"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L96'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L101'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr "පහසුකම් මාදිලිය"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L110'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "Total Positions"
+msgstr "තනතුරු එකතුව"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml#L119'>modules/MassDeleteFacility/configs/en_US/MassDeleteFacility.xml</a>
+#, no-c-format
+msgid "List of all facilities with position counts."
+msgstr "තනතුරු සංඛ්‍යාව සමඟ සියලු පහසුකම් ලැයිස්තුව"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_cache_success.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_cache_success.html</a>
+#, no-c-format
+msgid ""
+"The form caches have been erased, but you will need to regenerate any "
+"reports to reflect the deleted data."
+msgstr ""
+"ආකෘති පත්‍ර හැඹිලිය මකා දමා ඇත, නමුත් ඔබට මකාදමන ලද දත්ත යළි ගැනීමට ඕනෑම "
+"වාර්තාවක් ප්‍රතිජනනය කිරීමට සිදුවේ."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html</a>
+#, no-c-format
+msgid "Deletion Succeeded"
+msgstr "මකා දැමීම සාර්ථකයි"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html#L5'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html</a>
+#, no-c-format
+msgid "Your delete request has been completed."
+msgstr "ඔබේ මකා දැමීමේ අයදුම සම්පූර්ණ කරන ලදී."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html#L6'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_success.html</a>
+#, no-c-format
+msgid "records have been deleted."
+msgstr "වාර්තා මකා දමන ලදී."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_yes.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_yes.html</a>
+#, no-c-format
+msgid ""
+"Invalid input was entered in the yes box. Please type 'yes' to confirm this "
+"deletion."
+msgstr ""
+"වලංගු නැති ආදානයක් ඔව් කොටුවේ ඇතුළත් කර ඇත. කරුණාකර මෙම මකා දැමීම තහවුරු "
+"කිරීමට 'ඔව්' යනුවෙන් ලියන්න."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_action.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_action.html</a>
+#, no-c-format
+msgid "Mass Delete Records by Facility"
+msgstr "පහසුකමක් පාස වාර්තා රාශී ලෙස මකා දැමීම"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_confirm_message.html#L3'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_confirm_message.html</a>
+#, no-c-format
+msgid ""
+"Please confirm by checking each facility you wish to delete and click "
+"'Continue.'"
+msgstr ""
+"කරුණාකර ඔබ මකා දැමීමට බලාපොරොත්තු වන සෑමපහසුකමක්ම පරීක්ෂා කර බලා "
+"'Continue'ක්ලික් කරන්න."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html#L3'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html#L10'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html</a>
+#, no-c-format
+msgid "WARNING"
+msgstr "අනතුරු හැඟවීමයි !!"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html</a>
+#, no-c-format
+msgid ""
+"This will delete all position records for the given facility as well as all "
+"person records that are currently assigned to those positions. This data can "
+"not be automatically recovered and you must be sure to back up your data "
+"before doing this."
+msgstr ""
+"මෙය සියලුම තනතුරු ලේඛන සඳහා දෙන ලද පහසුකම් මෙන්ම එම තනතුරු වලට අදාල පුද්ගල "
+"ලේඛන මකාදමනු ලබයි. මෙම දත්ත නැවත ස්වයංක්‍රීයව ලබාගත නොහැකි අතර මෙය සිදු "
+"කිරීමට පෙර දත්ත උපස්ථ කරගන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html#L5'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_form.html</a>
+#, no-c-format
+msgid "Facility List"
+msgstr "පහසුකම් ලැයිස්තුව"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html</a>
+#, no-c-format
+msgid "No facilities were selected."
+msgstr "පහසුකමක් තෝරාගෙන නැත."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html</a>
+#, no-c-format
+msgid "Go back"
+msgstr "ආපසු යන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_empty.html</a>
+#, no-c-format
+msgid "and select some facilities to delete."
+msgstr "සහ මකාදැමීමට පහසුකම් තෝරන්න."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_delete_count.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_delete_count.html</a>
+#, no-c-format
+msgid "records will be deleted from the following facilities"
+msgstr "පහත පහසුකම් වලින් වාර්තා මකා දමනු ඇත"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_cache_fail.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_cache_fail.html</a>
+#, no-c-format
+msgid ""
+"An error occurred trying to drop the form caches. You will need to do this "
+"manually and then regenerate the reports."
+msgstr ""
+"පෝරම හැඹිලිය හෙළීමට යාමේදී දෝෂයක් ඇතිවිය. මෙය හස්තීමය ආකාරයට කර නැවත වාර්තා "
+"ලබා ගන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_invalid.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_invalid.html</a>
+#, no-c-format
+msgid ""
+"There is an invalid storage method for the position or person position "
+"forms. Both must use entry form storage to use this page."
+msgstr ""
+"තනතුරු හෝ පුද්ගල තනතුරු පෝරම සඳහා මෙය අවලංගු ආචන විධියකි. මෙම පිටුව භාවිතා "
+"කිරීමට  ඇතුලත් කිරීමේ පෝරම ආචන දෙකම තිබිය යුතුය"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_password.html#L3'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_password.html</a>
+#, no-c-format
+msgid "You entered an incorrect admin password."
+msgstr "ඔබ වැරදි පරිපාලක මුරපදයක් ඇතුළත් කර ඇත."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html#L3'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html</a>
+#, no-c-format
+msgid "Please type 'yes' to confirm this deletion."
+msgstr "කරුණාකර මෙම මකා දැමීම තහවුරු කිරීමට 'yes' යනුවෙන් ලියන්න."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html</a>
+#, no-c-format
+msgid "You cannot undo this"
+msgstr "ඔබට මෙය ආපසු හැරවිය නොහැක"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html#L8'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html</a>
+#, no-c-format
+msgid "Enter the Site Administration (Super User) password to continue"
+msgstr ""
+"නොකඩවාම කරගෙන යාමට අඩවි පරිපාලක (සුපිරි පරිශීලක) මුරපදය ඇතුළත් කරන්න."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html#L11'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_authenticate_form.html</a>
+#, no-c-format
+msgid ""
+"This is the final step. When you click continue these records will be "
+"deleted!"
+msgstr ""
+"මේ අවසාන පියවරයි. ඔබ continue ක්ලික් කළ විට මෙම වාර්තා මකා දැමෙනු ඇත !"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_notfound.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_notfound.html</a>
+#, no-c-format
+msgid ""
+"No positions records were found for these facilities so there is nothing to "
+"delete."
+msgstr ""
+"මෙම පහසුකම් වලට අදාල තනතුරු ලේඛන සොයාගත නොහැකි විය. එම නිසා මැකීමට කිසිවක් "
+"නොමැත"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html#L2'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html</a>
+#, no-c-format
+msgid "Delete All Records by Facility"
+msgstr "පහසුකම් අනුව සියලුම ලේඛන මකන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html#L5'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html</a>
+#, no-c-format
+msgid ""
+"This will delete all positions and person records assigned to those "
+"positions from the database. This can only be recovered from backups "
+"manually, so make sure your backups are up to date before performing this "
+"action!"
+msgstr ""
+"මෙය දත්ත සමුදාය තුළින් සියලුම තනතුරු සහ එම තනතුරු වලට අදාල සියලුම පුද්ගල "
+"ලේඛන මකනු ලබයි. මෙය නැවත ලබා ගත හැක්කේ හස්තීමය උපස්ථක තුළින් පමණි, එම නිසා "
+"මෙම ක්‍රියාවට පෙර උපස්ථක යාවත්කාලීන බව සහතික කරගන්න"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html#L7'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility.html</a>
+#, no-c-format
+msgid "Selected Facilities"
+msgstr "තෝරාගත් පහසුකම්"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_unknown.html#L4'>modules/MassDeleteFacility/templates/en_US/mass_delete_by_facility_error_unknown.html</a>
+#, no-c-format
+msgid ""
+"An unknown error has occurred. Please contact your system administrator to "
+"resolve this issue."
+msgstr ""
+"හඳුනා නොගත් දෝෂයක් සිදු වී ඇත. මෙම ගැටළුව විසඳා ගැනීමට පද්ධති පරිපාලක "
+"සම්බන්ධ කරගන්න"

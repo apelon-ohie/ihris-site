@@ -1,0 +1,149 @@
+# Translation of iHRIS Manage - Accident to Occitan (occitan)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Accident\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:16:45+0000\n"
+"Last-Translator: Cédric VALMARY (Tot en òc) <cvalmary@yahoo.fr>\n"
+"Language-Team: Occitan <https://translatewiki.net/wiki/Portal:oc>\n"
+"Language: oc\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: oc\n"
+"X-Message-Group: #out-ihris-manage-acci\n"
+"X-POT-Import-Date: 2013-10-07 17:24:44+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L16'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Can edit the workplace injuries and accidents assigned to a person"
+msgstr ""
+"Pòt editar las nafraduras e accidents sul luòc de trabalh atribuits a una "
+"persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L19'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Can view the wokrplace injuries and accidents assigned to a person"
+msgstr ""
+"Pòt afichar las nafraduras e accidents sul luòc de trabalh atribuits a una "
+"persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L22'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Edit the workplace accident type list"
+msgstr "Editar la lista dels tipes d’accidents sul luòc de trabalh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L32'>modules/Accident/configs/en_US/Accident.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_accident.html#L21'>modules/Accident/templates/en_US/view_accident.html</a>
+#, no-c-format
+msgid "Accident"
+msgstr "Accident"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L37'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Workplace Accident Type"
+msgstr "Tipe d’accident sul luòc de trabalh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L46'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Date of Occurence"
+msgstr "Data de l'eveniment"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L51'>modules/Accident/configs/en_US/Accident.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_list_accident_type.html#L14'>modules/Accident/templates/en_US/view_list_accident_type.html</a>
+#, no-c-format
+msgid "Accident Type"
+msgstr "Tipe d’accident"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L56'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Start of Applicability"
+msgstr "Començament d’aplicabilitat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L61'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "End of Applicability"
+msgstr "Fin d’aplicabilitat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L66'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Follow-up Required"
+msgstr "Seguiment requesit"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L71'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "People Involved"
+msgstr "Personas implicadas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L82'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "Add/Update Workplace Accident"
+msgstr "Apondre/Actualizar un accident sul luòc de trabalh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_list_accident_type.html#L4'>modules/Accident/templates/en_US/view_list_accident_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_accident.html#L3'>modules/Accident/templates/en_US/view_accident.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Modificar aquesta informacion"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_list_accident_type.html#L6'>modules/Accident/templates/en_US/view_list_accident_type.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Metre a jorn aquesta informacion"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_list_accident_type.html#L7'>modules/Accident/templates/en_US/view_list_accident_type.html</a>
+#, no-c-format
+msgid "Select another Accident Type"
+msgstr "Seleccionatz un autre tipe d'accident."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/form_accident.html#L3'>modules/Accident/templates/en_US/form_accident.html</a>
+#, no-c-format
+msgid "Workplace Accident Information"
+msgstr "Informacions sus l'accident dins l'espaci de trabalh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/templates/en_US/view_accident.html#L12'>modules/Accident/templates/en_US/view_accident.html</a>
+#, no-c-format
+msgid "Correct this Information"
+msgstr "Modificar aquesta informacion"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L25'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "View the workplace accident type list"
+msgstr "Afichar la lista dels tipes d'accident de trabalh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Accident/configs/en_US/Accident.xml#L11'>modules/Accident/configs/en_US/Accident.xml</a>
+#, no-c-format
+msgid "The end date must be after the start date."
+msgstr "La data de fin deu èsser posteriora a la data de començament."

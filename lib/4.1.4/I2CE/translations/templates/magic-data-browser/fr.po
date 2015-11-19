@@ -1,0 +1,275 @@
+# Translation of iHRIS I2CE - Magic Data Browser to French (français)
+# Exported from translatewiki.net
+#
+# Author: Crochet.david
+# Author: Gomoko
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Magic Data Browser\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:15:14+0000\n"
+"Last-Translator: Kayode Odusote <odusote.kayode@gmail.com>\n"
+"Language-Team: French <https://translatewiki.net/wiki/Portal:fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: fr\n"
+"X-Message-Group: #out-ihris-i2ce-mdb\n"
+"X-POT-Import-Date: 2013-10-07 17:24:03+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L2'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset_mini.html#L2'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset_mini.html</a>
+#, no-c-format
+msgid "Not set"
+msgstr "Non défini"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_node.html#L3'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_node_mini.html#L3'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_node_mini.html</a>
+#, no-c-format
+msgid "> Array"
+msgstr "> Rangée"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L3'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Magic Data Path"
+msgstr "Cheminage du Magic Data"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L7'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Expanded View"
+msgstr "Affichage étendu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L8'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Compressed View"
+msgstr "Affichage compressé"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L9'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Mini View"
+msgstr "Mini-affichage"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L10'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Full View"
+msgstr "Affichage complet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/configs/en_US/MagicDataBrowser.xml#L20'>modules/Pages/modules/MagicDataBrowser/configs/en_US/MagicDataBrowser.xml</a>
+#, no-c-format
+msgid "MagicData Browser"
+msgstr "Navigateur du Magic Data"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L8'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Export Options"
+msgstr "Options d’exportation"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L11'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Module Name"
+msgstr "Nom de module"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L15'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "A module name for the exported data (required)."
+msgstr "Un nom de module pour les données exportées (requis)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L18'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Displayed Name"
+msgstr "Nom affiché"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L22'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "A displayed name for the exported data (required)."
+msgstr "Un nom affiché pour les données exportées (obligé)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L25'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Version"
+msgstr "Version"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L29'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "A version number for the data (required)"
+msgstr "Un numéro de version pour les données (requis)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L32'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Description"
+msgstr "Description"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L36'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "A brief description of the exported data (optional)"
+msgstr "Une brève description des données exportées (facultatif)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L41'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Close"
+msgstr "Fermer"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html#L5'>modules/Pages/modules/MagicDataBrowser/templates/en_US/magicdata_export_controls.html</a>
+#, no-c-format
+msgid "Export"
+msgstr "Exporter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/configs/en_US/MagicDataBrowser.xml#L13'>modules/Pages/modules/MagicDataBrowser/configs/en_US/MagicDataBrowser.xml</a>
+#, no-c-format
+msgid "MagicData Upload"
+msgstr "Télécharger MagicData"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L17'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L9'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L17'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Import"
+msgstr "Importer"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L21'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L13'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L21'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Set From File"
+msgstr "Fixer depuis le fichier"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L31'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L23'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L32'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L42'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L59'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L15'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L24'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L41'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L23'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L33'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L50'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Input File"
+msgstr "Fichier d'entrée"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L40'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L22'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L31'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Load From Spreadsheet"
+msgstr "Charger depuis la feuille de calcul"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L33'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L44'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L61'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L26'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L43'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L35'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L52'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Input URL"
+msgstr "URL d'entrée"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L46'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L63'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L28'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L45'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L37'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L54'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Transform File"
+msgstr "Transformer le fichier"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L48'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L65'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L30'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L47'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L39'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L56'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Registered Transform"
+msgstr "Transformation enregistrée"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L51'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L68'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L33'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L50'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L42'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L59'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Erase on Load"
+msgstr "Écraser au chargement"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L57'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L39'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L48'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Load From XML"
+msgstr "Charger depuis le XML"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html#L29'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser.html</a>
+#, no-c-format
+msgid "Load Magic Data From Module"
+msgstr "Charger les données magiques du module"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node_mini.html#L3'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node_mini.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L3'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#, no-c-format
+msgid "Download Binary File"
+msgstr "Télécharger le fichier binaire"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L30'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#, no-c-format
+msgid "Load Binary File"
+msgstr "Charger le fichier binaire"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L48'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html#L65'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node_notset.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L30'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html#L47'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_binary_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L39'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html#L56'>modules/Pages/modules/MagicDataBrowser/templates/en_US/browser_value_node.html</a>
+#, no-c-format
+msgid "Select A Registered Transformation"
+msgstr "Sélectionner une transformation enregistrée"

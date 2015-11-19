@@ -1,0 +1,164 @@
+# Translation of iHRIS I2CE - Locale Selector to Czech (čeština)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Locale Selector\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-04 11:36+0300\n"
+"PO-Revision-Date: 2014-01-06 11:14:52+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <https://translatewiki.net/wiki/Portal:cs>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: cs\n"
+"X-Message-Group: #out-ihris-i2ce-lse\n"
+"X-POT-Import-Date: 2013-10-07 17:23:51+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : "
+"2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_add.html#L3'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_add.html</a>
+#, no-c-format
+msgid "Add New Locale"
+msgstr "Přidat Nový Jazyk"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L27'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L29'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Add A New Locale"
+msgstr "Přidat Nový Jazyk"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L22'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L35'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Close"
+msgstr "Zavřít"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_view.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_view.html</a>
+#, no-c-format
+msgid "Locale Resolution"
+msgstr "Rozlišení Jazyka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L10'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid "The default resolution is"
+msgstr "Výchozí rozlišení je"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid ""
+"Here you may select the locales that you wish to make available for users to "
+"select for your site. The default fallback locale for the site is"
+msgstr ""
+"Zde můžete vybrat jazyky, které si přejete, aby byly uživatelům na Vaši "
+"stránce k dispozici k výběru. Výchozí návratový jazyk na této stránce je"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base.html</a>
+#, no-c-format
+msgid ""
+"These are the locales that are available for users to select for your site. "
+"The default fallback locale for the site is"
+msgstr ""
+"Toto jsou jazyky, které jsou dostupné pro výběr uživateli na Vaši stránce. "
+"Výchozí návratový jazyk pro tuto stránku je"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L6'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid "The list of locales to looking for translations of the locale"
+msgstr "Seznam jazyků, pro které vyhledávat překlady"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L7'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+". If not set, then the selected locale is checked, then its underlying "
+"language, and then"
+msgstr ""
+". Pokud není nastaveno, pak je zkontrolován vybraný jazyk, pak jeho základní "
+"a pak"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L12'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L14'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select Available Locale"
+msgstr "Vybrat dostupnou lokalizaci"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L16'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Available Locales"
+msgstr "Dostupné lokalizace"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L18'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select a locale for your system"
+msgstr "Vyberte jazyk pro Váš systém"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L19'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select Locale"
+msgstr "Vybrat lokalizaci"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L31'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Custom Locale"
+msgstr "Upravená lokalizace"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L33'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "You may enter a custom locale to be made available to your system."
+msgstr "Je možné zadat vlastní jazyk, který bude pro Váš systém dostupný."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L15'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"If you wish to specify an alternate locale resolution you may do so by "
+"entering them as a comma separated list from highest priority to lowest "
+"priority."
+msgstr ""
+"Pokud chcete zadat jiné rozlišení jazyka, můžete tak provést jejich zadáním "
+"jako čárkou odděleného seznamu od nejvyšší priority po nejnižší."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L15'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"For example fr-RW,fr-FR,%s may be an appropriate resolution for the locale "
+"fr-RW."
+msgstr "Například fr-RW,fr-FR,%s může být vhodné rozlišení pro jazyk fr-RW."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L16'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"If %s is not specified in the list, it is automatically set as the lowest "
+"priority locale."
+msgstr ""
+"Pokud %s není v seznamu uvedeno, pak je automaticky nastaveno na jazyk s "
+"nejnižší prioritou."

@@ -1,0 +1,168 @@
+# Translation Template of I2CE module (CustomReports_Export Version 4.1.5.0)
+# Copyright (C) 2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: I2CE@CustomReports_Export 4.1.5.0\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"Last-Translator: Intrahealth <hris@capacityproject.org>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L6'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Export Options"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L8'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "File Type"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L13'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Tab Delimited"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L14'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "HTML"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L15'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "XML"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L31'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L34'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Close"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html#L3'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html</a>
+#, no-c-format
+msgid "The transform"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html#L15'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html</a>
+#, no-c-format
+msgid "Upload"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L4'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#, no-c-format
+msgid "Existing XSL Transforms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L8'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#, no-c-format
+msgid "Add a new XSLT"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L10'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#, no-c-format
+msgid "Add A New XSLT"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L14'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#, no-c-format
+msgid "Name"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L15'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#, no-c-format
+msgid "A short name describing this transform which consists only of numbers and letters"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L21'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Compression Options"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L24'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "no compression"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L27'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "zip file"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_exporteditor.html#L2'>modules/CustomReports/modules/Export/templates/en_US/swiss_exporteditor.html</a>
+#, no-c-format
+msgid "Options for Export Display"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_exporteditor.html#L5'>modules/CustomReports/modules/Export/templates/en_US/swiss_exporteditor.html</a>
+#, no-c-format
+msgid "XSL Transforms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L25'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "gzip"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L26'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "bzip2"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L3'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L33'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Export"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts_each.html#L3'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts_each.html</a>
+#, no-c-format
+msgid "Edit"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts_each.html#L5'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts_each.html</a>
+#, no-c-format
+msgid "Delete"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L3'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Select export options and export this report into another format"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L33'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Export this report"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L11'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Comma Separated Values"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html#L22'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslts.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html#L5'>modules/CustomReports/modules/Export/templates/en_US/swiss_xslt.html</a>
+#, no-c-format
+msgid "Definition"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L12'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "CSV for Excel"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L16'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "JSON"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html#L17'>modules/CustomReports/modules/Export/templates/en_US/customReports_display_control_Export.html</a>
+#, no-c-format
+msgid "Raw JSON (no lookups)"
+msgstr ""
+

@@ -1,0 +1,803 @@
+# Translation of iHRIS Common - SDMX-HD Code Lists to Czech (čeština)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - SDMX-HD Code Lists\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2014-01-06 11:11:11+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <https://translatewiki.net/wiki/Portal:cs>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:16+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: cs\n"
+"X-Message-Group: #out-ihris-common-shcl\n"
+"X-POT-Import-Date: 2013-10-07 17:21:46+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : "
+"2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L11'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_asource"
+msgstr "Může zobrazit kódový seznam databáze cl_asource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L14'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_cstype"
+msgstr "Může zobrazit kódový seznam databáze cl_cstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L17'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_currency"
+msgstr "Může zobrazit kódový seznam databáze cl_currency"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L20'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_day"
+msgstr "Může zobrazit kódový seznam databáze cl_day"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L23'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disagg"
+msgstr "Může zobrazit kódový seznam databáze cl_disagg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L26'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disease"
+msgstr "Může zobrazit kódový seznam databáze cl_disease"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L29'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disstat"
+msgstr "Může zobrazit kódový seznam databáze cl_disstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L32'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dsource"
+msgstr "Může zobrazit kódový seznam databáze cl_dsource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L35'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dstype"
+msgstr "Může zobrazit kódový seznam databáze cl_dstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L38'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dtype"
+msgstr "Může zobrazit kódový seznam databáze cl_dtype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L41'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_fperiod"
+msgstr "Může zobrazit kódový seznam databáze cl_fperiod"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L44'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gboundary_type"
+msgstr "Může zobrazit kódový seznam databáze cl_gboundary_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L47'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gcode_country"
+msgstr "Může zobrazit kódový seznam databáze cl_gcode_country"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L50'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gender"
+msgstr "Může zobrazit kódový seznam databáze cl_gender"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L53'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_glevel"
+msgstr "Může zobrazit kódový seznam databáze cl_glevel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L56'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_glocation"
+msgstr "Může zobrazit kódový seznam databáze cl_glocation"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L59'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_hif1"
+msgstr "Může zobrazit kódový seznam databáze cl_hif1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L62'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_hif2"
+msgstr "Může zobrazit kódový seznam databáze cl_hif2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L65'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_income"
+msgstr "Může zobrazit kódový seznam databáze cl_income"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L68'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_logical"
+msgstr "Může zobrazit kódový seznam databáze cl_logical"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L71'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_metype"
+msgstr "Může zobrazit kódový seznam databáze cl_metype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L74'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_month"
+msgstr "Může zobrazit kódový seznam databáze cl_month"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L77'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_mult"
+msgstr "Může zobrazit kódový seznam databáze cl_mult"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L80'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_operand"
+msgstr "Může zobrazit kódový seznam databáze cl_operand"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L83'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_orphan"
+msgstr "Může zobrazit kódový seznam databáze cl_orphan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L86'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_otype"
+msgstr "Může zobrazit kódový seznam databáze cl_otype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L89'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_periodicity"
+msgstr "Může zobrazit kódový seznam databáze cl_periodicity"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L92'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_preg"
+msgstr "Může zobrazit kódový seznam databáze cl_preg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L95'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_pstatus"
+msgstr "Může zobrazit kódový seznam databáze cl_pstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L98'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_ptype"
+msgstr "Může zobrazit kódový seznam databáze cl_ptype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L101'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_quarter"
+msgstr "Může zobrazit kódový seznam databáze cl_quarter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L104'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_race"
+msgstr "Může zobrazit kódový seznam databáze cl_race"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L107'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_sector"
+msgstr "Může zobrazit kódový seznam databáze cl_sector"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L110'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_sex"
+msgstr "Může zobrazit kódový seznam databáze cl_sex"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L113'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_special_value"
+msgstr "Může zobrazit kódový seznam databáze cl_special_value"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L116'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_stype"
+msgstr "Může zobrazit kódový seznam databáze cl_stype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L119'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_tpop"
+msgstr "Může zobrazit kódový seznam databáze cl_tpop"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L122'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_unit"
+msgstr "Může zobrazit kódový seznam databáze cl_unit"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L125'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_value_type"
+msgstr "Může zobrazit kódový seznam databáze cl_value_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L128'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_vstatus"
+msgstr "Může zobrazit kódový seznam databáze cl_vstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L131'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_vulnstat"
+msgstr "Může zobrazit kódový seznam databáze cl_vulnstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L134'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_week"
+msgstr "Může zobrazit kódový seznam databáze cl_week"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L137'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_year"
+msgstr "Může zobrazit kódový seznam databáze cl_year"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L140'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_asource"
+msgstr "Může upravit kódový seznam databáze cl_asource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L143'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_cstype"
+msgstr "Může upravit kódový seznam databáze cl_cstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L146'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_currency"
+msgstr "Může upravit kódový seznam databáze cl_currency"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L149'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_day"
+msgstr "Může upravit kódový seznam databáze cl_day"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L152'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disagg"
+msgstr "Může upravit kódový seznam databáze cl_disagg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L155'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disease"
+msgstr "Může upravit kódový seznam databáze cl_disease"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L158'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disstat"
+msgstr "Může upravit kódový seznam databáze cl_disstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L161'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dsource"
+msgstr "Může upravit kódový seznam databáze cl_dsource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L164'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dstype"
+msgstr "Může upravit kódový seznam databáze cl_dstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L167'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dtype"
+msgstr "Může upravit kódový seznam databáze cl_dtype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L170'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_fperiod"
+msgstr "Může upravit kódový seznam databáze cl_fperiod"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L173'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gboundary_type"
+msgstr "Může upravit kódový seznam databáze cl_gboundary_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L176'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gcode_country"
+msgstr "Může upravit kódový seznam databáze cl_gcode_country"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L179'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gender"
+msgstr "Může upravit kódový seznam databáze cl_gender"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L182'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_glevel"
+msgstr "Může upravit kódový seznam databáze cl_glevel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L185'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_glocation"
+msgstr "Může upravit kódový seznam databáze cl_glocation"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L188'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_hif1"
+msgstr "Může upravit kódový seznam databáze cl_hif1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L191'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_hif2"
+msgstr "Může upravit kódový seznam databáze cl_hif2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L194'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_income"
+msgstr "Může upravit kódový seznam databáze cl_income"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L197'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_logical"
+msgstr "Může upravit kódový seznam databáze cl_logical"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L200'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_metype"
+msgstr "Může upravit kódový seznam databáze cl_metype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L203'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_month"
+msgstr "Může upravit kódový seznam databáze cl_month"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L206'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_mult"
+msgstr "Může upravit kódový seznam databáze cl_mult"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L209'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_operand"
+msgstr "Může upravit kódový seznam databáze cl_operand"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L212'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_orphan"
+msgstr "Může upravit kódový seznam databáze cl_orphan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L215'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_otype"
+msgstr "Může upravit kódový seznam databáze cl_otype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L218'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_periodicity"
+msgstr "Může upravit kódový seznam databáze cl_periodicity"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L221'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_preg"
+msgstr "Může upravit kódový seznam databáze cl_preg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L224'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_pstatus"
+msgstr "Může upravit kódový seznam databáze cl_pstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L227'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_ptype"
+msgstr "Může upravit kódový seznam databáze cl_ptype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L230'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_quarter"
+msgstr "Může upravit kódový seznam databáze cl_quarter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L233'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_race"
+msgstr "Může upravit kódový seznam databáze cl_race"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L236'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_sector"
+msgstr "Může upravit kódový seznam databáze cl_sector"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L239'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_sex"
+msgstr "Může upravit kódový seznam databáze cl_sex"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L242'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_special_value"
+msgstr "Může upravit kódový seznam databáze cl_special_value"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L245'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_stype"
+msgstr "Může upravit kódový seznam databáze cl_stype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L248'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_tpop"
+msgstr "Může upravit kódový seznam databáze cl_tpop"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L251'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_unit"
+msgstr "Může upravit kódový seznam databáze cl_unit"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L254'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_value_type"
+msgstr "Může upravit kódový seznam databáze cl_value_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L257'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_vstatus"
+msgstr "Může upravit kódový seznam databáze cl_vstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L260'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_vulnstat"
+msgstr "Může upravit kódový seznam databáze cl_vulnstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L263'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_week"
+msgstr "Může upravit kódový seznam databáze cl_week"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L266'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_year"
+msgstr "Může upravit kódový seznam databáze cl_year"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L273'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Administrative Source"
+msgstr "Správní zdroje"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L278'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Calculation Syntax Type"
+msgstr "Typ syntaxu výpočtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L283'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Currency"
+msgstr "Měna"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L288'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Days"
+msgstr "Dní"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L293'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disaggregation"
+msgstr "Rozčlenění"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L298'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disease"
+msgstr "Nemoc"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L303'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disease Status"
+msgstr "Stav nemoci"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L308'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Data Source"
+msgstr "Zdroj dat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L313'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Data Source Type"
+msgstr "Typ zdroje dat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L318'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Datatype"
+msgstr "Datový typ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L323'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Followup Period"
+msgstr "Navazující období"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L328'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Boundary Type"
+msgstr "Typ hranice"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L333'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Country Code"
+msgstr "Kód země"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L338'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Gender"
+msgstr "Pohlaví"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L343'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Geographic Level"
+msgstr "Geografická úroveň"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L348'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Geographic Location"
+msgstr "Zeměpisná poloha"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L353'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Health Indicator Framework 1"
+msgstr "Rámec ukazatele zdraví 1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L358'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Health Indicator Framework 2"
+msgstr "Rámec ukazatele zdraví 2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L363'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Individual Income"
+msgstr "Jednotlivý příjem"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L368'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Logical: extended list for boolean values"
+msgstr "Logický: rozšířený seznam pro booleovské hodnoty"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L373'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Monitoring and Evaluation Framework"
+msgstr "Rámec sledování a vyhodnocení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L378'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Months"
+msgstr "Měsíců"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L383'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Multiplier"
+msgstr "Násobitel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L388'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Operand type of indicator"
+msgstr "Typ operandu indikátoru"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L393'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Orphan Type"
+msgstr "Typ osiření"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L398'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Organization Type"
+msgstr "Typ organizace"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L403'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Periodicity"
+msgstr "Periodicita"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L408'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Pregnancy Status"
+msgstr "Stav těhotenství"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L413'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Programme Status"
+msgstr "Stav programu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L418'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Programme Type"
+msgstr "Typ programu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L423'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Quarters"
+msgstr "Čtvrletí"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L428'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Race"
+msgstr "Rasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L433'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Sector"
+msgstr "Sektor"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L438'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Biologic Sex"
+msgstr "Biologické pohlaví"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L443'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Special Value"
+msgstr "Zvláštní hodnota"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L448'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Statistic Type"
+msgstr "Typ statistiky"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L453'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Target Population"
+msgstr "Cílová populace"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L458'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Unit"
+msgstr "Jednotka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L463'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Value Type"
+msgstr "Typ hodnoty"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L468'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Version Status"
+msgstr "Stav verze"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L473'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Vulnerability Status"
+msgstr "Stav zranitelnosti"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L478'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Weeks"
+msgstr "Týdnů"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L483'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Years"
+msgstr "Roků"

@@ -1,0 +1,61 @@
+# Translation of iHRIS I2CE - Pages to Hebrew (עברית)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Pages\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:15:27+0000\n"
+"Last-Translator: Yaron <sh.yaron@gmail.com>\n"
+"Language-Team: Hebrew <https://translatewiki.net/wiki/Portal:he>\n"
+"Language: he\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: he\n"
+"X-Message-Group: #out-ihris-i2ce-pages\n"
+"X-POT-Import-Date: 2013-10-07 17:24:09+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/configs/en_US/Page.xml#L36'>modules/Pages/configs/en_US/Page.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/templates/en_US/noaccess.html#L2'>modules/Pages/templates/en_US/noaccess.html</a>
+#, no-c-format
+msgid "Access Denied"
+msgstr "הגישה נדחיתה"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/configs/en_US/Page.xml#L13'>modules/Pages/configs/en_US/Page.xml</a>
+#, no-c-format
+msgid "Administrator"
+msgstr "מנהל"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/configs/en_US/Page.xml#L20'>modules/Pages/configs/en_US/Page.xml</a>
+#, no-c-format
+msgid "Any"
+msgstr "כלשהו"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/configs/en_US/Page.xml#L27'>modules/Pages/configs/en_US/Page.xml</a>
+#, no-c-format
+msgid "All"
+msgstr "הכול"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/templates/en_US/noaccess.html#L5'>modules/Pages/templates/en_US/noaccess.html</a>
+#, no-c-format
+msgid ""
+"You don't have permission to view this page. Please select another page from "
+"the menu."
+msgstr "אין לך הרשאות לצפייה בעמוד זה. אנא בחר בעמוד אחר מהתפריט."

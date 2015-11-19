@@ -1,0 +1,154 @@
+# Translation of iHRIS Common - Person ID to Italian (italiano)
+# Exported from translatewiki.net
+#
+# Author: Beta16
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Person ID\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2014-01-06 11:08:58+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Italian <https://translatewiki.net/wiki/Portal:it>\n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:15+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: it\n"
+"X-Message-Group: #out-ihris-common-pid\n"
+"X-POT-Import-Date: 2013-10-07 17:20:36+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/form_person_id.html#L3'>modules/Person/modules/ID/templates/en_US/form_person_id.html</a>
+#, no-c-format
+msgid "Identification Information"
+msgstr "Informazioni identità"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L4'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L3'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Modifica questa informazione"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L6'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L5'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Aggiorna questa informazione"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L7'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#, no-c-format
+msgid "Select another ID Type"
+msgstr "Seleziona altro tipo ID"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L14'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#, no-c-format
+msgid "ID Type"
+msgstr "Tipo ID"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L12'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Identification"
+msgstr "Identità"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L16'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can view person_id child form of a person"
+msgstr "Visualizza il sottomodulo dell'identificativo di una persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L19'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can edit person_id child forms of a person"
+msgstr "Visualizza il sottomodulo dell'identificativo di una persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L22'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can edit the id_type database list"
+msgstr "Modifica l'elenco delle tipologie di identificativo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L25'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can view the id_type database list"
+msgstr "Visualizza l'elenco delle tipologie di identificativo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L32'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Add/Update Identification"
+msgstr "Aggiungi/aggiorna identificativo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L40'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L59'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Identification Type"
+msgstr "Tipo di identificativo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L45'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Person Identification"
+msgstr "Identificativo della persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L49'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "This form holds basic information about an identification for a person"
+msgstr ""
+"Questo modulo contiene le informazioni base sull'identificativo di una "
+"persona"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L64'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Identification Number"
+msgstr "Numero d'identificazione"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L11'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "The date of expiration must be after the date of issue."
+msgstr "La data di scadenza deve essere successiva alla data di rilascio."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L69'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Date of Issue"
+msgstr "Data di rilascio"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L74'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Date of Expiration"
+msgstr "Data di scadenza"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L79'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Country of Issue"
+msgstr "Paese di emissione"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L84'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Place of Issue"
+msgstr "Luogo di emissione"

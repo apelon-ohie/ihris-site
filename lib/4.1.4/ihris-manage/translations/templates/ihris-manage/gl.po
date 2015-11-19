@@ -1,0 +1,1060 @@
+# Translation of iHRIS Manage - Manage to Galician (galego)
+# Exported from translatewiki.net
+#
+# Author: Toliño
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Manage\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:19:04+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: gl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:20+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:26:08+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L4'>templates/en_US/manage.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_manage.html#L2'>templates/en_US/menu_manage.html</a>
+#, no-c-format
+msgid "Add Person"
+msgstr "Engadir a persoa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L52'>templates/en_US/manage.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_manage.html#L6'>templates/en_US/menu_manage.html</a>
+#, no-c-format
+msgid "Review Applicants"
+msgstr "Revisar os candidatos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L94'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L3'>templates/en_US/index.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L5'>templates/en_US/shell.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L2'>templates/en_US/manage.html</a>
+#, no-c-format
+msgid "Manage People"
+msgstr "Administrar as persoas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L5'>templates/en_US/index.html</a>
+#, no-c-format
+msgid "Add a new employee"
+msgstr "Engadir un novo rexistro de empregado"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L5'>templates/en_US/index.html</a>
+#, no-c-format
+msgid "or applicant"
+msgstr "ou candidato"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L18'>templates/en_US/index.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L7'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Search Records"
+msgstr "Procurar rexistros"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L21'>templates/en_US/index.html</a>
+#, no-c-format
+msgid ""
+"Locate any employee or position record in the system to review, print or "
+"update."
+msgstr ""
+"Atope o rexistro de calquera empregado ou cargo no sistema que revisar, "
+"imprimir ou actualizar."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L29'>templates/en_US/index.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L8'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "View Reports"
+msgstr "Ver os informes"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L40'>templates/en_US/index.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L10'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Configure System"
+msgstr "Configurar o sistema"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L43'>templates/en_US/index.html</a>
+#, no-c-format
+msgid ""
+"Configure modules, administer positions, customize drop down menus and "
+"create or update user accounts."
+msgstr ""
+"Configure os módulos, administre os cargos, personalice os menús "
+"despregables e cree ou actualice as contas de usuario."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L61'>templates/en_US/index.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L11'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Change Password"
+msgstr "Cambiar o contrasinal"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L3'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "View Person"
+msgstr "Ollar a persoa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L8'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L2'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Individual Information"
+msgstr "Información individual"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L11'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L78'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L95'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L108'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L122'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L146'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L166'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L200'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L214'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L232'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L251'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L278'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L294'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L311'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L325'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L339'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L360'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Hide"
+msgstr "Agochar"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L12'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L13'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Set Position"
+msgstr "Establecer o cargo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L17'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Demographic Information"
+msgstr "Engadir a información demográfica"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L25'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Identification"
+msgstr "Engadir a identificación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L38'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Editar esta información"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L41'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Actualizar esta información"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L44'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "View Name History"
+msgstr "Ollar o historial do nome"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L52'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Name / Nationality"
+msgstr "Nome/Nacionalidade"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L75'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L4'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Contact Information"
+msgstr "Información de contacto"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L119'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L6'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Position Information"
+msgstr "Información sobre o cargo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L123'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Benefit/Special Payment"
+msgstr "Engadir o beneficio/pagamento especial"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L163'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L10'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Qualifications"
+msgstr "Cualificacións"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L168'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Registration"
+msgstr "Engadir o rexistro"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L171'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Language Proficiency"
+msgstr "Engadir o dominio da lingua"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L174'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Competency"
+msgstr "Engadir a competencia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L175'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Competency Evaluations"
+msgstr "Avaliacións das competencias"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L197'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L98'>templates/en_US/lists.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L8'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Training Courses"
+msgstr "Cursos de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L201'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Training Course"
+msgstr "Engadir o curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L248'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L18'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Application"
+msgstr "Candidatura"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L252'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Application"
+msgstr "Engadir a candidatura"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L253'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Log Interview Details"
+msgstr "Rexistro dos detalles da entrevista"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L254'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Log Hiring Decision"
+msgstr "Rexistro da decisión de contratación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L275'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L21'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Employment History"
+msgstr "Historial de empregos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L279'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Employment"
+msgstr "Engadir o emprego"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L291'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L24'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Education History"
+msgstr "Historial educativo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L295'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Education"
+msgstr "Engadir os estudos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L308'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L26'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Notes"
+msgstr "Notas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L312'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Note"
+msgstr "Engadir a nota"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L3'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Administer Database"
+msgstr "Administrar a base de datos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L7'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Administer Positions"
+msgstr "Administrar os cargos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L10'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Create Job Structure"
+msgstr "Crear a estrutura de empregos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L12'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Cadres"
+msgstr "Cadros"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L13'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Job Classifications"
+msgstr "Clasificacións dos empregos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L14'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Salary Grades"
+msgstr "Niveis de ingresos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L15'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Jobs"
+msgstr "Empregos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L19'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Manage Positions"
+msgstr "Administrar os cargos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L21'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Salary Sources"
+msgstr "Fontes de ingresos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L22'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Position Types"
+msgstr "Tipos de cargo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L23'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Positions (by Facility)"
+msgstr "Cargos (por establecemento)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L24'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Positions (by Status)"
+msgstr "Cargos (por estado)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L33'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Administer Other Lists"
+msgstr "Administrar as outras listas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L36'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Organization Lists"
+msgstr "Listas de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L38'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr "Tipo de establecemento"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L39'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Office/Facility"
+msgstr "Oficina/Establecemento"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L40'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Department"
+msgstr "Departamento"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L42'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Registration Councils"
+msgstr "Consellos de rexistro"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L47'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Employee Lists"
+msgstr "Listas de empregados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L49'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Education Type"
+msgstr "Tipo de educación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L50'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Degree"
+msgstr "Grao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L51'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Language"
+msgstr "Lingua"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L53'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Competency Type"
+msgstr "Tipo de competencias"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L54'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Competency"
+msgstr "Competencia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L56'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Competency Evaluation"
+msgstr "Avaliación de competencias"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L59'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Identification Type"
+msgstr "Tipo de identificación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L60'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Benefit Type"
+msgstr "Tipo de beneficio"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L61'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Marital Status"
+msgstr "Estado civil"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L62'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Reasons for Departure"
+msgstr "Motivos para a marcha"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L73'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Geographic Information"
+msgstr "Información xeográfica"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L75'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Country"
+msgstr "País"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L76'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Region"
+msgstr "Rexión"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L77'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "District"
+msgstr "Distrito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L78'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "County"
+msgstr "Condado"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L79'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Currency"
+msgstr "Moeda"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L96'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Training Course Information"
+msgstr "Información sobre o curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L100'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Status of a Training Course"
+msgstr "Estado dun curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L101'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Requestors of a Training Course"
+msgstr "Solicitantes dun curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L102'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Evaluation of a Training Course"
+msgstr "Avaliación dun curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L103'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Category of a Training Course"
+msgstr "Categoría dun curso de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L105'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Training Institution"
+msgstr "Institución de formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L106'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Training Funder"
+msgstr "Provedor de fondos para a formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L109'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Continuing Education Course"
+msgstr "Curso de educación continua"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L101'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Search People"
+msgstr "Procurar persoas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L105'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Search Positions"
+msgstr "Procurar cargos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L102'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Locate any person's record in the system to review, print or update."
+msgstr ""
+"Atope o rexistro de calquera persoa no sistema que revisar, imprimir ou "
+"actualizar."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L106'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Locate any position in the system to review, print or update."
+msgstr "Atope calquera cargo no sistema que revisar, imprimir ou actualizar."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L23'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit some organizational database lists"
+msgstr "Pode editar algunhas listas da base de datos de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L26'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view some organizational database lists"
+msgstr "Pode ollar algunhas listas da base de datos de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L29'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit all organizational database lists"
+msgstr "Pode editar todas as listas da base de datos de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L32'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view all organizational database lists"
+msgstr "Pode ollar todas as listas da base de datos de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L35'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit some employee database lists"
+msgstr "Pode editar algunhas listas da base de datos de empregados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L38'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view some employee database lists"
+msgstr "Pode ollar algunhas listas da base de datos de empregados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L41'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit all employee database lists"
+msgstr "Pode editar todas as listas da base de datos de empregados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L44'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view all employee database lists"
+msgstr "Pode ollar todas as listas da base de datos de empregados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L47'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit some position database lists"
+msgstr "Pode editar algunhas listas da base de datos de cargos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L50'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view some position database lists"
+msgstr "Pode ollar algunhas listas da base de datos de cargos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L57'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "HR Manager"
+msgstr "Administrador de recursos humanos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L64'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "HR Staff"
+msgstr "Persoal de recursos humanos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L71'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Executive Manager"
+msgstr "Director executivo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L78'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Training Manager"
+msgstr "Administrador da formación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L87'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Send Feedback"
+msgstr "Enviar comentarios"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L19'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Passport Photo"
+msgstr "Engadir a foto do pasaporte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L22'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Resume"
+msgstr "Engadir o CV"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L211'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Current Disciplinary Actions"
+msgstr "Accións disciplinarias actuais"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L215'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "New Action"
+msgstr "Nova acción"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L216'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L234'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "History"
+msgstr "Historial"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L229'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L15'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Workplace Accidents"
+msgstr "Accidentes laborais"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L233'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Report Accident"
+msgstr "Informar dun accidente"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L99'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Scheduled Training Courses"
+msgstr "Cursos de formación programados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L12'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Disciplinary Actions"
+msgstr "Accións disciplinarias"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L64'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Accident Type"
+msgstr "Tipo de accidente"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L67'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Disciplinary Action Type"
+msgstr "Tipo de acción disciplinaria"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L30'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Standardized Letters"
+msgstr "Cartas estandarizadas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L93'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Dependent Information"
+msgstr "Información de dependencia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L96'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Dependent"
+msgstr "Engadir a persoa ao cargo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L106'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Next of Kin Information"
+msgstr "Información sobre a familia próxima"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L109'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Next of Kin"
+msgstr "Engadir o familiar próximo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L11'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit some planning database lists"
+msgstr "Pode editar algunhas listas da base de datos de plans"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L14'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view some planning database lists"
+msgstr "Pode ollar algunhas listas da base de datos de plans"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L17'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can edit all planning database lists"
+msgstr "Pode editar todas as listas da base de datos de plans"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Manage-Configuration.xml#L20'>configs/en_US/iHRIS-Manage-Configuration.xml</a>
+#, no-c-format
+msgid "Can view all planning database lists"
+msgstr "Pode ollar todas as listas da base de datos de plans"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L84'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Planning Information"
+msgstr "Información do plan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L86'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Establishment Type"
+msgstr "Tipo de efectivos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L87'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Establishment Period"
+msgstr "Período de efectivos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L88'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Establishments"
+msgstr "Efectivos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L336'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Scanned Paper Records"
+msgstr "Rexistros de documentos dixitalizados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L340'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Scanned Document"
+msgstr "Engadir un documento dixitalizado"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L26'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Confirmation Types"
+msgstr "Tipos de confirmación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L143'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Confirmation Information"
+msgstr "Información de confirmación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L323'>templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L36'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Record Status"
+msgstr "Estado do rexistro"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L357'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Self Service"
+msgstr "Autoservizo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L361'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Assign User Account"
+msgstr "Asignar unha conta de usuario"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L5'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Please Log In"
+msgstr "Acceda ao sistema"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L6'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Enter your username and password."
+msgstr "Introduza o seu nome de usuario e contrasinal."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L10'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Username"
+msgstr "Nome de usuario"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L11'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Password"
+msgstr "Contrasinal"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L28'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Current Positions"
+msgstr "Cargos actuais"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L31'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "View Open Positions"
+msgstr "Ollar os cargos vacantes"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L14'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "View Your Record"
+msgstr "Ollar o seu rexistro"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L13'>templates/en_US/manage.html</a>
+#, no-c-format
+msgid ""
+"To track a person in the database, whether an employee or a job applicant, "
+"add a record for that person. Certain information is required to start a new "
+"record. Once the record is generated, additional options for adding data "
+"about the person will become available. An HR Staff person or an HR Manager "
+"can add a new person to the system."
+msgstr ""
+"Para seguir unha persoa na base de datos, sexa un empregado ou un candidato, "
+"engada un rexistro para esa persoa. Cómpre certa información para comezar un "
+"novo rexistro. Unha vez xerado o rexistro, haberá dispoñibles opcións "
+"adicionais para engadir datos sobre a persoa. Un membro do persoal de "
+"recursos humanos ou un administrador de recursos humanos pode engadir unha "
+"nova persoa ao sistema."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L20'>templates/en_US/manage.html</a>
+#, no-c-format
+msgid ""
+"To track a person in the database, add a record for that person. Certain "
+"information is required to start a new record. Once the record is generated, "
+"additional options for adding data about the person will become available. "
+"An HR Staff person or an HR Manager can add a new person to the system."
+msgstr ""
+"Para seguir unha persoa na base de datos, engada un rexistro para esa "
+"persoa. Cómpre certa información para comezar un novo rexistro. Unha vez "
+"xerado o rexistro, haberá dispoñibles opcións adicionais para engadir datos "
+"sobre a persoa. Un membro do persoal de recursos humanos ou un administrador "
+"de recursos humanos pode engadir unha nova persoa ao sistema."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/manage.html#L58'>templates/en_US/manage.html</a>
+#, no-c-format
+msgid ""
+"Once one or more applications have been recorded for an open position, an HR "
+"Staff person, HR Manager or Executive Manager can review the applications "
+"and record notes during the hiring process. Click Review Applicants to "
+"review all of the applications for any open position."
+msgstr ""
+"Unha vez rexistrada unha ou máis candidaturas para un cargo vacante, un "
+"membro do persoal de recursos humanos, un administrador de recursos humanos "
+"ou un director executivo pode revisar estas solicitudes e tomar notas "
+"durante o proceso de contratación. Prema en \"Revisar os candidatos\" para "
+"botar un ollo a todas as candidaturas de calquera posto vacante."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L7'>templates/en_US/index.html</a>
+#, no-c-format
+msgid ""
+"record to the system, and search for and update records that have been "
+"entered into the system."
+msgstr ""
+"ao sistema; e procurar e actualizar os rexistros que se introduciron no "
+"sistema."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L10'>templates/en_US/index.html</a>
+#, no-c-format
+msgid ""
+"Also complete job applications for open positions, review completed "
+"applications and assign a position to the successful applicant."
+msgstr ""
+"Complete tamén as candidaturas de emprego para os cargos vacantes, revise as "
+"candidaturas completadas e asigne un cargo ao mellor candidato."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L33'>templates/en_US/index.html</a>
+#, no-c-format
+msgid ""
+"Reports enable analysis of human resource data in various ways. Customize, "
+"display and print staff lists, statistical charts and other standard reports."
+msgstr ""
+"Os informes permiten a análise de datos de recursos humanos de varios "
+"xeitos. Personalice, visualice e imprima listas de persoal, gráficas "
+"estatísticas e outros informes estándar."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L51'>templates/en_US/index.html</a>
+#, no-c-format
+msgid "View Your Personnel Details"
+msgstr "Ollar os seus detalles persoais"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/index.html#L54'>templates/en_US/index.html</a>
+#, no-c-format
+msgid "View your personnel details."
+msgstr "Ollar os seus detalles persoais."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L29'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Self-Service"
+msgstr "Autoservizo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/menu_view_person.html#L33'>templates/en_US/menu_view_person.html</a>
+#, no-c-format
+msgid "Scanned Records"
+msgstr "Rexistros dixitalizados"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L68'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Disciplinary Action Reason"
+msgstr "Motivo para a acción disciplinaria"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/view.html#L15'>templates/en_US/view.html</a>
+#, no-c-format
+msgid "Set New Position"
+msgstr "Establecer o novo cargo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L116'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Mass Delete"
+msgstr "Eliminar en masa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L119'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "By Facility"
+msgstr "Por instalación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L122'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "By Person (Search Page)"
+msgstr "Por persoa (páxina de procuras)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/templates/en_US/login.html#L21'>templates/en_US/login.html</a>
+#, no-c-format
+msgid "Forgot username or password?"
+msgstr "Esqueceu o nome de usuario ou o contrasinal?"

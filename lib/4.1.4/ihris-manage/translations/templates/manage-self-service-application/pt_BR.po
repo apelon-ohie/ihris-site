@@ -1,0 +1,110 @@
+# Brazilian Portuguese translation for ihris-manage
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the ihris-manage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-manage\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2011-03-04 14:16+0000\n"
+"Last-Translator: Matheus Cavalcante <Unknown>\n"
+"Language-Team: Brazilian Portuguese <pt_BR@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:22+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L14'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Add/Update Person"
+msgstr "Adicionar/Atualizar Pessoa"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L24'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L27'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L106'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Open Positions"
+msgstr "Cargos Abertos"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L35'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position List"
+msgstr "Lista de Cargos"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L38'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Details for all positions."
+msgstr "Detalhes de todos os cargos."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L41'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position Reports"
+msgstr "Informações do Cargo"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L49'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Code"
+msgstr "Código"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L54'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position Job"
+msgstr "Cargo de Emprego"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L59'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "Trabalho"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L66'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Title"
+msgstr "Título"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L71'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr "Identificação do Escritório"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L76'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "Escritório"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L83'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Department ID"
+msgstr "Identificação do Departamento"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L88'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Department"
+msgstr "Departamento"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L95'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Posted Date"
+msgstr "Data de Postagem"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L109'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "The currently open positions"
+msgstr "Os cargos atualmente abertos"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L2'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "Apply for a Position"
+msgstr "Aplicar em um Cargo"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L12'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "Personal Information"
+msgstr "Informações Pessoais"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L19'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "User Details"
+msgstr "Detalhes do Usuário"

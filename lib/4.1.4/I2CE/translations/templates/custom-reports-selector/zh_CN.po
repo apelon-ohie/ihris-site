@@ -1,0 +1,82 @@
+# Translation of iHRIS I2CE - Custom Reports Selector to Simplified Chinese (中文（简体）‎)
+# Exported from translatewiki.net
+#
+# Author: Hydra
+# Author: Liuxinyu970226
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Custom Reports Selector\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:13:46+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: zh_cn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:19+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:23:12+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_Selector_base.html#L9'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_Selector_base.html</a>
+#, no-c-format
+msgid "Results limited by"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_Selector_base.html#L28'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_Selector_base.html</a>
+#, no-c-format
+msgid "Choose options to limit results"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html#L9'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html</a>
+#, no-c-format
+msgid "Close"
+msgstr "关闭"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html#L4'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html</a>
+#, no-c-format
+msgid "Select A Value"
+msgstr "选择一个值"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/configs/en_US/CRSelector.xml#L11'>modules/CustomReports/modules/CustomReportSelector/configs/en_US/CRSelector.xml</a>
+#, no-c-format
+msgid "Select Value"
+msgstr "选择值"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_control_Selector.html#L3'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_control_Selector.html</a>
+#, no-c-format
+msgid "Apply Limits"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_control_Selector.html#L5'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/customReports_display_control_Selector.html</a>
+#, no-c-format
+msgid "Limit Results"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html#L10'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector.html</a>
+#, no-c-format
+msgid "Clear"
+msgstr "清除"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector_content.html#L3'>modules/CustomReports/modules/CustomReportSelector/templates/en_US/reportselector_content.html</a>
+#, no-c-format
+msgid "Please wait while we retrieve options."
+msgstr ""

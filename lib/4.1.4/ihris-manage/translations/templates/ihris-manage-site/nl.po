@@ -1,0 +1,298 @@
+# Translation of iHRIS Manage - Manage Site to Dutch (Nederlands)
+# Exported from translatewiki.net
+#
+# Author: Siebrand
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Manage Site\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:20:11+0000\n"
+"Last-Translator: Daniël Sonck <dsonck92@gmail.com>\n"
+"Language-Team: Dutch <https://translatewiki.net/wiki/Portal:nl>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: nl\n"
+"X-Message-Group: #out-ihris-manage-masi\n"
+"X-POT-Import-Date: 2013-10-07 17:26:53+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml#L11'>sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml#L16'>sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml#L22'>sites/blank/configs/en_US/iHRIS-Manage-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L7'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L31'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/report_print.html#L7'>sites/blank/templates/en_US/report_print.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L5'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "iHRIS Manage"
+msgstr "iHRIS Beheer"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L3'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid "Welcome, %s"
+msgstr "Welkom, %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L3'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Welcome"
+msgstr "Welkom"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_thanks.html#L3'>sites/blank/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "Thank you for your feedback."
+msgstr "Bedankt voor uw terugkoppeling!"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_thanks.html#L6'>sites/blank/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "return"
+msgstr "terug"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/report_print.html#L28'>sites/blank/templates/en_US/report_print.html</a>
+#, no-c-format
+msgid "Results for"
+msgstr "Resulaten voor"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L6'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "privacy policy"
+msgstr "privacybeleid"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L14'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Site Feedback Form"
+msgstr "Terugkoppelingsformulier voor de site"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L21'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Comments"
+msgstr "Opmerkingen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L26'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Name"
+msgstr "Naam"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L31'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Company"
+msgstr "Bedrijf"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L36'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Title"
+msgstr "Titel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L41'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Industry"
+msgstr "Branche"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L45'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Address"
+msgstr "Adres"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L50'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "City"
+msgstr "Plaats"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L55'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "State/Province"
+msgstr "Staat/provincie:"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L60'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Postal Code"
+msgstr "Postcode"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L65'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Country"
+msgstr "Land"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L70'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Telephone"
+msgstr "Telefoonnummer"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L75'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Fax"
+msgstr "Fax"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L80'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Email"
+msgstr "E-mailadres"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L10'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid ""
+"To get started using iHRIS Manage, please click one of the options below. "
+"Return to this page at any time by clicking the Home button in the bar "
+"above. If you need help with any function, click the Help button. We "
+"encourage you to send us any errors you find, suggestions for improvements "
+"or additional features, and any other feedback you may have about this "
+"software; contact us at any time by clicking the Feedback button or visiting "
+"the"
+msgstr ""
+"Klik op een van de onderstaande opties om met iHRIS Manage te beginnen. U "
+"kunt altijd terugkeren naar deze pagina door op \"Startpagina\" te klikken "
+"in de werkbalk. Als u hulp nodig hebt met een functie, kunt u op \"Hulp\" "
+"klikken. Stel ons op de hoogte van fouten, suggesties en andere "
+"terugkoppeling die u hebt. Klik hiervoor op de knop \"Terugkoppeling\" of "
+"bezoek de"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L11'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid "HRIS Strengthening Website"
+msgstr "Website HRIS-verbetering"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L9'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid ""
+"is a human resources management tool that enables an organization to design "
+"and manage a comprehensive human resources strategy. While primarily "
+"intended for managing health care workers, iHRIS Manage may be readily "
+"adapted to other types of workforces. iHRIS Manage is a free, Open Source "
+"software solution developed by"
+msgstr ""
+"is een HR managementprogramma dat een organisatie in staat stelt om een "
+"alomvattende HR-strategie te ontwerpen en te beheren. Hoewel het primair "
+"bedoeld is voor het beheren van gezondheidswerkers, kan iHRIS Manage "
+"aangepast worden voor andere typen organisaties. iHRIS Manage is gratis Open "
+"Source software ontwikkeld door"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L11'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid ""
+"an innovative global initiative to help developing countries build and "
+"sustain the health workforce."
+msgstr ""
+"een innovatief wereldwijd initiatief om ontwikkelingslanden te helpen bij "
+"het bouwen en ondersteunen van hun gezondheidswerkers."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L10'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid ""
+". We will use your email address only to reply to your request. You may also "
+"contact us by emailing us directly at"
+msgstr ""
+". We gebruiken uw e-mailadres alleen om uw bericht te beantwoorden. U kunt "
+"ook direct per e-mail contact met ons opnemen via"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L32'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Human Resource Management"
+msgstr "Human Resource Management"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L37'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Home"
+msgstr "Hoofdmenu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L39'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Help"
+msgstr "Hulp"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L41'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L42'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Feedback"
+msgstr "Terugkoppeling"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L43'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "iHRIS Website"
+msgstr "iHRIS-website"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L46'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Log out as %s"
+msgstr "Afmelden als %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L49'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Log In"
+msgstr "Aanmelden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L70'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "iHRIS Manage Version"
+msgstr "Versie iHRIS Beheer"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L9'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Capacity"
+msgstr "Capacity"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L5'>sites/blank/templates/en_US/feedback_form.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L9'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Plus"
+msgstr "Plus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L5'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid ""
+"If you have a bug report, problem with the page, feature request or "
+"question, please contact us by filling out and submitting the following "
+"form. Your comments and email address will be kept private in accordance "
+"with Capacity"
+msgstr ""
+"Als u een fout hebt gevonden, een probleem met de pagina hebt, een nieuwe "
+"functie wilt aanvragen of gewoon een vraag hebt, neem dan contact met ons op "
+"door het onderstaande formulier in te vullen en te verzenden. Uw opmerkingen "
+"en uw e-mailadres worden behandeld in overeenstemming met de Capacity"

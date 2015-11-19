@@ -1,0 +1,148 @@
+# Translation of iHRIS I2CE - Admin to Japanese (日本語)
+# Exported from translatewiki.net
+#
+# Author: Allinpunchay
+# Author: Shirayuki
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Admin\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 21:04+0200\n"
+"PO-Revision-Date: 2014-01-06 11:12:28+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:18+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:22:27+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L37'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L5'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "Configure"
+msgstr "設定"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L2'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "Available Modules"
+msgstr "利用できるモジュール"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L4'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "Enable"
+msgstr "有効"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L8'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "sub-modules"
+msgstr "サブ モジュール"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L12'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "Main Module Menu"
+msgstr "メイン モジュール メニュー"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/no_configuration.html#L5'>modules/Pages/modules/Admin/templates/en_US/no_configuration.html</a>
+#, no-c-format
+msgid "This module has no configuration action defined."
+msgstr "このモジュールには、定義された構成アクションがありません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/no_configuration.html#L7'>modules/Pages/modules/Admin/templates/en_US/no_configuration.html</a>
+#, no-c-format
+msgid "This module has no configuration action defined at"
+msgstr "このモジュールには、定義された構成アクションがありません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/configs/en_US/Admin.xml#L11'>modules/Pages/modules/Admin/configs/en_US/Admin.xml</a>
+#, no-c-format
+msgid "Can configure modules"
+msgstr "モジュールを構成することができます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/configs/en_US/Admin.xml#L18'>modules/Pages/modules/Admin/configs/en_US/Admin.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/configs/en_US/Admin.xml#L25'>modules/Pages/modules/Admin/configs/en_US/Admin.xml</a>
+#, no-c-format
+msgid "Administration"
+msgstr "管理"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L4'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid ""
+"Here you may select modules to enable or disable by clicking or unclicking "
+"the checkboxes and then hitting the"
+msgstr "ここでモジュールを有効/無効にするにはチェック ボックスを指定し、"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L5'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid ""
+"button at the bottom of the page. You may also configure certain modules by "
+"clicking on the"
+msgstr ""
+"ページ下部のボタンを押して下さい。\n"
+"表示されている場合、リンクをクリックして特定のモジュールを構成することもでき"
+"ます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L8'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid ""
+"link associated to them if it is present. Some modules also have sub-modules "
+"associated with them which may be accessed by clicking on the"
+msgstr "一部のモジュールには関連するサブモジュールへのリンクが表示されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L17'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#, no-c-format
+msgid "Version"
+msgstr "バージョン"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L20'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L28'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#, no-c-format
+msgid "Created by"
+msgstr "作成者"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L23'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#, no-c-format
+msgid "Contact"
+msgstr "連絡先"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L23'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#, no-c-format
+msgid "author"
+msgstr "著者"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_module.html#L40'>modules/Pages/modules/Admin/templates/en_US/module_module.html</a>
+#, no-c-format
+msgid "Sub-Modules"
+msgstr "サブ モジュール"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Admin/templates/en_US/module_menu.html#L9'>modules/Pages/modules/Admin/templates/en_US/module_menu.html</a>
+#, no-c-format
+msgid "link or on the down-pointing arrow if present."
+msgstr ""

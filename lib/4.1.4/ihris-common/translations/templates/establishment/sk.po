@@ -1,0 +1,179 @@
+# Translation of iHRIS Common - Establishment to Slovak (slovenčina)
+# Exported from translatewiki.net
+#
+# Author: Nelliette
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Establishment\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:05:13+0000\n"
+"Last-Translator: Eduard Hummel <22edel22@gmail.com>\n"
+"Language-Team: Slovak <https://translatewiki.net/wiki/Portal:sk>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:16+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: sk\n"
+"X-Message-Group: #out-ihris-common-establishment\n"
+"X-POT-Import-Date: 2013-10-07 17:18:32+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : "
+"2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/establishment_menu.html#L2'>modules/Establishment/templates/en_US/establishment_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment_period.html#L8'>modules/Establishment/templates/en_US/view_list_establishment_period.html</a>
+#, no-c-format
+msgid "Set Establishments"
+msgstr "Nastaviť zariadenia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/establishment_menu.html#L3'>modules/Establishment/templates/en_US/establishment_menu.html</a>
+#, no-c-format
+msgid "Add new Establishment Type"
+msgstr "Pridať nový typ zariadenia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/establishment_menu.html#L5'>modules/Establishment/templates/en_US/establishment_menu.html</a>
+#, no-c-format
+msgid "Add new Establishment Category"
+msgstr "Pridať novú kategóriu zariadenia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/establishment_menu.html#L9'>modules/Establishment/templates/en_US/establishment_menu.html</a>
+#, no-c-format
+msgid "Select Establishment Category to set"
+msgstr "Vybrať nastavenie kategórie zariadenia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment.html#L4'>modules/Establishment/templates/en_US/view_list_establishment.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment_period.html#L4'>modules/Establishment/templates/en_US/view_list_establishment_period.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Uprav údaj"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment.html#L6'>modules/Establishment/templates/en_US/view_list_establishment.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment_period.html#L6'>modules/Establishment/templates/en_US/view_list_establishment_period.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Aktualizuj údaj"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment.html#L7'>modules/Establishment/templates/en_US/view_list_establishment.html</a>
+#, no-c-format
+msgid "Select another Establishment"
+msgstr "Vyber iné zariadenie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/templates/en_US/view_list_establishment_period.html#L7'>modules/Establishment/templates/en_US/view_list_establishment_period.html</a>
+#, no-c-format
+msgid "Select another Establishment Period"
+msgstr "Vyber iné obdobie zariadenia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L11'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can edit the establishment type database list"
+msgstr "Možno upraviť zoznam typov databáý zariadení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L14'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can view the establishment type database list"
+msgstr "Možno zobraziť zoznam typov databáz zariadení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L17'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can edit the establishment period database list"
+msgstr "Možno upraviť zoznam databáz období administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L20'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can view the establishment period database list"
+msgstr "Možno zobraziť zoznam databáz období administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L23'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can edit the establishment database list"
+msgstr "Možno upraviť zoznam databáz administrácií"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L26'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can view the establishment database list"
+msgstr "Možno zobraziť zoznam databáz administrácií"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L29'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can access the establishment information"
+msgstr "Možný prístup k informácii administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L32'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Can edit the establishment information"
+msgstr "Možno upraviť informáciu administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L39'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Establishment"
+msgstr "Administrácia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L44'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L77'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Establishment Period"
+msgstr "Obdobnie administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L49'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L58'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Establishment Type"
+msgstr "Typ administrácie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L63'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Year of Applicability"
+msgstr "Rok platnosti"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L71'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "%s at %s (%s)"
+msgstr "%s zo %s (%s)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L82'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Job or Cadre"
+msgstr "práca alebo funkcia"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L92'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Number of Health Workers"
+msgstr "Počet pracovníkov v zdravotníctve"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Establishment/configs/en_US/Establishment.xml#L87'>modules/Establishment/configs/en_US/Establishment.xml</a>
+#, no-c-format
+msgid "Facility or Facility Type"
+msgstr ""

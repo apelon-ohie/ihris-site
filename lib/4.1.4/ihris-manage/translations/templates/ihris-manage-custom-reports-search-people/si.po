@@ -1,0 +1,193 @@
+# Translation of iHRIS Manage - Custom Reports - Search People to Sinhala (සිංහල)
+# Exported from translatewiki.net
+#
+# Author: පසිඳු කාවින්ද
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports - Search People\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:18:43+0000\n"
+"Last-Translator: Dasitha Wijesundara <www.dmw07@gmail.com>\n"
+"Language-Team: Sinhalese <si@li.org>\n"
+"Language: si\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:40:58+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L12'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L76'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L192'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Search People"
+msgstr "පුද්ගලයන් සොයන්න"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L15'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Search relationship for all person records."
+msgstr "පුද්ගල ලේඛන සඳහා සියලුම සබඳතා සොයන්න"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L20'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The current status of this employee"
+msgstr "මෙම සේවකයාගේ වත්මන් තත්වය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L27'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The last position this person has held."
+msgstr "මෙම පුද්ගලයා විසින් දරන ලද අවසන් තනතුර"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L30'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Last Person Position"
+msgstr "අවසන් පුද්ගලයාගේ තනතුර"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L35'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The position details for the last position held by this person."
+msgstr "මෙම පුද්ගලයා විසින් දරන ලද අවසන් තනතුර සඳහා තනතුරු විස්තර"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L38'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Last Position"
+msgstr "අවසන් තනතුර"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L43'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The last job held by this person."
+msgstr "මෙම පුද්ගලයා විසින් ඉටු කරන ලද අවසන් කාර්යය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L46'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Last Job"
+msgstr "අවසන් කාර්යය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L51'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The last facility where this person worked."
+msgstr "මෙම පුද්ගලයාගේ සේවා ස්ථානයේ තිබූ අවසන් පහසුකම්"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L54'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Last Facility"
+msgstr "අවසන් පහසුකම්"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L63'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "The application details for this person."
+msgstr "මෙම පුද්ගලයාගේ අයදුම්පතේ විස්තර"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L66'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Application"
+msgstr "අයදුම්පත"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L79'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Search all people records."
+msgstr "සියලු පුද්ගල ලේඛන සොයන්න"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L92'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L97'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Surname"
+msgstr "වාසගම"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L102'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "First Name"
+msgstr "මුල් නම"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L127'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "කාර්යය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L132'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Position Job ID"
+msgstr "තනතුරු කාර්යය හැඳුනුම්පත් අංකය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L137'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Position Title"
+msgstr "තනතුරු සිරැසිය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L144'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L158'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "පහසුකම"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L149'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr "පහසුකම් හැඳුනුම්පත් අංකය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L178'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Employee Status"
+msgstr "සේවකයාගේ තත්ත්වය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L189'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Search all person records in the system."
+msgstr "පද්ධතියේ සියලුම පුද්ගල ලේඛන සොයන්න"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L82'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Search"
+msgstr "සොයන්න"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L111'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Start Date"
+msgstr "ආරම්භක දිනය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L116'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "End Date"
+msgstr "අවසන් දිනය"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml#L167'>modules/ManageCustomReports/Reports/SearchPeople/configs/en_US/SearchPeople.xml</a>
+#, no-c-format
+msgid "Job Title"
+msgstr "රැකියා සිරැසිය"

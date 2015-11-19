@@ -1,0 +1,1245 @@
+# Translation Template of ihris-common module (iso-country Version 4.1.0.2)
+# Copyright (C) 2011 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common@iso-country 4.1.0.2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2012-03-21 10:26-0400\n"
+"PO-Revision-Date: 2011-08-02 01:25+0000\n"
+"Last-Translator: Intrahealth <Unknown>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:16+0000\n"
+"X-Generator: Launchpad (build 16869)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L12'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Afghanistan"
+msgstr "ອາຟການິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L19'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Åland Islands"
+msgstr "ເກາະອາແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L26'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Albania"
+msgstr "ອານບາເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L33'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Algeria"
+msgstr "ແອລຈີເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L40'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "American Samoa"
+msgstr "ອາເມລິກາ ຊາມົວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L47'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Andorra"
+msgstr "ແອງໂດຣາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L54'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Angola"
+msgstr "ແອງໂກລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L61'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Anguilla"
+msgstr "ແອງກວິລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L68'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Antarctica"
+msgstr "ແອນຕາຕິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L75'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Antigua And Barbuda"
+msgstr "ແອນຕິກາ ແລະ ບາບູດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L82'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Argentina"
+msgstr "ອາເຈນຕິນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L89'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Armenia"
+msgstr "ອາເມເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L96'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Aruba"
+msgstr "ອາຣູບາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L103'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Australia"
+msgstr "ອອສເຕຣເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L110'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Austria"
+msgstr "ອອສເຕຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L117'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Azerbaijan"
+msgstr "ອາເຊີໄບຈັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L124'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bahamas"
+msgstr "ບາຮາມາສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L131'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bahrain"
+msgstr "ບາເຣນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L138'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bangladesh"
+msgstr "ບັງກາລາເດສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L145'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Barbados"
+msgstr "ບາເບໂດສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L152'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Belarus"
+msgstr "ເບລາຣຸສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L159'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Belgium"
+msgstr "ເບລຢຽມ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L166'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Belize"
+msgstr "ເບລີສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L173'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Benin"
+msgstr "ເບນີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L180'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bermuda"
+msgstr "ເບີມິວດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L187'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bhutan"
+msgstr "ບູຕານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L194'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bolivia"
+msgstr "ໂບລິເວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L201'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bosnia And Herzegovina"
+msgstr "ບອສເນຍ ແລະ ເຮີເຊັກໂກວີນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L208'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Botswana"
+msgstr "ບອສວານາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L215'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bouvet Island"
+msgstr "ເກາະບູເວດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L222'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Brazil"
+msgstr "ບຣາຊີວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L229'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "British Indian Ocean Territory"
+msgstr "ມົນທົນມະຫາສະໝຸດອິນເດຍອັງກິດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L236'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Brunei Darussalam"
+msgstr "ບຣູໄນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L243'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Bulgaria"
+msgstr "ບັງກາເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L250'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Burkina Faso"
+msgstr "ເບີກີນາຟາໂຊ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L257'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Burundi"
+msgstr "ບູຣັນດີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L264'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cambodia"
+msgstr "ກຳປູເຈຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L271'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cameroon"
+msgstr "ຄາມາຣູນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L278'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Canada"
+msgstr "ການາດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L285'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cape Verde"
+msgstr "ເຄບເວີດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L292'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cayman Islands"
+msgstr "ໝູ່ເກາະເຄເມນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L299'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Central African Republic"
+msgstr "ສາທາລະນະລັດອາຟຣິກາກາງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L306'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Chad"
+msgstr "ຊາດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L313'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Chile"
+msgstr "ຊີລີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L320'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "China"
+msgstr "ຈີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L327'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Christmas Island"
+msgstr "ເກາະຄີສມາສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L334'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cocos (keeling) Islands"
+msgstr "ໝູ່ເກາະ ໂຄໂຄສ (ຄິລິງ)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L341'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Colombia"
+msgstr "ໂຄລີມເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L348'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Comoros"
+msgstr "ໂຄໂມໂຣສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L355'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Congo"
+msgstr "ຄອງໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L362'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Congo, The Democratic Republic Of The"
+msgstr "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ຄອງໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L369'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cook Islands"
+msgstr "ໝູ່ເກາະຄຸກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L376'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Costa Rica"
+msgstr "ຄອສຕາຣິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L383'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "CÔte D'ivoire"
+msgstr "ໂກດດີວົວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L390'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Croatia"
+msgstr "ໂຄຣເອເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L397'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cuba"
+msgstr "ຄິວບາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L404'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Cyprus"
+msgstr "ໄຊປັຣສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L411'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Czech Republic"
+msgstr "ສາທາລະນະລັດເຊັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L418'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Denmark"
+msgstr "ເດັນມາກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L425'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Djibouti"
+msgstr "ເຈບູຕິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L432'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Dominica"
+msgstr "ໂດມິນິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L439'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Dominican Republic"
+msgstr "ສາທາລະນະລັດ ໂດມີນີກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L446'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Ecuador"
+msgstr "ເອຄົວດໍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L453'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Egypt"
+msgstr "ອີຢິບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L460'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "El Salvador"
+msgstr "ແອວສະວາດໍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L467'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Equatorial Guinea"
+msgstr "ເອຄົວໂຕຣຽວ ຄິວເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L474'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Eritrea"
+msgstr "ເອຣິດເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L481'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Estonia"
+msgstr "ເອສໂຕເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L488'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Ethiopia"
+msgstr "ເອທິໂອເປຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L495'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Falkland Islands (malvinas)"
+msgstr "ໝູ່ເກາະຟາກແລນ (ມາວີນາສ)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L502'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Faroe Islands"
+msgstr "ໝູ່ເກາະຟາໂຣ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L509'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Fiji"
+msgstr "ຟີຈິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L516'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Finland"
+msgstr "ຟິນແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L523'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "France"
+msgstr "ຝລັ່ງເສດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L530'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "French Guiana"
+msgstr "ຝລັ່ງກິວອານາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L537'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "French Polynesia"
+msgstr "ຝລັ່ງໂປລີເນເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L544'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "French Southern Territories"
+msgstr "ດິນແດນທາງໃຕ້ຂອງຝລັ່ງເສດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L551'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Gabon"
+msgstr "ກາບອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L558'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Gambia"
+msgstr "ກຳເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L565'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Georgia"
+msgstr "ຈໍເຈຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L572'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Germany"
+msgstr "ເຢຍລະມັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L579'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Ghana"
+msgstr "ຮານາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L586'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Gibraltar"
+msgstr "ກີບຣອນຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L593'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Greece"
+msgstr "ເກຣັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L600'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Greenland"
+msgstr "ກຣີນແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L607'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Grenada"
+msgstr "ກຣີນາດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L614'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guadeloupe"
+msgstr "ກົວເດລູບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L621'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guam"
+msgstr "ກວມ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L628'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guatemala"
+msgstr "ກົວເຕມາລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L635'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guernsey"
+msgstr "ເຄີນເຊ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L642'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guinea"
+msgstr "ກິເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L649'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guinea-bissau"
+msgstr "ກໍ່ເນຍບິສເຊົາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L656'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Guyana"
+msgstr "ກວຍອານາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L663'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Haiti"
+msgstr "ໄຮຕິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L670'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Heard Island And Mcdonald Islands"
+msgstr "ເກາະເຮີດ ແລະ ເກາະແມັກໂດນັອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L677'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Holy See (vatican City State)"
+msgstr "ໂຣນລີຊີ (ລັດວາຕີການ)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L684'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Honduras"
+msgstr "ຮອນດູຣັສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L691'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Hong Kong"
+msgstr "ຮົງກົງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L698'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Hungary"
+msgstr "ຮົງກາລີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L705'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Iceland"
+msgstr "ໄອສແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L712'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "India"
+msgstr "ອິນເດຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L719'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Indonesia"
+msgstr "ອິນໂດເນເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L726'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Iran, Islamic Republic Of"
+msgstr "ສາທາລະນະລັດ ອີຣານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L733'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Iraq"
+msgstr "ອີຣັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L740'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Ireland"
+msgstr "ໄອແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L747'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Isle Of Man"
+msgstr "ອີສເລອອບມານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L754'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Israel"
+msgstr "ອີສຣາເອລ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L761'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Italy"
+msgstr "ອິຕາລີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L768'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Jamaica"
+msgstr "ຈາໄມກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L775'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Japan"
+msgstr "ຍີ່ປຸ່ນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L782'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Jersey"
+msgstr "ເຈີເຊ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L789'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Jordan"
+msgstr "ຈໍແດນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L796'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Kazakhstan"
+msgstr "ກາຊັກສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L803'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Kenya"
+msgstr "ເຄນຢາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L810'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Kiribati"
+msgstr "ຄິຣິບາດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L817'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Korea, Democratic People's Republic Of"
+msgstr "ສາທາລະນະລັດ ປະຊາທິປະໄຕ ປະຊາຊົນ ເກົາຫຼີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L824'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Korea, Republic Of"
+msgstr "ສາທາລະນະລັດ ເກົາຫຼີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L831'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Kuwait"
+msgstr "ຄູເວດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L838'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Kyrgyzstan"
+msgstr "ກີກິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L845'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Lao People's Democratic Republic"
+msgstr "ສປປ ລາວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L852'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Latvia"
+msgstr "ລັດເວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L859'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Lebanon"
+msgstr "ເລບານອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L866'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Lesotho"
+msgstr "ເລໂຊໂທ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L873'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Liberia"
+msgstr "ລີເບີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L880'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Libyan Arab Jamahiriya"
+msgstr "ລີບຢັນອາຣັບ ຈາມາຮິຣາຍາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L887'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Liechtenstein"
+msgstr "ແລກເທັນສຕີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L894'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Lithuania"
+msgstr "ລີທົວເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L901'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Luxembourg"
+msgstr "ລຸກຊຳບວກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L908'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Macao"
+msgstr "ມາເກົາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L915'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Macedonia, The Former Yugoslav Republic Of"
+msgstr "ອາດີດ ສາທາລະນະລັດ ຍູໂກສະລາເວຍ, ແມັກຊິໂດເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L922'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Madagascar"
+msgstr "ມາດາກາສກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L929'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Malawi"
+msgstr "ມາລາວີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L936'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Malaysia"
+msgstr "ມາເລເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L943'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Maldives"
+msgstr "ມາວດີບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L950'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mali"
+msgstr "ມາລີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L957'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Malta"
+msgstr "ມອນຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L964'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Marshall Islands"
+msgstr "ໝູ່ເກາະມາແຊວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L971'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Martinique"
+msgstr "ມາຕີນິກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L978'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mauritania"
+msgstr "ມໍຣິເຕເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L985'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mauritius"
+msgstr "ມໍຣິຊຽດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L992'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mayotte"
+msgstr "ມາຢອດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L999'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mexico"
+msgstr "ແມັກຊິໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1006'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Micronesia, Federated States Of"
+msgstr "ສະຫະພັນໄມໂຄຣນີເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1013'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Moldova, Republic Of"
+msgstr "ສາທາລະນະລັດ ມອນໂດວາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1020'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Monaco"
+msgstr "ໂມໂນໂຄ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1027'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mongolia"
+msgstr "ມົງໂກນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1034'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Montenegro"
+msgstr "ມອນເຕເນໂກຣ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1041'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Montserrat"
+msgstr "ມອນເຊີຣັດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1048'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Morocco"
+msgstr "ໂມລັອກໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1055'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Mozambique"
+msgstr "ໂມຊຳບິກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1062'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Myanmar"
+msgstr "ພະມ້າ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1069'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Namibia"
+msgstr "ນາມີເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1076'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Nauru"
+msgstr "ນາອູຣູ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1083'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Nepal"
+msgstr "ເນປານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1090'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Netherlands"
+msgstr "ເນເທີແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1097'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Netherlands Antilles"
+msgstr "ເນເທີແລນ ແອນຕີເລສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1104'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "New Caledonia"
+msgstr "ນິວຄາເລໂດເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1111'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "New Zealand"
+msgstr "ນິວຊີແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1118'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Nicaragua"
+msgstr "ນີກາຣາກວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1125'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Niger"
+msgstr "ໄນເກີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1132'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Nigeria"
+msgstr "ໄນຈີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1139'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Niue"
+msgstr "ນີອູເອ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1146'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Norfolk Island"
+msgstr "ໝູ່ເກາະນໍໂຟກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1153'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Northern Mariana Islands"
+msgstr "ໝູ່ເກາະມາເຣຍນາເໜືອ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1160'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Norway"
+msgstr "ນໍເວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1167'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Oman"
+msgstr "ໂອມານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1174'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Pakistan"
+msgstr "ປາກິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1181'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Palau"
+msgstr "ປາເລົາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1188'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Palestinian Territory, Occupied"
+msgstr "ເຂດແດນປາເລສຕີນຄອບຄອງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1195'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Panama"
+msgstr "ປານາມາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1202'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Papua New Guinea"
+msgstr "ປາປົວນິວກິເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1209'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Paraguay"
+msgstr "ປາຣາກວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1216'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Peru"
+msgstr "ເປຣູ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1223'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Philippines"
+msgstr "ຟີລິບປິນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1230'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Pitcairn"
+msgstr "ພິດແຄນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1237'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Poland"
+msgstr "ໂປແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1244'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Portugal"
+msgstr "ໂປຕຸເກສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1251'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Puerto Rico"
+msgstr "ເປີໂຕຣິໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1258'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Qatar"
+msgstr "ກາຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1265'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "RÉunion"
+msgstr "ເຣອູນີຢົງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1272'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Romania"
+msgstr "ໂຣມາເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1279'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Russian Federation"
+msgstr "ສະຫະພັນລັດເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1286'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Rwanda"
+msgstr "ຣະວັນດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1293'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint BarthÉlemy"
+msgstr "ເຊນ ບາດເອເລມີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1300'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Helena, Ascension And Tristan Da Cunha"
+msgstr "ເຊນ ເຮເລນາ, ເອສເຊັນເຊິນ ແລະ ຕຣິສຖານ ດາກັນຮາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1307'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Kitts And Nevis"
+msgstr "ເຊນ ກິດ ແລະ ເນວີສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1314'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Lucia"
+msgstr "ເຊນ ລູເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1321'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Martin"
+msgstr "ເຊນ ມາຕີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1328'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Pierre And Miquelon"
+msgstr "ເຊນປີແອ ແລະ ມີເກີລົງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1335'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saint Vincent And The Grenadines"
+msgstr "ເຊນວິນເຊັນ ແລະ ກຣິນາດີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1342'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Samoa"
+msgstr "ຊາມົວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1349'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "San Marino"
+msgstr "ຊັນມາຣິໂນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1356'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "São Tome And Principe"
+msgstr "ເຊົາໂຕເມ ແລະ ພຣິນຊີບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1363'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Saudi Arabia"
+msgstr "ຊາອຸດິອາຣາເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1370'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Senegal"
+msgstr "ເຊເນກັລ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1377'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Serbia"
+msgstr "ເຊີເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1384'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Seychelles"
+msgstr "ເຊເຊລ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1391'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Sierra Leone"
+msgstr "ເຊຍຣາລີອອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1398'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Singapore"
+msgstr "ສິງກະໂປ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1405'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Slovakia"
+msgstr "ສະໂລວາເກຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1412'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Slovenia"
+msgstr "ສະໂລເວເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1419'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Solomon Islands"
+msgstr "ໝູ່ເກາະ ໂສໂລມອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1426'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Somalia"
+msgstr "ໂສມາເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1433'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "South Africa"
+msgstr "ອາຟຣິກາໃຕ້"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1440'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "South Georgia And The South Sandwich Islands"
+msgstr "ຈໍເຈຍໃຕ້ ແລະ ໝູ່ເກາະ ແຊນວີສໃຕ້"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1447'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Spain"
+msgstr "ສະເປນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1454'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Sri Lanka"
+msgstr "ສີລັງກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1461'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Sudan"
+msgstr "ສຸດານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1468'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Suriname"
+msgstr "ສູລິມາເມ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1475'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Svalbard And Jan Mayen"
+msgstr "ສະວາບານ ແລະ ຈານໄມອັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1482'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Swaziland"
+msgstr "ສະວາຊີແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1489'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Sweden"
+msgstr "ສະວີເດັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1496'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Switzerland"
+msgstr "ສະວີດເຊີແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1503'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Syrian Arab Republic"
+msgstr "ສາທາລະນະລັດ ອາຣັບຊີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1510'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Taiwan, Province Of China"
+msgstr "ໃຕ້ຫວັນ, ແຂວງໜື່ງຂອງຈີນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1517'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tajikistan"
+msgstr "ທານິກິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1524'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tanzania, United Republic Of"
+msgstr "ສາທາລະນະລັດ ແທນຊາເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1531'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Thailand"
+msgstr "ໄທ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1538'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Timor-leste"
+msgstr "ຕີມໍ-ເລສເຕ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1545'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Togo"
+msgstr "ໂຕໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1552'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tokelau"
+msgstr "ໂຕເກເລົາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1559'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tonga"
+msgstr "ຕອງກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1566'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Trinidad And Tobago"
+msgstr "ຕຣິນິແດດ ແລະ ໂຕເບໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1573'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tunisia"
+msgstr "ຕູນິເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1580'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Turkey"
+msgstr "ຕຸຣະກີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1587'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Turkmenistan"
+msgstr "ເຕີກເມນິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1594'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Turks And Caicos Islands"
+msgstr "ໝູ່ເກາະ ເຕີກ ແລະ ໄຄຄອສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1601'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Tuvalu"
+msgstr "ຕູວາລູ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1608'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Uganda"
+msgstr "ອູການດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1615'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Ukraine"
+msgstr "ຢູເຄຣນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1622'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "United Arab Emirates"
+msgstr "ສະຫະລັດອາຣັບ ເອມິເຣດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1629'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "United Kingdom"
+msgstr "ລາດສະອານາຈັກອັງກິດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1636'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "United States"
+msgstr "ສະຫະລັດ ອາເມລິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1643'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "United States Minor Outlying Islands"
+msgstr "ໝູ່ເກາະລອບນອກສະຫະລັດອາເມລິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1650'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Uruguay"
+msgstr "ອຸລາກວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1657'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Uzbekistan"
+msgstr "ອຸເບກິສະຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1664'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Vanuatu"
+msgstr "ວານູເອຕູ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1671'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Venezuela"
+msgstr "ເວເນຊິເອລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1678'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Viet Nam"
+msgstr "ຫວຽດນາມ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1685'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Virgin Islands, British"
+msgstr "ໝູ່ເກາະເວີຈີນ, ອັງກິດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1692'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Virgin Islands, U.s."
+msgstr "ໝູ່ເກາະເວີຈີນ, ສະຫະລັດອາເມລິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1699'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Wallis And Futuna"
+msgstr "ວອນລິສ ແລະ ຟູຕູນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1706'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Western Sahara"
+msgstr "ຊາຮາຣາຕາເວັນຕົກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1713'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Yemen"
+msgstr "ເຢເມນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1720'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Zambia"
+msgstr "ຊຳເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml#L1727'>modules/Geography/modules/iso-country/configs/en_US/ISO_Country.xml</a>
+#, no-c-format
+msgid "Zimbabwe"
+msgstr "ຊິມບັບເວ"

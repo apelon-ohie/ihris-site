@@ -1,0 +1,129 @@
+# Translation of iHRIS Manage - Confirmation to Czech (čeština)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Confirmation\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:17:40+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <https://translatewiki.net/wiki/Portal:cs>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: cs\n"
+"X-Message-Group: #out-ihris-manage-conf\n"
+"X-POT-Import-Date: 2013-10-07 17:25:22+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : "
+"2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L11'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Can view confirmation child form of a person"
+msgstr "Může zobrazit podřazený formulář potvrzení osoby"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L14'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Can edit confirmation child forms of a person"
+msgstr "Může upravit podřazený formulář potvrzení osoby"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L17'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Can edit the confirmation type database list"
+msgstr "Může upravit databázový seznam typu potvrzení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L20'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Can view the confirmation type database list"
+msgstr "Může zobrazit podřazený formulář potvrzní osoby"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L27'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Add/Update Confirmation"
+msgstr "Přidat/Aktualizovat potvrzení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L36'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Confirmation"
+msgstr "Potvrzení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L41'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L74'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_list_confirmation_type.html#L14'>modules/Confirmation/templates/en_US/view_list_confirmation_type.html</a>
+#, no-c-format
+msgid "Confirmation Type"
+msgstr "Typ potvrzení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L50'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Probationary Period (Months)"
+msgstr "Zkušební doba (měsíce)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L55'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Associated Job"
+msgstr "Přidružená práce"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L60'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Name"
+msgstr "Název"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L69'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Valid"
+msgstr "Platné"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/configs/en_US/Confirmation.xml#L79'>modules/Confirmation/configs/en_US/Confirmation.xml</a>
+#, no-c-format
+msgid "Date"
+msgstr "Datum"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_confirmation.html#L3'>modules/Confirmation/templates/en_US/view_confirmation.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_list_confirmation_type.html#L4'>modules/Confirmation/templates/en_US/view_list_confirmation_type.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Upravit tuto informaci"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_confirmation.html#L5'>modules/Confirmation/templates/en_US/view_confirmation.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_list_confirmation_type.html#L6'>modules/Confirmation/templates/en_US/view_list_confirmation_type.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Aktualizovat tuto Informaci"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_list_confirmation_type.html#L7'>modules/Confirmation/templates/en_US/view_list_confirmation_type.html</a>
+#, no-c-format
+msgid "Select another Confirmation Type"
+msgstr "Vyberte jiný typ potvrzení"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Confirmation/templates/en_US/view_confirmation.html#L12'>modules/Confirmation/templates/en_US/view_confirmation.html</a>
+#, no-c-format
+msgid "Confirmation Details"
+msgstr "Podrobnosti potvrzení"

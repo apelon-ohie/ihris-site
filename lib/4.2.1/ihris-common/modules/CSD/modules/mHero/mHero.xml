@@ -1,0 +1,136 @@
+<?xml version="1.0"?>
+<!DOCTYPE I2CEConfiguration SYSTEM "I2CE_Configuration.dtd">
+<I2CEConfiguration name="mHero">
+  <metadata>
+    <displayName>mHero </displayName>
+    <category>Application Component</category>
+    <description>Provides CSD Interface for RapidPro</description>
+    <creator>Intrahealth Informatics</creator>
+    <email>hris@capacityproject.org</email>
+    <link>https://launchpad.net/ihris-common</link>
+    <version>4.2.1.0</version>
+    <path name="classes">
+      <value>./lib</value>
+    </path>
+    <requirement name="Person">
+      <atLeast version="4.2" />
+      <lessThan version="4.3" />
+    </requirement>
+    <requirement name="csd_cache">
+      <atLeast version="4.2.0.1" />
+      <lessThan version="4.3" />
+    </requirement>
+    <path name="templates">
+      <value>./templates</value>
+    </path>
+    <path name="images">
+      <value>./images</value>
+    </path>
+  </metadata>
+  <configurationGroup name="mHero" path="/">
+
+
+    <configurationGroup name='page_builder_handler' path='/modules/page-builder/handlers' >
+      <version>4.2.0.9</version>
+      <configurationGroup name='CSD_Page_RapidPro_Base'>
+	<configuration name='swiss'>
+	  <value>CSD_RapidPro_Base</value>	  
+	</configuration>
+	<configuration name='description' local='en_US'>
+	  <value>CSD-RapidPro Interface</value>
+	</configuration>
+      </configurationGroup>
+    </configurationGroup>
+
+
+    <configurationGroup name="command_line" path='/I2CE/command_line/mHero'>
+      <version>4.2.0.9</version>
+      <configuration name="style" values="single">
+        <value>action</value>
+      </configuration>
+      <configuration name="class" values="single">
+        <displayName>Page Class</displayName>
+        <value>CSD_Page_mHeroCommandLine</value>
+      </configuration>
+      
+      <configurationGroup name="args">
+	<configuration name='api_token'>
+	  <value>THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='slug'>
+	  <value>mhero-THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='server_host'>
+	  <value>https://rapidpro.io</value>
+	</configuration>
+	<configuration name='csd_host'>
+	  <value>https://localhost:8984/CSD/csr/hwr-sample/careServicesRequest</value>
+	</configuration>	  
+      </configurationGroup>
+
+    </configurationGroup>
+
+
+    <configurationGroup name="bulk_page" path='/I2CE/page/mHero'>
+      <version>4.2.0.8</version>
+      <configuration name="style" values="single">
+        <value>shell</value>
+      </configuration>
+      <configuration name="class" values="single">
+        <displayName>Page Class</displayName>
+        <value>CSD_Page_mHeroBulk</value>
+      </configuration>
+      
+      <configurationGroup name="args">
+	<configuration name='api_token'>
+	  <value>THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='slug'>
+	  <value>mhero-THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='server_host'>
+	  <value>https://rapidpro.io</value>
+	</configuration>
+	<configuration name='csd_host'>
+	  <value>https://localhost:8984/CSD/csr/hwr-sample/careServicesRequest</value>
+	</configuration>
+	  
+      </configurationGroup>
+
+    </configurationGroup>
+
+    <configurationGroup name="person_page" path='/I2CE/page/mHero_person_workflow'>
+      <version>4.2.0.5</version>
+      <configuration name="style" values="single">
+        <value>shell</value>
+      </configuration>
+      <configuration name="class" values="single">
+        <displayName>Page Class</displayName>
+        <value>CSD_Page_StartWorkflow</value>
+      </configuration>
+      
+      <configurationGroup name="args">
+	<version>4.2.0.3</version>
+        <configuration name="defaultHTMLFile" values="many">
+          <value>csd_start_workflow_select.html</value>
+        </configuration>
+	<configuration name='api_token'>
+	  <value>THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='slug'>
+	  <value>mhero-THIS NEEDS TO BE SITE FOR EACH SITE</value>
+	</configuration>
+	<configuration name='server_host'>
+	  <value>https://rapidpro.io</value>
+	</configuration>
+	<configuration name='csd_host'>
+	  <value>https://localhost:8984/CSD/csr/hwr-sample/careServicesRequest</value>
+	</configuration>
+	  
+      </configurationGroup>
+
+    </configurationGroup>
+
+
+  </configurationGroup>
+</I2CEConfiguration>

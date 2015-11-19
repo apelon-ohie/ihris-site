@@ -1,0 +1,423 @@
+# Translation of iHRIS Common - Core to Arabic (العربية)
+# Exported from translatewiki.net
+#
+# Author: Ali1
+# Author: DRIHEM
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Core\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:06:01+0000\n"
+"Last-Translator: Intrahealth <Unknown>\n"
+"Language-Team: Arabic <ar@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:13+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:40:58+0000\n"
+"Plural-Forms: nplurals=6; plural=(n == 0) ? 0 : ( (n == 1) ? 1 : ( (n == "
+"2) ? 2 : ( (n%100 >= 3 && n%100 <= 10) ? 3 : ( (n%100 >= 11 && n%100 <= "
+"99) ? 4 : 5 ) ) ) );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L46'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L2'>templates/en_US/configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L6'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Configure System"
+msgstr "تكوين النظام"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L2'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L5'>templates/en_US/configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L2'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Administer Database"
+msgstr "إدارة قاعدة البيانات"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L9'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Administer positions and create and update dropdown menus."
+msgstr "إدارة المواقف وإنشاء وتحديث القوائم المنسدلة."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L4'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L16'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Configure Modules"
+msgstr "تكوين وحدات"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L19'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Enable and disable the various modules for the system."
+msgstr "تمكين وتعطيل الوحدات المختلفة للنظام."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L28'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Manage Reports"
+msgstr "إدارة التقارير"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L31'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid ""
+"Manage the standard reports available to users and create new custom reports."
+msgstr "إدارة التقارير القياسية المتوفرة للمستخدمين وإنشاء تقارير مخصصة جديدة."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L7'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L33'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Form Relationships"
+msgstr "شكل العلاقات"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L34'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Define how forms are related for use in reports."
+msgstr "تعرف كيف ترتبط النماذج لاستخدامها في التقارير."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L8'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L36'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Reports"
+msgstr "تقارير"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L9'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L40'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Report Views"
+msgstr "تقرير وجهات النظر"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L12'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L54'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Browse Magic Data"
+msgstr "تصفح بيانات الماجيك"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L57'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Browse the configuration data used by the sytem."
+msgstr "تصفح بيانات التكوين المستخدمة من قبل النظام."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L64'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Tasks and Roles"
+msgstr "المهام والأدوار"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L67'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Administer Tasks and Roles for the System"
+msgstr "إدارة المهام والأدوار للنظام"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L18'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L76'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Manage Locales"
+msgstr "إدارةالمواقع"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L79'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Manage the Locales made available by the system"
+msgstr "إدارة المواقع المتاحة من قبل النظام"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L21'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L88'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Background Processes"
+msgstr "خلفية العمليات"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L91'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Examine background processes you have started"
+msgstr "فحص العمليات الخلفية كنت قد بدأتها"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L24'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L99'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Browse Forms"
+msgstr "تصفح النماذج"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L102'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Browse the forms used by the system."
+msgstr "استعراض النماذج المستخدمة من قبل النظام."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L27'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L109'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Cached Forms"
+msgstr "النماذج المخزنة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L112'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "Control the creation of cached forms"
+msgstr "التحكم في إنشاء النماذج المخزنة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L29'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L119'>templates/en_US/configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L5'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Administer Users"
+msgstr "إدارة المستخدمين"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/field_history.html#L2'>templates/en_US/field_history.html</a>
+#, no-c-format
+msgid "Field Change History"
+msgstr "تاريخ تغيير الحقل"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/history.html#L10'>templates/en_US/history.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/field_history.html#L4'>templates/en_US/field_history.html</a>
+#, no-c-format
+msgid "return"
+msgstr "عودة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L15'>templates/en_US/menu_configure.html</a>
+#, no-c-format
+msgid "Tasks Roles"
+msgstr "أدوار المهام"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L5'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Demographic Lists"
+msgstr "قوائم الديموغرافية (السكان)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L7'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Identification Type"
+msgstr "نوع الهوية"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L8'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Marital Status"
+msgstr "الحالة الاجتماعية"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L12'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Geographic Information"
+msgstr "المعلومات الجغرافية"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L14'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Country"
+msgstr "بلد"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L15'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Region"
+msgstr "منطقة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L16'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "District"
+msgstr "حي"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L17'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "County"
+msgstr "مقاطعة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L19'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Currency"
+msgstr "عملة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L23'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Additional Information"
+msgstr "معلومات إضافية"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L26'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Competency Type"
+msgstr "نوع الكفاءة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L27'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Competency"
+msgstr "الكفاءة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L30'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Continuing Education Course"
+msgstr "دورة التعليم المستمر"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L33'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Training Institution"
+msgstr "مؤسسة التدريب"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L34'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Training Funder"
+msgstr "ممول تدريب"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/field_history_fullname.html#L4'>templates/en_US/field_history_fullname.html</a>
+#, no-c-format
+msgid "Full Name"
+msgstr "الاسم الكامل"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/field_history_fullname.html#L5'>templates/en_US/field_history_fullname.html</a>
+#, no-c-format
+msgid "Date Changed"
+msgstr "تغير التاريخ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/intro.html#L2'>templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Welcome"
+msgstr "ترحيب"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L8'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Custom Reports"
+msgstr "تقارير العملاء"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/shell.html#L10'>templates/en_US/shell.html</a>
+#, no-c-format
+msgid "Change Password"
+msgstr "تغيير كلمة السر"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L11'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#, no-c-format
+msgid "Can access the general configure system menu"
+msgstr "يمكن الوصول إلى نظام تكوين القائمة العامة"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L18'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#, no-c-format
+msgid "Home"
+msgstr "الرئيسية"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L25'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#, no-c-format
+msgid "View History"
+msgstr "عرض التاريخ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L32'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#, no-c-format
+msgid "View Field History"
+msgstr "عرض حقل التاريخ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/configs/en_US/iHRIS-Common-Configuration.xml#L39'>configs/en_US/iHRIS-Common-Configuration.xml</a>
+#, no-c-format
+msgid "Access Denied"
+msgstr "غير مسموح بالدخول"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L38'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid ""
+"Define reports based on previously defined relationships. You can choose "
+"which fields are available to each report and what fields can be used to "
+"limit the report."
+msgstr ""
+"تحديد التقارير التي تستند إلى العلاقات المعرفة مسبقا. يمكنك اختيار الحقول "
+"التي تتوفر على كل تقرير، وماذا يمكن أن تستخدم الحقول للحد من التقرير."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L43'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid ""
+"Define report views based on previously defined reports. You can choose "
+"which fields to display and also define a default view that display a chart "
+"or limited results when a user access the report view."
+msgstr ""
+"تحديد عرض التقرير استنادا إلى تقارير محددة سابقا. يمكنك اختيار حقول العرض "
+"و تحديد أيضا طريقة العرض الافتراضية التي تعرض رسما بيانيا أو نتائج "
+"محدودة عندما يقوم المستخدم الوصول إلى طريقة عرض التقرير."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L123'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid ""
+"Create, update and disable user accounts to enforce secure access to the "
+"system. Access is limited to the System Administrator."
+msgstr ""
+"إنشاء وتحديث وتعطيل حسابات المستخدمين لفرض وصول آمن إلى النظام. يقتصر الوصول "
+"علي مسؤول النظام."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/button_confirm_only.html#L2'>templates/en_US/button_confirm_only.html</a>
+#, no-c-format
+msgid "Confirm"
+msgstr "تأكيد"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L39'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "Mass Delete"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/lists.html#L41'>templates/en_US/lists.html</a>
+#, no-c-format
+msgid "By Person (Search Page)"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/menu_configure.html#L31'>templates/en_US/menu_configure.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L128'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "User Statistics"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/templates/en_US/configure.html#L130'>templates/en_US/configure.html</a>
+#, no-c-format
+msgid "View data entry statistics for users."
+msgstr ""

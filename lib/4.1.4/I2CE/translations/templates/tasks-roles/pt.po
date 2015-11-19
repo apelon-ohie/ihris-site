@@ -1,0 +1,280 @@
+# Translation of iHRIS I2CE - Task Roles to Portuguese (português)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Task Roles\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:16:09+0000\n"
+"Last-Translator: Carl Leitner <cleitner@intrahealth.org>\n"
+"Language-Team: Portuguese <https://translatewiki.net/wiki/Portal:pt>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: pt\n"
+"X-Message-Group: #out-ihris-i2ce-tro\n"
+"X-POT-Import-Date: 2013-10-07 17:24:29+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L27'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L8'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles"
+msgstr "Administrar Papéis"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Existing Roles"
+msgstr "Papéis Existentes"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Add a new role"
+msgstr "Adicione novo Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Short Name"
+msgstr "Denominação Abreviada do Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L22'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Display Name"
+msgstr "Denominação do Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user."
+msgstr "O nome atribuído, a este papel, que é apresentado ao utilizador final."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Edit Role"
+msgstr "Editar Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Inheritence"
+msgstr "Aspectos Inerentes ao Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L30'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Tasks"
+msgstr "Tarefas do Papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L31'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this role"
+msgstr "As tarefas atribuidas a este papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L34'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Tasks"
+msgstr "Administrar Tarefas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Existing Tasks"
+msgstr "Tarefas Existentes"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Add a new task"
+msgstr "Adicione uma nova tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Task Short Name"
+msgstr "Denominação Abreviada da Tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Description"
+msgstr "Descrição da Tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "A short description of this task."
+msgstr "Uma breve descrição da tarefa."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html#L4'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html</a>
+#, no-c-format
+msgid "This is a role fixed by the system and cannot be edited."
+msgstr "Este é uma papel definido pelo sistema e não pode ser editado."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles and Tasks"
+msgstr "Administrar Papéis e Tarefas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L5'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Here you may administer the roles and tasks for the system."
+msgstr "Você poderá administrar os papéis e as tarefas para o sistema aqui."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Edit Task"
+msgstr "Editar Tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "A description for this task that is displayed to the end user."
+msgstr ""
+"Uma descrição para esta tarefa, para ser apresentada ao utilizador final."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Tasks"
+msgstr "Tarefas que compõem a Tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L20'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this task"
+msgstr "As tarefas que fazem parte desta tarefa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L11'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows minimal access to the Task and Role Management System"
+msgstr "Permite acesso mínimo ao Sistema de Gestão de Tarefas e de Papéis"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L14'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Task Management System"
+msgstr "Permite acesso com direitos de edição do Sistema de Gestão de Tarefas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L17'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Role Management System"
+msgstr "Permite acesso com direitos de edição do Sistema de Gestão de Papéis"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L20'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows complete access to the Task and Role Management System"
+msgstr "Permite acesso total ao Sistema de Gestão de Tarefas e Papéis"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L41'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Administer Tasks and Roles"
+msgstr "Administrar Tarefas e Papéis"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L23'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"role in pages and templates."
+msgstr ""
+"Uma breve denominação formada por uma letra e um número, -, . e _ usada para "
+"se referir ao papel em páginas e modelos."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L21'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid ""
+"The roles that have all the rights of this role. The admin role will have "
+"automatically have access to this role"
+msgstr ""
+"A posições que possuem todos os direitos de acesso sobre este papel. A "
+"posição de administrador terá automaticamente acesso aeste papel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"task in pages and templates."
+msgstr ""
+"Uma denominação abreviada formada por uma letra e po um número, -, . e _ "
+"usada para ser referir à tarefa em páginas e modelos."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L13'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A role is used when creating a user. You will assign a role to a user. There "
+"is a special role 'admin' this is the Adminstator role. You may also "
+"designate which roles have the same all of the rights of a specified role."
+msgstr ""
+"Um papel é usado quando se cria um utilizador . Você irá atribuir um papel a "
+"um utilizador. Existe uma papel 'admin' especial, é o papel do "
+"Administrador. Você poderá também designar que papéis possuem todos os "
+"mesmos direitos de um papel específico."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L18'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A task is a specific action that is performed by the system. You may assign "
+"a collection of tasks to a role. You may also create a new task by grouping "
+"tasks together"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L39'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Home page"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L40'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Default home page for this role"
+msgstr ""

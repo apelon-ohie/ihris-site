@@ -1,0 +1,184 @@
+# Translation Template of ihris-common module (UserStatistics Version 4.1.5.18)
+# Copyright (C) 2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common@UserStatistics 4.1.5.18\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"Last-Translator: Intrahealth <hris@capacityproject.org>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L10'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L97'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "User Statistics"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html</a>
+#, no-c-format
+msgid "Login"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html#L4'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html</a>
+#, no-c-format
+msgid "Logout"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Unique Person Records (including child forms) Modified (last"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#, no-c-format
+msgid "days of activity)"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "View Other Statistics"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "All User Reports"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L14'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Date"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L14'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Number of Unique Person Records Modified"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#, no-c-format
+msgid "Form Update History (last"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Login History"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L15'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Login History (last"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L15'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "entries)"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html#L4'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html</a>
+#, no-c-format
+msgid "Last Activity"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_total.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_total.html</a>
+#, no-c-format
+msgid "Total for"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L13'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "List of all changes made to individual form fields for all users."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L18'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Date Modified"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L23'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Date Modified On or After"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L30'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L35'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Username"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L42'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "User"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L47'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L52'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Form"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L59'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Field"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L64'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L69'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Record ID"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L76'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Value"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L81'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Change Type"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L87'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Initial Entry"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L88'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Verified Value"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L89'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Corrected Value"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L90'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Updated Value"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Data Entry History"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "All User Data Entry History"
+msgstr ""
+

@@ -1,0 +1,255 @@
+# Translation of iHRIS Manage - Custom Reports - Position Reports to Swahili (Kiswahili)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports - Position Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:18:33+0000\n"
+"Last-Translator: IntraHealth Informatics <Unknown>\n"
+"Language-Team: Swahili <https://translatewiki.net/wiki/Portal:sw>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: sw\n"
+"X-Message-Group: #out-ihris-manage-crpr\n"
+"X-POT-Import-Date: 2013-10-07 17:25:47+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L16'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L181'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L204'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Cadre"
+msgstr "Kada"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L19'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The cadre associated with this job."
+msgstr "Kada inayohusiana na kazi hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L24'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L193'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L213'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Classification"
+msgstr "Uainishaji"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L27'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The classification associated with this job."
+msgstr "Uainishaji unaohusiana na kazi hii."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L32'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L114'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "Kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L35'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The job associated with this position."
+msgstr "Kazi inayohusiana na nafasi hii."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L40'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L131'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L222'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "Jengo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L43'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The facility where this position works."
+msgstr "Jengo ambapo hii nafasi inafaa."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L48'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L143'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L231'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Department"
+msgstr "Idara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L51'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The department this position belongs to."
+msgstr "Idara ambayo hii nafasi inatakiwa kuwepo."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L56'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Last Position"
+msgstr "Nafasi ya Mwisho"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L59'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The last person that filled this position."
+msgstr "Mtu wa mwisho ambaye alijaza nafasi hii."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L64'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Current Position"
+msgstr "Nafasi ya Sasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L67'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The current person filling this position."
+msgstr "Mtu wa sasa anayejaza nafasi hii."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L74'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The number of days this positions was open before being filled."
+msgstr "Idadi ya siku ambazo nafasi hii ilikuwa wazi kabla ya kujazwa."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L79'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Positions"
+msgstr "Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L82'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "All information related to a position."
+msgstr "Taarifa yote inayohusiana na nafasi."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L90'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L267'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position List"
+msgstr "Orodha ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L93'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Details for all positions."
+msgstr "Maelezo ya kina kwa ajili ya nafasi zote."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L104'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Code"
+msgstr "Simbo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L109'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Job"
+msgstr "Nafasi ya Kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L121'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Title"
+msgstr "Cheo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L126'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr "Utambulisho wa Jengo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L138'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Department ID"
+msgstr "Utambulisho wa Idara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L150'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Posted Date"
+msgstr "Tarehe Iliyotangazwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L155'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L160'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Status"
+msgstr "Hadhi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L171'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Job Title"
+msgstr "Cheo cha Kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L176'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Cadre ID"
+msgstr "Utambulisho wa Kada"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L188'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Classification ID"
+msgstr "Utambulisho wa Uainishaji"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L240'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Open Date"
+msgstr "Tarehe ya Kufungua"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L249'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Filled Date"
+msgstr "Tarehe Iliyojazwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L258'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Days Open"
+msgstr "Siku zilizo wazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L270'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "A list of all positions."
+msgstr "Orodha ya nafasi zote."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L275'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Open Duration"
+msgstr "Muda wa Nafasi kuwa Wazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L278'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The length in days each position was open before being filled."
+msgstr "Idadi ya siku ambazo nafasi hii ilikuwa wazi kabla ya kujazwa."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L96'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Reports"
+msgstr "Ripoti za Nafasi"

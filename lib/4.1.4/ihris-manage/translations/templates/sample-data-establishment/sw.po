@@ -1,0 +1,102 @@
+# Swahili translation for ihris-manage
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ihris-manage package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-manage@SampleData-establishment 4.1.0\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2010-08-02 08:11+0000\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: Swahili <sw@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L11'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L14'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L81'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Staffing Norm for 2010"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L19'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "The position held by this person."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L22'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Position"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L27'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "The job associated with this position."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L30'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L112'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L35'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L38'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L121'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Cadre"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L45'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "The facility where this position works."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L48'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L107'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L53'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "The Facility Type"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L56'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L98'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L61'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L64'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Establishment"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L78'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L139'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Staffing Norms for 2010"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L130'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Filled Positions"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L89'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Staffing Norm"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml#L142'>modules/SampleData/modules/SampleData-Establishment/configs/en_US/establishment-sample.xml</a>
+#, no-c-format
+msgid "Staffing Norm 2010"
+msgstr ""

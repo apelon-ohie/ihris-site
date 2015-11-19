@@ -1,0 +1,418 @@
+# Translation of iHRIS I2CE - Lists to Dutch (Nederlands)
+# Exported from translatewiki.net
+#
+# Author: Siebrand
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Lists\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:14:34+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Dutch <https://translatewiki.net/wiki/Portal:nl>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:18+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: nl\n"
+"X-Message-Group: #out-ihris-i2ce-lists\n"
+"X-POT-Import-Date: 2013-10-07 17:23:40+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html#L10'>modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_button_save_return.html#L9'>modules/Forms/modules/Lists/templates/en_US/auto_button_save_return.html</a>
+#, no-c-format
+msgid "return (do not save changes)"
+msgstr "terug (wijzigingen niet opslaan)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list.html#L3'>modules/Forms/modules/Lists/templates/en_US/auto_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html#L2'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L2'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_list.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_form_base.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_form_base.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_select.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_select.html</a>
+#, no-c-format
+msgid "Administer Database"
+msgstr "Database beheren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html#L4'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L33'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html#L3'>modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_list.html#L4'>modules/Forms/modules/Lists/templates/en_US/lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_select.html#L10'>modules/Forms/modules/Lists/templates/en_US/lists_type_select.html</a>
+#, no-c-format
+msgid "Add new"
+msgstr "Nieuwe toevoegen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html#L34'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L67'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html#L16'>modules/Forms/modules/Lists/templates/en_US/lists_type_dual.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_list.html#L27'>modules/Forms/modules/Lists/templates/en_US/lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html#L59'>modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_select.html#L19'>modules/Forms/modules/Lists/templates/en_US/lists_type_select.html</a>
+#, no-c-format
+msgid "return"
+msgstr "terug"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_select.html#L8'>modules/Forms/modules/Lists/templates/en_US/lists_type_select.html</a>
+#, no-c-format
+msgid "Select %s to edit"
+msgstr "Selecteer een %s om te bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list.html#L2'>modules/Forms/modules/Lists/templates/en_US/view_list.html</a>
+#, no-c-format
+msgid "View"
+msgstr "Bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list.html#L5'>modules/Forms/modules/Lists/templates/en_US/view_list.html</a>
+#, no-c-format
+msgid "Information"
+msgstr "Gegevens"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L8'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html#L8'>modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html</a>
+#, no-c-format
+msgid "Select %s"
+msgstr "Selecteer %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L15'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html#L15'>modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html</a>
+#, no-c-format
+msgid "Select the %1$s to limit the displayed values of %2$s."
+msgstr "Selecteer de %1$s om de weergegeven waarden van %2$s te beperken."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html#L33'>modules/Forms/modules/Lists/templates/en_US/lists_type_mapped.html</a>
+#, no-c-format
+msgid "Add new %s"
+msgstr "Nieuwe %s toevoegen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/menu_view.html#L2'>modules/Forms/modules/Lists/templates/en_US/menu_view.html</a>
+#, no-c-format
+msgid "View Record"
+msgstr "Record bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L63'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Hide"
+msgstr "Verbergen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L72'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Name"
+msgstr "Naam"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L89'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Can hide list members"
+msgstr "Kan lijstleden verbergen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L92'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Can edit some of the lists stored in the database"
+msgstr "Kan een aantal van de in de database opgeslagen lijsten bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L95'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Can edit all the lists stored in the database"
+msgstr "Kan alle in de database opgeslagen lijsten bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L98'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Can view some of the lists stored in the database"
+msgstr "Kan een aantal van de in de database opgeslagen lijsten bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L101'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Can view all the lists stored in the database"
+msgstr "Kan alle in de database opgeslagen lijsten bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L108'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "View List"
+msgstr "Lijst bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html#L4'>modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_view_list.html#L14'>modules/Forms/modules/Lists/templates/en_US/auto_view_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple.html#L4'>modules/Forms/modules/Lists/templates/en_US/view_list_simple.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Gegevens bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html#L6'>modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple.html#L6'>modules/Forms/modules/Lists/templates/en_US/view_list_simple.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Gegevens bijwerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html#L7'>modules/Forms/modules/Lists/templates/en_US/view_list_simple_coded.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/view_list_simple.html#L7'>modules/Forms/modules/Lists/templates/en_US/view_list_simple.html</a>
+#, no-c-format
+msgid "Select another"
+msgstr "Andere selecteren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html#L7'>modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html</a>
+#, no-c-format
+msgid "Confirm"
+msgstr "Bevestigen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/list_add_link.html#L1'>modules/Forms/modules/Lists/templates/en_US/list_add_link.html</a>
+#, no-c-format
+msgid "(Add New...)"
+msgstr "(Nieuwe toevoegen...)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L2'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "Select"
+msgstr "Selecteren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L3'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L3'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "to edit"
+msgstr "te bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L39'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid ""
+"This must be unique and another record has this value for the given values "
+"of the fields"
+msgstr ""
+"Deze moet uniek zijn en een ander record heeft deze waarde voor de gegeven "
+"waarden van de velden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L42'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid ""
+"This must be unique and another record has this value for the given value of "
+"the field"
+msgstr ""
+"DIT moet uniek zijn en een ander record heeft deze waarde voor de gegeven "
+"waarde van het veld"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L45'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "This must be unique and another record has this value."
+msgstr "Dit moet uniek zijn en een ander record heeft deze waarde."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L50'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Select One"
+msgstr "Maak een keuze"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html#L4'>modules/Forms/modules/Lists/templates/en_US/button_confirm_admin.html</a>
+#, no-c-format
+msgid "Required Field"
+msgstr "Verplicht veld"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L11'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L31'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Administer Database Lists"
+msgstr "Databaselijsten beheren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L16'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Add/Update Database List"
+msgstr "Databaselijsten toevoegen of bijwerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L21'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Remap Database Lists"
+msgstr "Databaselijsten herkoppelen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L26'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Other Lists"
+msgstr "Andere lijsten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L27'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "View %s"
+msgstr "Weergave %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L28'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Add/Update %s"
+msgstr "%s weergeven of bijwerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L29'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Update this information"
+msgstr "Gegevens bijwerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L30'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Select another %s"
+msgstr "Andere %s selecteren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L32'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Remap field %1$s in %2$s (%3$s matches)"
+msgstr "Veld %1$s in %2$s herkoppelen (%3$s resulaten)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L33'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Set remapping data"
+msgstr "Herkoppelingsgegevens instellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L34'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "View remapping data"
+msgstr "Herkoppelingsgegevens bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L58'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Remapped Value"
+msgstr "Herkoppelde waarde"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/configs/en_US/Lists.xml#L81'>modules/Forms/modules/Lists/configs/en_US/Lists.xml</a>
+#, no-c-format
+msgid "Code"
+msgstr "Code"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L76'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "Data Remapping"
+msgstr "Gegevens herkoppelen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L84'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "of"
+msgstr "van"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L92'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "First"
+msgstr "Eerste"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L98'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "Previous"
+msgstr "Vorige"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L103'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "Last"
+msgstr "Laatste"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L108'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "Next"
+msgstr "Volgende"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/remap.html#L114'>modules/Forms/modules/Lists/templates/en_US/remap.html</a>
+#, no-c-format
+msgid "Play"
+msgstr "Afspelen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header_alphabet_clear.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_header_alphabet_clear.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_header_alphabet_clear.html#L2'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_header_alphabet_clear.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "All"
+msgstr "Alle"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html#L7'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_list.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html#L36'>modules/Forms/modules/Lists/templates/en_US/auto_lists_type_mapped.html</a>
+#, no-c-format
+msgid "Perform Remap"
+msgstr "Herkoppeling uitvoeren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_button_save_return.html#L5'>modules/Forms/modules/Lists/templates/en_US/auto_button_save_return.html</a>
+#, no-c-format
+msgid "Save"
+msgstr "Opslaan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "Show"
+msgstr "Weergeven"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "Non-hidden"
+msgstr "Niet-verborgen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/lists_type_header.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html#L4'>modules/Forms/modules/Lists/templates/en_US/auto_list_type_header.html</a>
+#, no-c-format
+msgid "Hidden Only"
+msgstr "Alleen verborgen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/Lists/templates/en_US/lists_type_row_remapped.html#L2'>modules/Forms/modules/Lists/templates/en_US/lists_type_row_remapped.html</a>
+#, no-c-format
+msgid "Remapped to"
+msgstr "Herkoppeld aan"

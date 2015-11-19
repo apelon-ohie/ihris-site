@@ -1,0 +1,281 @@
+# Translation of iHRIS I2CE - Task Roles to Czech (čeština)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Task Roles\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:16:04+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <https://translatewiki.net/wiki/Portal:cs>\n"
+"Language: cs\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: cs\n"
+"X-Message-Group: #out-ihris-i2ce-tro\n"
+"X-POT-Import-Date: 2013-10-07 17:24:29+0000\n"
+"Plural-Forms: nplurals=3; plural=(n == 1) ? 0 : ( (n >= 2 && n <= 4) ? 1 : "
+"2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L27'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L8'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles"
+msgstr "Spravovat role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Existing Roles"
+msgstr "Existující role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Add a new role"
+msgstr "Přidat novou roli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Short Name"
+msgstr "Krátký název role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L22'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "Role Display Name"
+msgstr "Zobrazený název role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user."
+msgstr "Název této role, který je zobrazen koncovému uživateli."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Edit Role"
+msgstr "Upravit roli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Inheritence"
+msgstr "Dědění role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L30'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Tasks"
+msgstr "Úkoly role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L31'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this role"
+msgstr "Úkoly, které jsou této roli přiděleny"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L34'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Tasks"
+msgstr "Spravovat úkoly"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L3'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Existing Tasks"
+msgstr "Existující úkoly"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Add a new task"
+msgstr "Přidat nový úkol"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L15'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "Task Short Name"
+msgstr "Krátký název úkolu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L24'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L11'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Description"
+msgstr "Popis úkolu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L25'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid "A short description of this task."
+msgstr "Krátký popis tohoto úkolu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html#L4'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles_no_edit.html</a>
+#, no-c-format
+msgid "This is a role fixed by the system and cannot be edited."
+msgstr "Toto je role zadaná systémem a nemůže být upravena."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L2'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Administer Roles and Tasks"
+msgstr "Spravovat role a úkoly"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L5'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid "Here you may administer the roles and tasks for the system."
+msgstr "Zde můžete spravovat role a úkoly v systému."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L7'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Edit Task"
+msgstr "Upravit úkol"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L12'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "A description for this task that is displayed to the end user."
+msgstr "Popis tohoto úkolu, který je zobrazen koncovému uživateli."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L19'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "Task Tasks"
+msgstr "Úlohy úkolu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html#L20'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_task.html</a>
+#, no-c-format
+msgid "The tasks that are assigned to this task"
+msgstr "Úlohy, které jsou přiděleny tomuto úkolu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L11'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows minimal access to the Task and Role Management System"
+msgstr "Umožnit minimální přístup k systému správy úkolů a rolí"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L14'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Task Management System"
+msgstr "Umožní přístup pro úpravu do systému správy úkolů"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L17'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows edit access to the Role Management System"
+msgstr "Umožní přístup pro úpravu do systému správy úkolů"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L20'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Allows complete access to the Task and Role Management System"
+msgstr "Umožní úplný přístup do systému správy úkolů a rolí"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml#L41'>modules/Pages/modules/TasksAndRoles/configs/en_US/TasksAndRoles.xml</a>
+#, no-c-format
+msgid "Administer Tasks and Roles"
+msgstr "Spravovat úkoly a role"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L23'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid "A display name for this role that is displayed to the end user"
+msgstr "Zobrazený název pro tuto roli, který je zobrazen koncovému uživateli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_roles.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"role in pages and templates."
+msgstr ""
+"Krátký název, skládající se z písmen a číslic, -, a _, který je použit pro "
+"odkazování na role ve stránkách a šablonách."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L21'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid ""
+"The roles that have all the rights of this role. The admin role will have "
+"automatically have access to this role"
+msgstr ""
+"Role, které mají veškerá práva pro tuto roli. Role administrátora bude mít "
+"automatický přístup k této roli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html#L17'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_view_all_tasks.html</a>
+#, no-c-format
+msgid ""
+"A short name consisting of letter and number, -, . and _ used to refer the "
+"task in pages and templates."
+msgstr ""
+"Krátký název, skládající se z písmen a číslic, -, a _, který je použit pro "
+"odkazování na úkol ve stránkách a šablonách."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L13'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A role is used when creating a user. You will assign a role to a user. There "
+"is a special role 'admin' this is the Adminstator role. You may also "
+"designate which roles have the same all of the rights of a specified role."
+msgstr ""
+"Role je použita při vytváření uživatele. Uživateli roli přidělíte. Existuje "
+"zvláštní role 'admin' - toto je role Administrátora. Můžete také určit které "
+"role mají stejná práva určité role."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html#L18'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_menu.html</a>
+#, no-c-format
+msgid ""
+"A task is a specific action that is performed by the system. You may assign "
+"a collection of tasks to a role. You may also create a new task by grouping "
+"tasks together"
+msgstr ""
+"Úkol je určitá činnost, která je prováděna systémem. Roli můžete přidělit "
+"sbírku úloh. Můžete také vytvořit nový úkol seskupením několika dohromady"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L39'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Role Home page"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html#L40'>modules/Pages/modules/TasksAndRoles/templates/en_US/roles_and_tasks_edit_role.html</a>
+#, no-c-format
+msgid "Default home page for this role"
+msgstr ""

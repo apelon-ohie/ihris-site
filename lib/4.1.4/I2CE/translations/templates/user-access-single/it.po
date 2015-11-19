@@ -1,0 +1,29 @@
+# Italian translation for i2ce
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the i2ce package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: i2ce\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-04 11:36+0300\n"
+"PO-Revision-Date: 2011-04-30 10:48+0000\n"
+"Last-Translator: simone.sandri <lexluxsox@hotmail.it>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:19+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_edit_Single.html#L2'>modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_edit_Single.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_Single.html#L2'>modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_Single.html</a>
+#, no-c-format
+msgid "Administer Users"
+msgstr "Amministra Utenti"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_view_Single.html#L3'>modules/User/modules/UserAccess_SingleUser/templates/en_US/user_form_view_Single.html</a>
+#, no-c-format
+msgid "Single Access User"
+msgstr "Utente Accesso Singolo"

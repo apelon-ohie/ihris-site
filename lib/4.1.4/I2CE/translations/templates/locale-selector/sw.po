@@ -1,0 +1,122 @@
+# Translation Template of I2CE module (localeSelector Version 4.1.0)
+# Copyright (C) 2010 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: I2CE@localeSelector 4.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-04 11:36+0300\n"
+"PO-Revision-Date: 2010-07-12 13:33+0000\n"
+"Last-Translator: Intrahealth <Unknown>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_add.html#L3'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_add.html</a>
+#, no-c-format
+msgid "Add New Locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L27'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L29'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Add A New Locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L22'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L35'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Close"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_view.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_view.html</a>
+#, no-c-format
+msgid "Locale Resolution"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L10'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid "The default resolution is"
+msgstr "Mpambanuko mpangoli ni"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid ""
+"Here you may select the locales that you wish to make available for users to "
+"select for your site. The default fallback locale for the site is"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base.html#L4'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base.html</a>
+#, no-c-format
+msgid ""
+"These are the locales that are available for users to select for your site. "
+"The default fallback locale for the site is"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L6'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid "The list of locales to looking for translations of the locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L7'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+". If not set, then the selected locale is checked, then its underlying "
+"language, and then"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L12'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L14'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select Available Locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L16'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Available Locales"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L18'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select a locale for your system"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L19'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Select Locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L31'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "Custom Locale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html#L33'>modules/Pages/modules/LocaleSelector/templates/en_US/site_locale_base_edit.html</a>
+#, no-c-format
+msgid "You may enter a custom locale to be made available to your system."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L15'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"If you wish to specify an alternate locale resolution you may do so by "
+"entering them as a comma separated list from highest priority to lowest "
+"priority."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L15'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"For example fr-RW,fr-FR,%s may be an appropriate resolution for the locale "
+"fr-RW."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html#L16'>modules/Pages/modules/LocaleSelector/templates/en_US/locale_edit.html</a>
+#, no-c-format
+msgid ""
+"If %s is not specified in the list, it is automatically set as the lowest "
+"priority locale."
+msgstr ""

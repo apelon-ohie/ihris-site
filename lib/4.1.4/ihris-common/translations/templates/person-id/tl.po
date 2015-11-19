@@ -1,0 +1,156 @@
+# Translation of iHRIS Common - Person ID to Tagalog (Tagalog)
+# Exported from translatewiki.net
+#
+# Author: AnakngAraw
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Person ID\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2014-01-06 11:09:04+0000\n"
+"Last-Translator: IntraHealth Informatics <Unknown>\n"
+"Language-Team: Tagalog <https://translatewiki.net/wiki/Portal:tl>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:15+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: tl\n"
+"X-Message-Group: #out-ihris-common-pid\n"
+"X-POT-Import-Date: 2013-10-07 17:20:36+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/form_person_id.html#L3'>modules/Person/modules/ID/templates/en_US/form_person_id.html</a>
+#, no-c-format
+msgid "Identification Information"
+msgstr "Kabatiran sa Pagkakakilanlan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L4'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L3'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Baguhin ang Kabatirang Ito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L6'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L5'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Isapanahon ang Kabatirang ito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L7'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#, no-c-format
+msgid "Select another ID Type"
+msgstr "Pumili ng ibang Uri ng ID"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_list_id_type.html#L14'>modules/Person/modules/ID/templates/en_US/view_list_id_type.html</a>
+#, no-c-format
+msgid "ID Type"
+msgstr "Uri ng ID"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/templates/en_US/view_person_id.html#L12'>modules/Person/modules/ID/templates/en_US/view_person_id.html</a>
+#, no-c-format
+msgid "Identification"
+msgstr "Pagkakakilanlan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L16'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can view person_id child form of a person"
+msgstr "Matitingnan ang ID_ng_tao ng pormularyong pambata ng isang tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L19'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can edit person_id child forms of a person"
+msgstr "Mababago ang ID_ng_tao ng mga pormularyong pambata ng isang tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L22'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can edit the id_type database list"
+msgstr "Mababago ang tala ng uri_ng_ID ng kalipunan ng dato"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L25'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Can view the id_type database list"
+msgstr "Matitingnan ang tala ng uri_ng_ID ng kalipunan ng dato"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L32'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Add/Update Identification"
+msgstr "Magdagdag/Magsapanahon ng Pagkakakilanlan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L40'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L59'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Identification Type"
+msgstr "Uri ng Pagkakakilanlan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L45'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Person Identification"
+msgstr "Pagkakakilanlan ng Tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L49'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "This form holds basic information about an identification for a person"
+msgstr ""
+"Ang pormularyong ito ay humahawak ng saligang kabatiran tungkol sa "
+"pagkakakilanlan ng isang tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L64'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Identification Number"
+msgstr "Bilang ng Pagkakakilanlan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L11'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "The date of expiration must be after the date of issue."
+msgstr ""
+"Ang petsa ng pagkawalang bisa ay dapat na maging pagkalipas ng petsa ng "
+"pagkakaloob."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L69'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Date of Issue"
+msgstr "Petsa ng Pagkakaloob"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L74'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Date of Expiration"
+msgstr "Petsa ng Pagkawalang Bisa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L79'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Country of Issue"
+msgstr "Bansa ng Pagkakaloob"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/ID/configs/en_US/ID.xml#L84'>modules/Person/modules/ID/configs/en_US/ID.xml</a>
+#, no-c-format
+msgid "Place of Issue"
+msgstr "Pook ng Pagkakaloob"

@@ -1,0 +1,115 @@
+# Translation Template of I2CE module (PrintedForms Version 4.1.2.0)
+# Copyright (C) 2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: I2CE@PrintedForms 4.1.2.0\n"
+"POT-Creation-Date: 2013-01-04 11:36+0300\n"
+"Last-Translator: Intrahealth <hris@capacityproject.org>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_archive_each.html#L2'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_archive_each.html</a>
+#, no-c-format
+msgid "View"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_archive_each.html#L3'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_archive_each.html</a>
+#, no-c-format
+msgid "%s generated on %s"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html#L2'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html</a>
+#, no-c-format
+msgid "Standardized Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html#L4'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html</a>
+#, no-c-format
+msgid "Generate Standardized Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html#L8'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html</a>
+#, no-c-format
+msgid "No available standardized forms for this record."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html#L17'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html</a>
+#, no-c-format
+msgid "Archived Standardized Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html#L21'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu.html</a>
+#, no-c-format
+msgid "No forms have been archived forms for this record."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_each.html#L3'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_each.html</a>
+#, no-c-format
+msgid "Generate"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_each.html#L6'>modules/Forms/modules/PrintedForms/templates/en_US/printed_forms_menu_each.html</a>
+#, no-c-format
+msgid "Archive"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L11'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows minimal access to the Printed Forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L14'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows full access to the Printed Forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L17'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows access to the generating all of the printed forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L20'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows administation of all archived of the printed forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L23'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows creating of all archived of the printed forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L26'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Allows viewing of all archived of the printed forms System"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L33'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Generated Document"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L42'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Document"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L47'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Date"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L52'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Description"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml#L57'>modules/Forms/modules/PrintedForms/configs/en_US/PrintedForm.xml</a>
+#, no-c-format
+msgid "Primary Form ID"
+msgstr ""
+

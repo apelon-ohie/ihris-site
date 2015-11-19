@@ -1,0 +1,802 @@
+# Translation of iHRIS Common - SDMX-HD Code Lists to Spanish (español)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - SDMX-HD Code Lists\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2014-01-06 11:11:13+0000\n"
+"Last-Translator: MHolguin <Unknown>\n"
+"Language-Team: Spanish <https://translatewiki.net/wiki/Portal:es>\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:16+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: es\n"
+"X-Message-Group: #out-ihris-common-shcl\n"
+"X-POT-Import-Date: 2013-10-07 17:21:46+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L11'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_asource"
+msgstr "Puede ver la base de datos de lista de códigos de  cl_asource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L14'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_cstype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_cstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L17'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_currency"
+msgstr "Puede ver la base de datos de lista de códigos de cl_currency"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L20'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_day"
+msgstr "Puede ver la base de datos de lista de códigos de cl_day"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L23'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disagg"
+msgstr "Puede ver la base de datos de lista de códigos de cl_disagg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L26'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disease"
+msgstr "Puede ver la base de datos de lista de códigos de cl_disease"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L29'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_disstat"
+msgstr "Puede ver la base de datos de lista de códigos de cl_disstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L32'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dsource"
+msgstr "Puede ver la base de datos de lista de códigos de cl_dsource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L35'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dstype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_dstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L38'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_dtype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_dtype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L41'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_fperiod"
+msgstr "Puede ver la base de datos de lista de códigos de cl_fperiod"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L44'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gboundary_type"
+msgstr "Puede ver la base de datos de lista de códigos de cl_gboundary_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L47'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gcode_country"
+msgstr "Puede ver la base de datos de lista de códigos de cl_gcode_country"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L50'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_gender"
+msgstr "Puede ver la base de datos de lista de códigos de cl_gender"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L53'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_glevel"
+msgstr "Puede ver la base de datos de lista de códigos de cl_glevel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L56'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_glocation"
+msgstr "Puede ver la base de datos de lista de códigos de cl_glocation"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L59'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_hif1"
+msgstr "Puede ver la base de datos de lista de códigos de cl_hif1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L62'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_hif2"
+msgstr "Puede ver la base de datos de lista de códigos de cl_hif2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L65'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_income"
+msgstr "Puede ver la base de datos de lista de códigos de cl_income"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L68'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_logical"
+msgstr "Puede ver la base de datos de lista de códigos de cl_logical"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L71'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_metype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_metype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L74'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_month"
+msgstr "Puede ver la base de datos de lista de códigos de cl_month"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L77'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_mult"
+msgstr "Puede ver la base de datos de lista de códigos de cl_mult"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L80'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_operand"
+msgstr "Puede ver la base de datos de lista de códigos de cl_operand"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L83'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_orphan"
+msgstr "Puede ver la base de datos de lista de códigos de cl_orphan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L86'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_otype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_otype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L89'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_periodicity"
+msgstr "Puede ver la base de datos de lista de códigos de cl_periodicity"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L92'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_preg"
+msgstr "Puede ver la base de datos de lista de códigos de cl_preg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L95'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_pstatus"
+msgstr "Puede ver la base de datos de lista de códigos de cl_pstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L98'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_ptype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_ptype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L101'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_quarter"
+msgstr "Puede ver la base de datos de lista de códigos de cl_quarter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L104'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_race"
+msgstr "Puede ver la base de datos de lista de códigos de cl_race"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L107'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_sector"
+msgstr "Puede ver la base de datos de lista de códigos de cl_sector"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L110'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_sex"
+msgstr "Puede ver la base de datos de lista de códigos de cl_sex"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L113'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_special_value"
+msgstr "Puede ver la base de datos de lista de códigos de cl_value"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L116'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_stype"
+msgstr "Puede ver la base de datos de lista de códigos de cl_stype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L119'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_tpop"
+msgstr "Puede ver la base de datos de lista de códigos de cl_tpop"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L122'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_unit"
+msgstr "Puede ver la base de datos de lista de códigos de cl_unit"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L125'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_value_type"
+msgstr "Puede ver la base de datos de lista de códigos de cl_value_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L128'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_vstatus"
+msgstr "Puede ver la base de datos de lista de códigos de cl_vstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L131'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_vulnstat"
+msgstr "Puede ver la base de datos de lista de códigos de cl_vulnstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L134'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_week"
+msgstr "Puede ver la base de datos de lista de códigos de cl_week"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L137'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can view database code list cl_year"
+msgstr "Puede ver la base de datos de lista de códigos de cl_year"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L140'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_asource"
+msgstr "Puede editar la base de datos de lista de códigos de cl_asource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L143'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_cstype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_cstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L146'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_currency"
+msgstr "Puede editar la base de datos de lista de códigos de cl_currency"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L149'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_day"
+msgstr "Puede editar la base de datos de lista de códigos de cl_day"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L152'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disagg"
+msgstr "Puede editar la base de datos de lista de códigos de cl_disagg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L155'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disease"
+msgstr "Puede editar la base de datos de lista de códigos de cl_disease"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L158'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_disstat"
+msgstr "Puede editar la base de datos de lista de códigos de cl_disstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L161'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dsource"
+msgstr "Puede editar la base de datos de lista de códigos de cl_dsource"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L164'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dstype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_dstype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L167'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_dtype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_dtype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L170'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_fperiod"
+msgstr "Puede editar la base de datos de lista de códigos de cl_fperiod"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L173'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gboundary_type"
+msgstr "Puede editar la base de datos de lista de códigos de cl_gboundary_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L176'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gcode_country"
+msgstr "Puede editar la base de datos de lista de códigos de cl_gcode_country"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L179'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_gender"
+msgstr "Puede editar la base de datos de lista de códigos de cl_gender"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L182'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_glevel"
+msgstr "Puede editar la base de datos de lista de códigos de cl_glevel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L185'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_glocation"
+msgstr "Puede editar la base de datos de lista de códigos de cl_glocation"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L188'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_hif1"
+msgstr "Puede editar la base de datos de lista de códigos de cl_hif1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L191'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_hif2"
+msgstr "Puede editar la base de datos de lista de códigos de cl_hif2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L194'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_income"
+msgstr "Puede editar la base de datos de lista de códigos de cl_income"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L197'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_logical"
+msgstr "Puede editar la base de datos de lista de códigos de cl_logical"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L200'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_metype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_metype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L203'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_month"
+msgstr "Puede editar la base de datos de lista de códigos de cl_month"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L206'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_mult"
+msgstr "Puede editar la base de datos de lista de códigos de cl_mult"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L209'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_operand"
+msgstr "Puede editar la base de datos de lista de códigos de cl_operand"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L212'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_orphan"
+msgstr "Puede editar la base de datos de lista de códigos de cl_orphan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L215'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_otype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_otype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L218'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_periodicity"
+msgstr "Puede editar la base de datos de lista de códigos de cl_periodicity"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L221'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_preg"
+msgstr "Puede editar la base de datos de lista de códigos de cl_preg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L224'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_pstatus"
+msgstr "Puede editar la base de datos de lista de códigos de cl_pstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L227'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_ptype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_ptype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L230'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_quarter"
+msgstr "Puede editar la base de datos de lista de códigos de cl_quarter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L233'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_race"
+msgstr "Puede editar la base de datos de lista de códigos de cl_race"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L236'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_sector"
+msgstr "Puede editar la base de datos de lista de códigos de cl_sector"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L239'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_sex"
+msgstr "Puede editar la base de datos de lista de códigos de cl_sex"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L242'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_special_value"
+msgstr "Puede editar la base de datos de lista de códigos de cl_special_value"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L245'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_stype"
+msgstr "Puede editar la base de datos de lista de códigos de cl_stype"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L248'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_tpop"
+msgstr "Puede editar la base de datos de lista de códigos de cl_tpop"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L251'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_unit"
+msgstr "Puede editar la base de datos de lista de códigos de cl_unit"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L254'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_value_type"
+msgstr "Puede editar la base de datos de lista de códigos de cl_value_type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L257'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_vstatus"
+msgstr "Puede editar la base de datos de lista de códigos de cl_vstatus"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L260'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_vulnstat"
+msgstr "Puede editar la base de datos de lista de códigos de cl_vulnstat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L263'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_week"
+msgstr "Puede editar la base de datos de lista de códigos de cl_week"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L266'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Can edit database code list cl_year"
+msgstr "Puede editar la base de datos de lista de códigos de cl_year"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L273'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Administrative Source"
+msgstr "Fuente Administrativa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L278'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Calculation Syntax Type"
+msgstr "Tipo de Sintaxis para el Cálculo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L283'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Currency"
+msgstr "Moneda"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L288'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Days"
+msgstr "Días"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L293'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disaggregation"
+msgstr "División"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L298'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disease"
+msgstr "Enfermedad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L303'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Disease Status"
+msgstr "Estatus Enfermedad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L308'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Data Source"
+msgstr "Fuente de datos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L313'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Data Source Type"
+msgstr "Tipo de Fuente de Datos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L318'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Datatype"
+msgstr "Tipo de dato"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L323'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Followup Period"
+msgstr "Período de Seguimiento"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L328'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Boundary Type"
+msgstr "Tipo de Límite"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L333'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Country Code"
+msgstr "Código de país"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L338'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Gender"
+msgstr "Género"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L343'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Geographic Level"
+msgstr "Nivel Geográfico"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L348'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Geographic Location"
+msgstr "Ubicación geográfica"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L353'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Health Indicator Framework 1"
+msgstr "Indicador de Salud del Framework 1"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L358'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Health Indicator Framework 2"
+msgstr "Indicador de Salud del Framework 2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L363'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Individual Income"
+msgstr "Ingresos Individuales"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L368'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Logical: extended list for boolean values"
+msgstr "Logica: Lista extendida para valores booleanos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L373'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Monitoring and Evaluation Framework"
+msgstr "Marco para el Monitoreo y Evaluación"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L378'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Months"
+msgstr "Meses"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L383'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Multiplier"
+msgstr "Multiplicador"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L388'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Operand type of indicator"
+msgstr "Indicador del Tipo de Operando"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L393'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Orphan Type"
+msgstr "Tipo de Orfandad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L398'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Organization Type"
+msgstr "Tipo de organización"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L403'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Periodicity"
+msgstr "Periodicidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L408'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Pregnancy Status"
+msgstr "Estatus de Embarazo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L413'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Programme Status"
+msgstr "Estatus del Programa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L418'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Programme Type"
+msgstr "Tipo del Programa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L423'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Quarters"
+msgstr "Cuatrimestres"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L428'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Race"
+msgstr "Raza"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L433'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Sector"
+msgstr "Sector"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L438'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Biologic Sex"
+msgstr "Sexo Biológico"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L443'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Special Value"
+msgstr "Valor Especial"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L448'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Statistic Type"
+msgstr "Tipo de Estadística"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L453'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Target Population"
+msgstr "Población Objetivo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L458'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Unit"
+msgstr "Unidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L463'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Value Type"
+msgstr "Tipo de valor"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L468'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Version Status"
+msgstr "Estatus de Versión"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L473'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Vulnerability Status"
+msgstr "Estatus de Vulnerabilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L478'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Weeks"
+msgstr "Semanas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml#L483'>modules/SDMX-HD-CodeLists/configs/en_US/SDMX-HD-CodeLists.xml</a>
+#, no-c-format
+msgid "Years"
+msgstr "Años"

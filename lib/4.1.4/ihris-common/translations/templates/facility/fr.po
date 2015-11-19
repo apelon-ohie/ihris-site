@@ -1,0 +1,100 @@
+# Translation of iHRIS Common - Facility to French (français)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Facility\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:05:20+0000\n"
+"Last-Translator: Intrahealth <Unknown>\n"
+"Language-Team: French <https://translatewiki.net/wiki/Portal:fr>\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:14+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: fr\n"
+"X-Message-Group: #out-ihris-common-facility\n"
+"X-POT-Import-Date: 2013-10-07 17:18:38+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility_type.html#L4'>modules/Facility/templates/en_US/view_list_facility_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility.html#L4'>modules/Facility/templates/en_US/view_list_facility.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Modifier cette information"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility_type.html#L6'>modules/Facility/templates/en_US/view_list_facility_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility.html#L6'>modules/Facility/templates/en_US/view_list_facility.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Mettre à jour cette information"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility.html#L7'>modules/Facility/templates/en_US/view_list_facility.html</a>
+#, no-c-format
+msgid "Select another Office/Facility"
+msgstr "Sélectionner un autre bureau/établissement"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility.html#L14'>modules/Facility/templates/en_US/view_list_facility.html</a>
+#, no-c-format
+msgid "Office/Facility"
+msgstr "Bureau/Établissement"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility_type.html#L7'>modules/Facility/templates/en_US/view_list_facility_type.html</a>
+#, no-c-format
+msgid "Select another Facility Type"
+msgstr "Sélectionner un autre type d’établissement"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L34'>modules/Facility/configs/en_US/Facility.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L43'>modules/Facility/configs/en_US/Facility.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/templates/en_US/view_list_facility_type.html#L14'>modules/Facility/templates/en_US/view_list_facility_type.html</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr "Type d’établissement"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L11'>modules/Facility/configs/en_US/Facility.xml</a>
+#, no-c-format
+msgid "Edit the facility list"
+msgstr "Modifier la liste des établissements"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L14'>modules/Facility/configs/en_US/Facility.xml</a>
+#, no-c-format
+msgid "View the facility list"
+msgstr "Afficher la liste des établissements"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L17'>modules/Facility/configs/en_US/Facility.xml</a>
+#, no-c-format
+msgid "Edit the facility type list"
+msgstr "Modifier la liste des types d’établissements"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L20'>modules/Facility/configs/en_US/Facility.xml</a>
+#, no-c-format
+msgid "View the facility type list"
+msgstr "Afficher la liste des types d’établissements"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Facility/configs/en_US/Facility.xml#L28'>modules/Facility/configs/en_US/Facility.xml</a>
+#, no-c-format
+msgid "This form is used to descibe basic information about a facility"
+msgstr ""
+"Ce formulaire est utilisé pour décrire les informations de base concernant "
+"l’établissement"

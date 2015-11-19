@@ -1,0 +1,100 @@
+# Translation of iHRIS Manage - Salary to Japanese (日本語)
+# Exported from translatewiki.net
+#
+# Author: Shirayuki
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:19:55+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:20+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-POT-Import-Date: 2013-10-07 17:26:38+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/templates/en_US/view_list_salary_source.html#L4'>modules/Salary/templates/en_US/view_list_salary_source.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "この情報を編集"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/templates/en_US/view_list_salary_source.html#L6'>modules/Salary/templates/en_US/view_list_salary_source.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "この情報を更新"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/templates/en_US/view_list_salary_source.html#L7'>modules/Salary/templates/en_US/view_list_salary_source.html</a>
+#, no-c-format
+msgid "Select another Salary Source"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L32'>modules/Salary/configs/en_US/Salary.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/templates/en_US/view_list_salary_source.html#L14'>modules/Salary/templates/en_US/view_list_salary_source.html</a>
+#, no-c-format
+msgid "Salary Source"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L17'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Edit the salary_source list"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L20'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "View the salary_source list"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L27'>modules/Salary/configs/en_US/Salary.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L46'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Salary"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L41'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Start Date"
+msgstr "開始日"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L51'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "End Date"
+msgstr "終了日"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L56'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Notes"
+msgstr "注釈"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L11'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Can view salary child form of a person"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Salary/configs/en_US/Salary.xml#L14'>modules/Salary/configs/en_US/Salary.xml</a>
+#, no-c-format
+msgid "Can edit salary child forms of a person"
+msgstr ""

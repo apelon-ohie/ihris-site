@@ -1,0 +1,190 @@
+# Czech translation for ihris-common
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the ihris-common package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2013-02-04 22:22+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:17+0000\n"
+"X-Generator: Launchpad (build 16869)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L10'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L97'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "User Statistics"
+msgstr "Statistiky uživatele"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html</a>
+#, no-c-format
+msgid "Login"
+msgstr "Přihlásit se"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html#L4'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_out.html</a>
+#, no-c-format
+msgid "Logout"
+msgstr "Odhlásit se"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Unique Person Records (including child forms) Modified (last"
+msgstr ""
+"Jedinečné změněné záznamy lidí (včetně podřazených formulářů) (poslední"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#, no-c-format
+msgid "days of activity)"
+msgstr "dny činnosti)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L5'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "View Other Statistics"
+msgstr "Zobrazit další statistiky"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "All User Reports"
+msgstr "Všechny záznamy uživatelů"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L14'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Date"
+msgstr "Datum"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L14'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#, no-c-format
+msgid "Number of Unique Person Records Modified"
+msgstr "Počet změněných jedinečných záznamů lidí"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#, no-c-format
+msgid "Form Update History (last"
+msgstr "Historie aktualizace formuláře (poslední"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Login History"
+msgstr "Historie přihlášení"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L15'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Login History (last"
+msgstr "Historie přihlášení (poslední"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L15'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "entries)"
+msgstr "záznamy)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html#L4'>modules/UserStatistics/templates/en_US/view_user_statistics_logged_in.html</a>
+#, no-c-format
+msgid "Last Activity"
+msgstr "Poslední aktivita"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_total.html#L2'>modules/UserStatistics/templates/en_US/view_user_statistics_form_total.html</a>
+#, no-c-format
+msgid "Total for"
+msgstr "Celkem za"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L13'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "List of all changes made to individual form fields for all users."
+msgstr ""
+"Seznam všech změn provedených v jednotlivých polí formuláře pro všechny "
+"uživatele."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L18'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Date Modified"
+msgstr "Datum změny"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L23'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Date Modified On or After"
+msgstr "Datum změn dne nebo poté"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L30'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L35'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Username"
+msgstr "Jméno uživatele"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L42'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "User"
+msgstr "Uživatel"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L47'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L52'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Form"
+msgstr "Formulář"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L59'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Field"
+msgstr "Pole"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L64'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L69'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Record ID"
+msgstr "ID záznamu"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L76'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Value"
+msgstr "Hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L81'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Change Type"
+msgstr "Změnit typ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L87'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Initial Entry"
+msgstr "Úvodní záznam"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L88'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Verified Value"
+msgstr "Ověřená hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L89'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Corrected Value"
+msgstr "Opravená hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/configs/en_US/UserStatistics.xml#L90'>modules/UserStatistics/configs/en_US/UserStatistics.xml</a>
+#, no-c-format
+msgid "Updated Value"
+msgstr "Aktualizovaná hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L7'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "Data Entry History"
+msgstr "Historie zadávání dat"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_person_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_form_history.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html#L8'>modules/UserStatistics/templates/en_US/view_user_statistics_login_history.html</a>
+#, no-c-format
+msgid "All User Data Entry History"
+msgstr "Veškerá uživatelská historie zadávání dat"

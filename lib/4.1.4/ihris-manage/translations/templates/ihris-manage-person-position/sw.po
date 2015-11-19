@@ -1,0 +1,606 @@
+# Translation of iHRIS Manage - Person Position to Swahili (Kiswahili)
+# Exported from translatewiki.net
+#
+# Author: Lloffiwr
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Person Position\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:19:46+0000\n"
+"Last-Translator: Carl Leitner <cleitner@intrahealth.org>\n"
+"Language-Team: Swahili <https://translatewiki.net/wiki/Portal:sw>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:20+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: sw\n"
+"X-Message-Group: #out-ihris-manage-pepo\n"
+"X-POT-Import-Date: 2013-10-07 17:26:30+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L178'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L206'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L27'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L22'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_row.html#L2'>modules/ManagePersonPosition/templates/en_US/view_position_row.html</a>
+#, no-c-format
+msgid "Position"
+msgstr "Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_departure.html#L13'>modules/ManagePersonPosition/templates/en_US/form_departure.html</a>
+#, no-c-format
+msgid "Enter new Status for the Position"
+msgstr "Ingiza Hadhi mpya kwa ajili ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_open_link.html#L1'>modules/ManagePersonPosition/templates/en_US/view_position_open_link.html</a>
+#, no-c-format
+msgid "Discontinue this Position"
+msgstr "Acha Nafasi hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_person.html#L3'>modules/ManagePersonPosition/templates/en_US/view_position_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html#L4'>modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L3'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_salary.html#L3'>modules/ManagePersonPosition/templates/en_US/salary_history_salary.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_salary.html#L3'>modules/ManagePersonPosition/templates/en_US/view_salary.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L12'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_position_type.html#L4'>modules/ManagePersonPosition/templates/en_US/view_list_position_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_supervised.html#L3'>modules/ManagePersonPosition/templates/en_US/view_position_supervised.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_department.html#L4'>modules/ManagePersonPosition/templates/en_US/view_list_department.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_job_positions.html#L3'>modules/ManagePersonPosition/templates/en_US/view_job_positions.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Hariri Taarifa Hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L5'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_salary.html#L6'>modules/ManagePersonPosition/templates/en_US/salary_history_salary.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_salary.html#L5'>modules/ManagePersonPosition/templates/en_US/view_salary.html</a>
+#, no-c-format
+msgid "Correct this Information"
+msgstr "Sahihisha taarifa hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L142'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_salary.html#L13'>modules/ManagePersonPosition/templates/en_US/salary_history_salary.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_salary.html#L7'>modules/ManagePersonPosition/templates/en_US/view_salary.html</a>
+#, no-c-format
+msgid "Salary Change"
+msgstr "Badiliko la Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_salary.html#L21'>modules/ManagePersonPosition/templates/en_US/salary_history_salary.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_salary.html#L16'>modules/ManagePersonPosition/templates/en_US/view_salary.html</a>
+#, no-c-format
+msgid "Salary"
+msgstr "Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_salary.html#L25'>modules/ManagePersonPosition/templates/en_US/salary_history_salary.html</a>
+#, no-c-format
+msgid "Percent of Market Rate"
+msgstr "Asilimia ya Kiwango cha Soko"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history.html#L11'>modules/ManagePersonPosition/templates/en_US/salary_history.html</a>
+#, no-c-format
+msgid "return"
+msgstr "rudi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_supervised.html#L11'>modules/ManagePersonPosition/templates/en_US/view_position_supervised.html</a>
+#, no-c-format
+msgid "Supervised Positions"
+msgstr "Nafasi zilizosimamiwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_discontinued_link.html#L1'>modules/ManagePersonPosition/templates/en_US/view_position_discontinued_link.html</a>
+#, no-c-format
+msgid "Open this Position"
+msgstr "Fungua Nafasi hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_salary.html#L3'>modules/ManagePersonPosition/templates/en_US/form_salary.html</a>
+#, no-c-format
+msgid "Edit Salary"
+msgstr "Hariri Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_job_positions.html#L11'>modules/ManagePersonPosition/templates/en_US/view_job_positions.html</a>
+#, no-c-format
+msgid "Positions"
+msgstr "Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_salary_change.html#L3'>modules/ManagePersonPosition/templates/en_US/form_salary_change.html</a>
+#, no-c-format
+msgid "New Salary"
+msgstr "Mshahara Mpya"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_salary_change.html#L4'>modules/ManagePersonPosition/templates/en_US/form_salary_change.html</a>
+#, no-c-format
+msgid "Current Salary"
+msgstr "Mshahara wa Sasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_add.html#L4'>modules/ManagePersonPosition/templates/en_US/salary_history_add.html</a>
+#, no-c-format
+msgid "Add a salary"
+msgstr "Ongeza Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_add.html#L10'>modules/ManagePersonPosition/templates/en_US/salary_history_add.html</a>
+#, no-c-format
+msgid "No Salaries"
+msgstr "Hakuna Mishahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html#L6'>modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L14'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_position_type.html#L6'>modules/ManagePersonPosition/templates/en_US/view_list_position_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_department.html#L6'>modules/ManagePersonPosition/templates/en_US/view_list_department.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Sasisha Taarifa hii"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_department.html#L7'>modules/ManagePersonPosition/templates/en_US/view_list_department.html</a>
+#, no-c-format
+msgid "Select another Department"
+msgstr "Chagua Idara nyingine"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L188'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L270'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_department.html#L14'>modules/ManagePersonPosition/templates/en_US/view_list_department.html</a>
+#, no-c-format
+msgid "Department"
+msgstr "Idara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L135'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L2'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#, no-c-format
+msgid "View Position"
+msgstr "Angalia nafasi ya kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L5'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#, no-c-format
+msgid "Position Information"
+msgstr "Taarifa ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L6'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#, no-c-format
+msgid "Hide"
+msgstr "Ficha"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position.html#L15'>modules/ManagePersonPosition/templates/en_US/view_position.html</a>
+#, no-c-format
+msgid "Select another Position"
+msgstr "Chagua Nafasi nyingine"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_position_type.html#L7'>modules/ManagePersonPosition/templates/en_US/view_list_position_type.html</a>
+#, no-c-format
+msgid "Select another Position Type"
+msgstr "Chagua Nafasi ya aina nyingine"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L183'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L275'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_position_type.html#L14'>modules/ManagePersonPosition/templates/en_US/view_list_position_type.html</a>
+#, no-c-format
+msgid "Position Type"
+msgstr "Aina ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/button_confirm_position.html#L9'>modules/ManagePersonPosition/templates/en_US/button_confirm_position.html</a>
+#, no-c-format
+msgid "return (do not save changes)"
+msgstr "rudi (usinusuru mabadiliko)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L211'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_position.html#L7'>modules/ManagePersonPosition/templates/en_US/salary_history_position.html</a>
+#, no-c-format
+msgid "Start Date"
+msgstr "Tarehe ya Kuanza"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_salary.html#L9'>modules/ManagePersonPosition/templates/en_US/view_salary.html</a>
+#, no-c-format
+msgid "View Salary History"
+msgstr "Angalia Historia ya Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_make_promotion.html#L3'>modules/ManagePersonPosition/templates/en_US/form_make_promotion.html</a>
+#, no-c-format
+msgid "New Position"
+msgstr "Nafasi Mpya"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_make_promotion.html#L4'>modules/ManagePersonPosition/templates/en_US/form_make_promotion.html</a>
+#, no-c-format
+msgid "Current Position"
+msgstr "Nafasi ya Sasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/form_make_promotion.html#L19'>modules/ManagePersonPosition/templates/en_US/form_make_promotion.html</a>
+#, no-c-format
+msgid "Enter new Status for the Current Position"
+msgstr "Ingiza Hadhi mpya kwa ajili ya Nafasi ya Sasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L114'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L7'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#, no-c-format
+msgid "Record a Departure"
+msgstr "Weka Kumbukumbu ya Kuondoka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L10'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#, no-c-format
+msgid "Change Position"
+msgstr "Badili Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L12'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#, no-c-format
+msgid "View Position History"
+msgstr "Angalia Historia ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_person.html#L5'>modules/ManagePersonPosition/templates/en_US/view_position_person.html</a>
+#, no-c-format
+msgid "View Person"
+msgstr "Angali Mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_position_person.html#L12'>modules/ManagePersonPosition/templates/en_US/view_position_person.html</a>
+#, no-c-format
+msgid "Position Filled By"
+msgstr "Nafasi Ilijazwa Na"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html#L7'>modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html</a>
+#, no-c-format
+msgid "Select another Reason for Departure"
+msgstr "Chagua Sababu nyingine ya Kuondoka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L221'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html#L14'>modules/ManagePersonPosition/templates/en_US/view_list_pos_change_reason.html</a>
+#, no-c-format
+msgid "Reason for Departure"
+msgstr "Sababu ya Kuondoka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L31'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Edit the department list"
+msgstr "Hariri orodha ya idara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L34'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "View the department list"
+msgstr "Angalia orodha ya idara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L37'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Edit the position_type list"
+msgstr "Hariri orodha ya aina ya_nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L40'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "View the position_type list"
+msgstr "Angalia orodha ya aina ya_ nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L43'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Edit the position list"
+msgstr "Hariri orodha ya nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L46'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "View the position list"
+msgstr "Angalia orodha ya nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L49'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Edit the pos_change_reason list"
+msgstr "Hariri orodha ya sababu ya_ kubadili_ nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L52'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "View the pos_change_reason list"
+msgstr "Angalia orodha ya sababu ya_ kubadili_ nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L55'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can edit some information about positions"
+msgstr "Weza kuhariri baadhi ya taarifa kuhusu nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L58'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can view some information about positions"
+msgstr "Weza kuangalia baadhi ya taarifa kuhusu nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L61'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can edit all information about positions"
+msgstr "Weza kuhariri taarifa yote kuhusu nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L64'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can view all information about positions"
+msgstr "Weza kuangalia taarifa yote kuhusu nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L67'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can edit the position of a person"
+msgstr "Weza kuhariri nafasi ya mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L70'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can view the position of a person"
+msgstr "Weza kuangalia nafasi ya mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L73'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can change the existing position of a person"
+msgstr "Weza kubadili nafasi ya sasa ya mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L76'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can edit the salary of a person"
+msgstr "Weza kuhariri mshahara wa mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L79'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can delete the salary of a person"
+msgstr "Weza kuondoa mshahara wa mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L82'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can change an existing salary of a person"
+msgstr "Weza kubadili mshahara wa sasa wa mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L85'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can view an existing salary of a person"
+msgstr "Weza kuangalia mshahara wa sasa wa mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L88'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Can view the salary of a person"
+msgstr "Weza kuangalia mshahara wa mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L95'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Open"
+msgstr "Fungua"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L100'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Closed"
+msgstr "Funga"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L105'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Discontinued"
+msgstr "Haikuendelezwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L121'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Make a Job Offer"
+msgstr "Toa Tangazo la Kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L128'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Edit Position"
+msgstr "Hariri nafasi ya kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L149'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Salary History"
+msgstr "Historia ya Mshahara"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L158'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Person Position"
+msgstr "Nafasi ya Mtu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L162'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "This form is used to link a person to a pariticular position residence"
+msgstr "Fomu hii inatumika kumuunganisha mtu kwenye nafasi maalumu ya makazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L168'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Reasons for Departure"
+msgstr "Sababu za Kuondoka"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L173'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Position Status"
+msgstr "Hali ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L197'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Name"
+msgstr "Jina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L216'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/salary_history_position.html#L8'>modules/ManagePersonPosition/templates/en_US/salary_history_position.html</a>
+#, no-c-format
+msgid "End Date"
+msgstr "Tarehe ya Kumaliza"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L230'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Position Code"
+msgstr "Namba ya Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L235'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "Kazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L240'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Position Title"
+msgstr "Cheo cha Nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L245'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Position Description"
+msgstr "Ufafanuzi wa nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L250'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Proposed Salary"
+msgstr "Mshahara uliopendekezwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L255'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Source"
+msgstr "Chanzo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L260'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Supervisor"
+msgstr "Msimamizi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L265'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "Jengo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L280'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Proposed Hiring Date"
+msgstr "Terehe ilipendekezwa ya Kuajiri"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L285'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Date Posted"
+msgstr "Tarehe Iliyotangazwa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L290'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Status"
+msgstr "Hadhi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L295'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Position Comments"
+msgstr "Maoni ya nafasi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L300'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Interview Comments"
+msgstr "Maoni ya usaili"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/view_person_position.html#L16'>modules/ManagePersonPosition/templates/en_US/view_person_position.html</a>
+#, fuzzy, no-c-format
+msgid "Standardized Position Letters"
+msgstr "Barua za Nafasi Zilizorasimika"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/templates/en_US/button_confirm_position.html#L5'>modules/ManagePersonPosition/templates/en_US/button_confirm_position.html</a>
+#, no-c-format
+msgid "Confirm"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L11'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "The start date must be after the start date of the current salary."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L14'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Please enter a start date after the previous position's start date."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L17'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "The end date must be after the start date."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L20'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L23'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Required Field."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManagePersonPosition/configs/en_US/PersonPosition.xml#L26'>modules/ManagePersonPosition/configs/en_US/PersonPosition.xml</a>
+#, no-c-format
+msgid "Please enter a new status."
+msgstr ""

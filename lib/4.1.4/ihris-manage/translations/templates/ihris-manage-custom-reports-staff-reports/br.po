@@ -1,0 +1,576 @@
+# Translation of iHRIS Manage - Custom Reports - Staff Reports to Breton (brezhoneg)
+# Exported from translatewiki.net
+#
+# Author: Gwenn-Ael
+# Author: Y-M D
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports - Staff Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:18:47+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Breton <https://translatewiki.net/wiki/Portal:br>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: br\n"
+"X-Message-Group: #out-ihris-manage-crsr\n"
+"X-POT-Import-Date: 2013-10-07 17:26:01+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L12'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Current Staff"
+msgstr "Koskor bremañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L15'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L160'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "A list of all current staff."
+msgstr "Ur roll eus holl ar c'hoskor bremañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L20'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Person"
+msgstr "Den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L23'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The person currently filling this position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L28'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Demographic"
+msgstr "Roadennoù demografek"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L31'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Demographic details for the person."
+msgstr "Roadennoù demografek evit an den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L36'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Work Contact"
+msgstr "Darempred micherel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L39'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Work contact details for this person."
+msgstr "Titouroù  war an darempred micherel evit an den-mañ."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L44'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Contact"
+msgstr "Den da gemenn pa vez mall"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L47'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Contact details for this person."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L52'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home Contact"
+msgstr "Darempred prevez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L55'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home contact details for this person."
+msgstr "Titouroù war darempred prevez an den-mañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L60'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L63'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L200'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L363'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L377'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Nationality"
+msgstr "Broadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L70'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L277'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Position"
+msgstr "Lec'hiadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L73'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The position held by this person."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L78'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L287'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L328'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L421'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "Diazezadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L81'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The facility where this position works."
+msgstr "An diaezadur ma ya mat end-dro ar post-se."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L86'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L299'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L337'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Department"
+msgstr "Departamant"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L89'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The department for this position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L94'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "Labour"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L97'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The job associated with this position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L102'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L460'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Classification"
+msgstr "Rummatadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L105'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The job classification for this position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L114'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L310'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Current Salary"
+msgstr "Gopr bremañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L117'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The current salary for this person."
+msgstr "Gopr bremañ evit an den-mañ."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L122'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L319'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Starting Salary"
+msgstr "Gopr kentañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L125'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The starting salary for this person in their current position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L132'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L137'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The year this person turns 65."
+msgstr "Ar bloavezh pa vo 65 bloaz an den-mañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L142'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The age range for the person"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L147'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "The year the person started in this position."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L157'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff List"
+msgstr "Roll ar c'hoskor"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L171'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Hire Date"
+msgstr "Deiziad enfredañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L180'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Surname"
+msgstr "Anv"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L185'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Firstname"
+msgstr "Anv-bihan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L190'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Othername"
+msgstr "Anv all"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L195'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L368'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Nationality ID"
+msgstr "ID ar Vroadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L211'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Birth Date"
+msgstr "Deiziad ganedigezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L216'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L405'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L410'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Gender"
+msgstr "Reizh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L225'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Work Telephone"
+msgstr "Pellgomz servij"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L230'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Work Email"
+msgstr "Posteler micherel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L239'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Address"
+msgstr "Den da gemenn pa vez mall"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L244'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Telephone"
+msgstr "Pellgomz pa vez mall"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L249'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Email"
+msgstr "Postel pa vez mall"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L258'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home Address"
+msgstr "Chomlec'h prevez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L263'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home Telephone"
+msgstr "Pellgomz prevez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L268'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home Email"
+msgstr "Postel prevez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L282'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L426'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr "ID an diazezadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L294'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Department ID"
+msgstr "ID an departamant"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L347'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff Charts"
+msgstr "Grafikoù ar c'hoskor"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L350'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff aggregate reports for charting."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L388'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Birth Date After"
+msgstr "Deiziad ganedigezh Goude"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L393'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Birth Date Before"
+msgstr "Deiziad ganedigezh A-raok"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L398'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Demographic Birth Date"
+msgstr "Roadennoù demografek war an Deiziad ganedigezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L437'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L442'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr "Seurt diazezadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L451'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Job Title"
+msgstr "Anv ar post"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L469'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Retirement Year"
+msgstr "Bloavezh retred"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L474'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Age Range"
+msgstr "Rumm oad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L479'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Hire Year"
+msgstr "Bloavezh enfredañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L488'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff Directory"
+msgstr "Kavlec'h an implijidi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L491'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "A list of all current staff with work contact information."
+msgstr ""
+"Ur roll eus holl ar c'hoskor bremañ gant titouroù war an darempred micherel."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L496'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Home Contact List"
+msgstr "Roll an darempredoù prevez."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L499'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "All staff with home contact details."
+msgstr "Holl ar c'hoskor gant titouroù war an darempredoù prevez."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L504'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Classification Breakdown"
+msgstr "Dielfennañ ar rummañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L507'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "A total of all staff by classification."
+msgstr "Un hollad eus holl ar c'hoskor dre rummañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L514'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L564'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L598'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L632'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L666'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L694'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Pie Chart(Simple)"
+msgstr "Kouign (eeun)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L519'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L569'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L603'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L637'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L671'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L699'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Bar Chart(Simple)"
+msgstr "Diagramm gant barrennoù a-led (eeun)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L524'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L574'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L608'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L642'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L676'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L704'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Column Chart(Simple)"
+msgstr "Diagramm gant bannoù (eeun)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L529'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L579'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L613'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L647'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L681'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L714'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Scatter Plot"
+msgstr "Diagramm strewadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L538'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Emergency Contact List"
+msgstr "Roll an dud da gemenn pa vez mall"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L541'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "List of all staff with emergency contact details."
+msgstr "Roll an holl impliji gant daveennoù an dud da gemenn pa vez mall."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L546'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Salary List"
+msgstr "Roll ar goproù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L549'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "A list of all employees with salary details."
+msgstr "Ur roll eus an holl implijdi gant titouroù war ar goproù/"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L554'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Job Breakdown"
+msgstr "Dielfennañ ar c'hargoù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L557'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Total staff by job."
+msgstr "Hollad an holl implijdi dre garg"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L588'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Nationality Breakdown"
+msgstr "Dielfennañ dre vroadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L591'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "A list of all staff by nationality."
+msgstr "Ur roll eus an holl implijdi dre vroadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L622'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Age Distribution"
+msgstr "Dasparzh dre oad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L625'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Total of all staff by age range."
+msgstr "Hollad an implijidi dre rumm oad."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L656'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Hires per Year"
+msgstr "Enfredadurioù dre vloaz"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L659'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Hire totals by year."
+msgstr "Holl an enfredadurioù dre vloaz"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L709'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Stacked Column Chart(Simple)"
+msgstr "Diagramm gant bannoù berniet (eeun)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L721'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Retirement Planning"
+msgstr "Steuñvaat ar retred"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L724'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff totals by retirement year."
+msgstr "Niver hollek a implijidi dre vloavezh retred"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L163'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml#L353'>modules/ManageCustomReports/Reports/StaffReports/configs/en_US/StaffReports.xml</a>
+#, no-c-format
+msgid "Staff Reports"
+msgstr "Danevelloù war ar c'hoskor"

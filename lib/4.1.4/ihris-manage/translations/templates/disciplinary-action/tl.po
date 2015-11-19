@@ -1,0 +1,198 @@
+# Translation of iHRIS Manage - Desciplinary Action to Tagalog (Tagalog)
+# Exported from translatewiki.net
+#
+# Author: AnakngAraw
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Desciplinary Action\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:18+0200\n"
+"PO-Revision-Date: 2014-01-06 11:17:03+0000\n"
+"Last-Translator: IntraHealth Informatics <Unknown>\n"
+"Language-Team: Tagalog <https://translatewiki.net/wiki/Portal:tl>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: tl\n"
+"X-Message-Group: #out-ihris-manage-diac\n"
+"X-POT-Import-Date: 2013-10-07 17:24:55+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L16'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid ""
+"Can edit the workplace injuries and disciplinary_actions assigned to a person"
+msgstr ""
+"Mababago ang mga kapinsalaang pangpook ng hanabuhay at mga "
+"hakbang_sa_pagdidisiplina ng isang tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L19'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid ""
+"Can view the wokrplace injuries and disciplinary_actions assigned to a person"
+msgstr ""
+"Matitingnan ang mga kapinsalaang pampook ng hanapbuhay at mga "
+"hakbang_sa_pagdisiplina ng isang tao"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L22'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Edit the workplace disciplinary_action type list"
+msgstr ""
+"Baguhin ang tala ng uri ng hakbang_sa_pagdidisiplinang pampook ng hanapbuhay"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L38'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Disciplinary Action"
+msgstr "Hakbanging Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L43'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html#L14'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html</a>
+#, no-c-format
+msgid "Disciplinary Action Type"
+msgstr "Uri ng Hakbanging Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L57'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Date of Discussion"
+msgstr "Petsa ng Talakayan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L62'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Action Taken"
+msgstr "Ginawang Hakbang"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L72'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Start of Applicability"
+msgstr "Simula ng Pagpapatupad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L77'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "End of Applicability"
+msgstr "Wakas ng Pagpapatupad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L82'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Notes"
+msgstr "Mga tala"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L87'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "People Present"
+msgstr "Mga Tao na Naroroon"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L98'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Add/Update Disciplinary Action"
+msgstr "Magdagdag/Magsapanahon ng Hakbanging Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/form_disciplinary_action.html#L3'>modules/Disciplinary/templates/en_US/form_disciplinary_action.html</a>
+#, no-c-format
+msgid "Disciplinary Action Information"
+msgstr "Kabatiran sa Hakbanging Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html#L4'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html#L4'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_disciplinary_action.html#L3'>modules/Disciplinary/templates/en_US/view_disciplinary_action.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Baguhin ang Kabatirang Ito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html#L6'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html#L6'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Isapanahon ang Kabatirang Ito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html#L7'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_type.html</a>
+#, no-c-format
+msgid "Select another Disciplinary Action Type"
+msgstr "Pumili ng iba pang Uri ng Hakbanging Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_disciplinary_action.html#L12'>modules/Disciplinary/templates/en_US/view_disciplinary_action.html</a>
+#, no-c-format
+msgid "Correct this Information"
+msgstr "Iwasto ang Kabatirang ito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_disciplinary_action.html#L21'>modules/Disciplinary/templates/en_US/view_disciplinary_action.html</a>
+#, no-c-format
+msgid "Action"
+msgstr "Hakbang"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L25'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "View the workplace disciplinary_action type list"
+msgstr ""
+"Tingnan ang tala ng uri ng hakbanging_pangdisiplina sa pook ng hanapbuhay"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L11'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "The end date must be after the start date."
+msgstr ""
+"Ang petsa ng pagwawakas ay dapat na maging pagkalipas ng petsa ng "
+"pagsisimula."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L28'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Edit the workplace disciplinary action reason type list"
+msgstr ""
+"Baguhin ang tala ng uri ng dahilan ng hakbang sa pagdidisiplinang pampook ng "
+"hanapbuhay"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L31'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "View the workplace disciplinary action reason list"
+msgstr ""
+"Tingnan ang tala ng uri ng dahilan sa hakbang na pangdisiplina sa pook ng "
+"hanapbuhay"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L48'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html#L14'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html</a>
+#, no-c-format
+msgid "Disciplinary Action Reason"
+msgstr "Dahilan ng Hakbang na Pangdisiplina"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/configs/en_US/Discipline.xml#L67'>modules/Disciplinary/configs/en_US/Discipline.xml</a>
+#, no-c-format
+msgid "Reason for Action"
+msgstr "Dahilan ng Kilos"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html#L7'>modules/Disciplinary/templates/en_US/view_list_disciplinary_action_reason.html</a>
+#, no-c-format
+msgid "Select another Disciplinary Action Reason"
+msgstr "Pumili ng ibang Dahilan ng Hakbang na Pangdisiplina"

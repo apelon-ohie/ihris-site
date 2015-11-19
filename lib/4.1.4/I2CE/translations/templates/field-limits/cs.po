@@ -1,0 +1,345 @@
+# Czech translation for i2ce
+# Copyright (c) 2011 Rosetta Contributors and Canonical Ltd 2011
+# This file is distributed under the same license as the i2ce package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2011.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: i2ce\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2011-12-05 20:16+0000\n"
+"Last-Translator: Zbyněk Schwarz <Unknown>\n"
+"Language-Team: Czech <cs@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:19+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_between.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_between.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_date_choice_between.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_date_choice_between.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_between.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_between.html</a>
+#, no-c-format
+msgid "Limit this field to be between the following values"
+msgstr "Omezit toto pole, aby bylo mezi následujícími hodnotami"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_contains.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_contains.html</a>
+#, no-c-format
+msgid "Limit this field to contain (case insensitive) the following value"
+msgstr ""
+"Omezit toto pole, aby obsahovalo (nerozlišuje velikost písmen) následující "
+"hodnotu"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html</a>
+#, no-c-format
+msgid "Limit this field to be Yes or No"
+msgstr "Omezit toto pole na Ano nebo Ne"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L11'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html#L6'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html#L6'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html</a>
+#, no-c-format
+msgid "Select Value"
+msgstr "Vyberte Hodnotu"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L67'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html#L7'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html#L7'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html</a>
+#, no-c-format
+msgid "No"
+msgstr "Ne"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L62'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html#L8'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yesno.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html#L6'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html</a>
+#, no-c-format
+msgid "Yes"
+msgstr "Ano"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan_now.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan_now.html</a>
+#, no-c-format
+msgid "Limit this field to be greather than the current date."
+msgstr "Omezit toto pole, aby bylo vyšší než současné datum."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_not_null.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_not_null.html</a>
+#, no-c-format
+msgid "Limit this field to be not null (value specified)."
+msgstr "Omezit toto pole, aby nebylo prázdné (hodnota zadána)."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan_equals.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_lessthan_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_lessthan_equals.html</a>
+#, no-c-format
+msgid "Limit this field to be less than or equal to the following value"
+msgstr "Omezit toto pole, aby bylo menší nebo rovno následující hodnotě"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lowerlike.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lowerlike.html</a>
+#, no-c-format
+msgid "Limit this field to be like (case insensitive) the following value"
+msgstr ""
+"Omezit toto pole, aby bylo jako (nerozlišuje velikost písmen) následující "
+"hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html</a>
+#, no-c-format
+msgid "Limit this field to be True or False"
+msgstr "Omezit toto pole na Pravda nebo Nepravda"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L52'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html#L7'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html</a>
+#, no-c-format
+msgid "True"
+msgstr "Pravda"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L57'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html#L8'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_truefalse.html</a>
+#, no-c-format
+msgid "False"
+msgstr "Nepravda"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_within.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_within.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_equals.html</a>
+#, no-c-format
+msgid "Limit this field to be equal to the given value."
+msgstr "Omezit toto pole, aby bylo rovno zadané hodnotě."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_like.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_like.html</a>
+#, no-c-format
+msgid "Limit this field to be like (case sensitive) the following value"
+msgstr ""
+"Omezit toto pole, aby bylo jako (rozlišuje velikost písmen) následující "
+"hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_equals.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_date_choice.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_date_choice.html</a>
+#, no-c-format
+msgid "Limit this field to be equal to the following value"
+msgstr "Omezit toto pole, aby bylo rovno následující hodnotě"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null_not_null.html</a>
+#, no-c-format
+msgid "Limit this field to be null or not"
+msgstr "Omezit toto pole, aby bylo nebo nebylo prázdné"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_no.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_no.html</a>
+#, no-c-format
+msgid "Limit this field to be no."
+msgstr "Omezit toto pole na ne."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent_form.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent_form.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be the minimum value for this form having the same "
+"parent."
+msgstr ""
+"Omezit toto pole na minimální hodnotu tohoto formuláře, mající stejný "
+"nadřazený formulář."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan_equals.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_greaterthan_equals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_greaterthan_equals.html</a>
+#, no-c-format
+msgid "Limit this field to be greater than or equal to the following value"
+msgstr "Omezit toto pole, aby bylo větší nebo rovno zadané hodnotě"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_true.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_true.html</a>
+#, no-c-format
+msgid "Limit this field to be true."
+msgstr "Omezit toto pole na pravda"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lowerequals.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lowerequals.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be equal to (case insensitive) the following value"
+msgstr ""
+"Omezit toto pole, aby bylo rovno (nerozlišuje velikost písmen) následující "
+"hodnotě"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_greaterthan.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_greaterthan.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_greaterthan.html</a>
+#, no-c-format
+msgid "Limit this field to be greater than the following value"
+msgstr "Omezit toto pole, aby bylo větší než následující hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_in.html#L4'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_in.html</a>
+#, no-c-format
+msgid "Limit this field to be one of the following values"
+msgstr "Omezit toto pole na jednu z následujících hodnot"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan_now.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan_now.html</a>
+#, no-c-format
+msgid "Limit this field to be less than the current date."
+msgstr "Omezit toto pole, aby bylo menší než současné datum"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent_form.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent_form.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be the maximum value for this form having the same "
+"parent."
+msgstr ""
+"Omezit toto pole na maximální hodnotu tohoto formuláře, mající stejný "
+"nadřazený formulář."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_lessthan.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_lessthan.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_lessthan.html</a>
+#, no-c-format
+msgid "Limit this field to be less than the following value"
+msgstr "Omezit toto pole, aby bylo menší než následující hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yes.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_yes.html</a>
+#, no-c-format
+msgid "Limit this field to be yes."
+msgstr "Omezit toto pole na ano."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_false.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_false.html</a>
+#, no-c-format
+msgid "Limit this field to be false."
+msgstr "Omezit toto pole na nepravda."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_null.html</a>
+#, no-c-format
+msgid "Limit this field to be null (value not specified)."
+msgstr "Omezit toto pole, aby bylo prázdné (hodnota nezadána)."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html#L5'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be the minimum for all forms that have the same value "
+"for the given field"
+msgstr ""
+"Omezit toto pole na minimum všech formulářů, které mají stejnou hodnotu pro "
+"zadané pole"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html#L9'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html</a>
+#, no-c-format
+msgid "Offset from the minimum (Enter 0 for the minimum)"
+msgstr "Odchylka od minima (Zadejte 0 pro minimum)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html#L5'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be the maximum for all forms that have the same value "
+"for the given field"
+msgstr ""
+"Omezit toto pole na maximum všech formulářů, které mají stejnou hodnotu pro "
+"zadané pole"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html#L9'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html</a>
+#, no-c-format
+msgid "Offset from the maximum (Enter 0 for the maximum)"
+msgstr "Odchylka od maxima (Zadejte 0 pro maximum)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_in.html#L5'>modules/Forms/modules/FieldLimits/templates/en_US/limit_mapped_choice_in.html</a>
+#, no-c-format
+msgid ""
+"Limit this field to be one of the following values: (Hold down the Control "
+"key to select multiple values)"
+msgstr ""
+"Omezit toto pole na jednu z následujících hodnot: (Držte klávesu Ctrl pro "
+"vybrání více hodnot)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L19'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L75'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L83'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L91'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L99'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "value"
+msgstr "hodnota"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L24'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Maximum value for %s, offset %s"
+msgstr "Maximální hodnota pro %s, odchylka %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L27'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L36'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "linked_field"
+msgstr "linked_field"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L28'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L37'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "offset"
+msgstr "odchylka"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L33'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Minimum value for %s, offset %s"
+msgstr "Minimální hodnota pro %s, odchylka %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L42'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Not null"
+msgstr "Nenulové"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L47'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Null"
+msgstr "Nulové"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L72'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Less than %s"
+msgstr "Méně než %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L80'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Less than or equal to %s"
+msgstr "Méně nebo rovno %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L88'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Greater than %s"
+msgstr "Větší než %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L96'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Greater than or equal to %s"
+msgstr "Větší nebo rovno %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L104'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Between %s and %s"
+msgstr "Mezi %s a %s"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L107'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "min"
+msgstr "min"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L108'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "max"
+msgstr "max"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L113'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Maximum value for parent."
+msgstr "Maximální hodnota pro nadřazené."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L118'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Minimum value for parent."
+msgstr "Minimální hodnota pro nadřazené."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L123'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Greater than now."
+msgstr "Větší než nyní."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml#L128'>modules/Forms/modules/FieldLimits/configs/en_US/FieldLimits.xml</a>
+#, no-c-format
+msgid "Less than now."
+msgstr "Menší než nyní."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html#L11'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_max_parent.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html#L11'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_min_parent.html</a>
+#, no-c-format
+msgid "Allow blank (null) values"
+msgstr "Povolit prázdné (nulové) hodnoty"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_startswith.html#L3'>modules/Forms/modules/FieldLimits/templates/en_US/limit_choice_startswith.html</a>
+#, no-c-format
+msgid "Limit this field to start with (case insensitive) the following value"
+msgstr ""

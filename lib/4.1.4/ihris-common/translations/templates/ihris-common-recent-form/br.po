@@ -1,0 +1,132 @@
+# Translation of iHRIS Common - Recent Form to Breton (brezhoneg)
+# Exported from translatewiki.net
+#
+# Author: Fohanno
+# Author: Fulup
+# Author: Gwenn-Ael
+# Author: Y-M D
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Recent Form\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:06:52+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Breton <https://translatewiki.net/wiki/Portal:br>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:15+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: br\n"
+"X-Message-Group: #out-ihris-common-rfo\n"
+"X-POT-Import-Date: 2013-10-07 17:19:28+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/menu_recent.html#L3'>modules/RecentForm/templates/en_US/menu_recent.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/search_recent.html#L2'>modules/RecentForm/templates/en_US/search_recent.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/menu_search_recent.html#L2'>modules/RecentForm/templates/en_US/menu_search_recent.html</a>
+#, no-c-format
+msgid "Recent Changes"
+msgstr "Kemmoù diwezhañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/search_recent.html#L5'>modules/RecentForm/templates/en_US/search_recent.html</a>
+#, no-c-format
+msgid "View forms that have been updated recently."
+msgstr "Diskwel ar furmskridoù zo bet hizivaet nevez zo."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_desc.html#L2'>modules/RecentForm/templates/en_US/recent_desc.html</a>
+#, no-c-format
+msgid "Select the form to view the most recent updates made to the database."
+msgstr ""
+"Dibab ar furmskrid evit diskwel an hizivadurioù nevesañ zo bet graet en diaz "
+"roadennoù."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent.html#L2'>modules/RecentForm/templates/en_US/recent.html</a>
+#, no-c-format
+msgid "View Recent Form Changes"
+msgstr "Diskwel ar c'hemmoù zo bet graet er furmskridoù nevez zo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L2'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Changes made to"
+msgstr "Cheñchamantoù graet e"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L2'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "since"
+msgstr "Abaoe"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L4'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "View changes made since"
+msgstr "Diskwel ar cheñchamantoù graet abaoe"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L4'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Today"
+msgstr "Hiziv"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L5'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Yesterday"
+msgstr "Dec'h"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L6'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Last Week"
+msgstr "Sizhun dremenet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L11'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Total Found"
+msgstr "Hollad kavet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/configs/en_US/RecentForm.xml#L11'>modules/RecentForm/configs/en_US/RecentForm.xml</a>
+#, no-c-format
+msgid "Can view the list of recent forms that have been edited/added."
+msgstr "A c'hall diskwel roll ar furmskridoù nevez oz bet kemmet/ouzhpennet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/configs/en_US/RecentForm.xml#L18'>modules/RecentForm/configs/en_US/RecentForm.xml</a>
+#, no-c-format
+msgid "View Recent Forms"
+msgstr "Diskwel ar furmskridoù nevez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L8'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "View changes made by"
+msgstr "Gwelet ar c'hemmoù graet gant"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L8'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Everyone"
+msgstr "An holl"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/RecentForm/templates/en_US/recent_display.html#L9'>modules/RecentForm/templates/en_US/recent_display.html</a>
+#, no-c-format
+msgid "Me"
+msgstr "Me"

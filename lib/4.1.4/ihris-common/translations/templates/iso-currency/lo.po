@@ -1,0 +1,851 @@
+# Translation Template of ihris-common module (iso-currency Version 4.1.0.8)
+# Copyright (C) 2011 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common@iso-currency 4.1.0.8\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2011-08-02 01:27+0000\n"
+"Last-Translator: Intrahealth <Unknown>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:17+0000\n"
+"X-Generator: Launchpad (build 16869)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L12'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Afghani"
+msgstr "ອັບການີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L19'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lek"
+msgstr "ເລັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L26'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Algerian Dinar"
+msgstr "ດີນາແອນຈີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L33'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kwanza"
+msgstr "ວັນຊາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L40'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L47'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L369'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L495'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L810'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1006'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1013'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1020'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "East Caribbean Dollar"
+msgstr "ໂດລາ ຄາຣິບບຽນຕາເວັນອອກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L54'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Argentine Peso"
+msgstr "ເປໂຊ ອາເຈັນຕີນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L61'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Armenian Dram"
+msgstr "ດຣຳ ອາເມເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L68'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Aruban Guilder"
+msgstr "ກິລເດີ ອາຣູບັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L75'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Australian Dollar"
+msgstr "ດອນລາ ອອສເຕຣເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L82'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Euro"
+msgstr "ຢູໂຣ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L89'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Azerbaijanian Manat"
+msgstr "ມານັດ ອາເຊີໄບຈັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L96'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Bahamian Dollar"
+msgstr "ດອນລາ ບາຮາມຽນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L103'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Bahraini Dinar"
+msgstr "ດີນາ ບາໄຣນີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L110'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Taka"
+msgstr "ຕາກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L117'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Barbados Dollar"
+msgstr "ດອນລາ ບາບາໂດສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L124'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Belarussian Ruble"
+msgstr "ຣູເບິນ ເບລາຣູສຊຽນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L131'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Belize Dollar"
+msgstr "ດອນລາ ເບລີສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L138'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L208'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L516'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L761'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L880'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1048'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1202'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cfa Franc Bceao"
+msgstr "ເບຊິວ ຟຣັງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L145'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Bermudian Dollar"
+msgstr "ດອນລາ ເບີມູດຽນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L152'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Ngultrum"
+msgstr "ກູນຕຣຳ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L159'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Boliviano"
+msgstr "ໂບລີເວຍໂນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L166'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Convertible Marks"
+msgstr "ເຄື່ອງໝາຍແປງສະພາບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L173'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Pula"
+msgstr "ພູລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L180'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L901'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1139'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Norwegian Krone"
+msgstr "ໂຄຣນ ນໍວີຈຽນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L187'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Brazilian Real"
+msgstr "ຣຽວ ບຣາຊິວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L194'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Brunei Dollar"
+msgstr "ດອນລາ ບຣູໄນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L201'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Bulgarian Lev"
+msgstr "ເລບ ບັງກາເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L215'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Burundi Franc"
+msgstr "ຟຣັງ ເບີຣັນດີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L222'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Riel"
+msgstr "ຣຽວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L229'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L257'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L264'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L299'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L397'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L453'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cfa Franc Beac"
+msgstr "ບີກ ຟຣັງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L236'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Canadian Dollar"
+msgstr "ດອນລາ ການາດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L243'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cape Verde Escudo"
+msgstr "ເອສຄູໂດ ເຄບເວີດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L250'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cayman Islands Dollar"
+msgstr "ດອນລາ ໝູ່ເກາະ ໄຄແມນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L271'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Chilean Peso"
+msgstr "ເປໂຊ ຊີລີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L278'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Yuan Renminbi"
+msgstr "ຫຍວນ ເຣນມິນບີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L285'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Colombian Peso"
+msgstr "ເປໂຊ ໂຄລົມເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L292'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Comoro Franc"
+msgstr "ຟຣັງ ໂຄໂມໂຣ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L306'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Franc Congolais"
+msgstr "ຟຣັງ ຄອງໂກເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L313'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L866'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L894'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L957'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1209'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "New Zealand Dollar"
+msgstr "ດອນລາ ນິວຊີແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L320'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Costa Rican Colon"
+msgstr "ໂຄລອນ ຄອສຕາຣິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L327'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Croatian Kuna"
+msgstr "ຄູນາ ໂຄຣເອເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L334'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cuban Peso"
+msgstr "ເປໂຊ ຄິວບາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L341'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cyprus Pound"
+msgstr "ປອນ ໄຊປຣັສ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L348'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Czech Koruna"
+msgstr "ໂຄຣູນາ ເຊັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L355'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L432'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L488'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Danish Krone"
+msgstr "ໂຄຣນ ເດັນມາກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L362'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Djibouti Franc"
+msgstr "ຟຣັງ ຈິບູຕິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L376'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Dominican Peso"
+msgstr "ເປໂຊ ໂດມີນີກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L383'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Egyptian Pound"
+msgstr "ປອນ ອີຢິບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L390'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "El Salvador Colon"
+msgstr "ໂຄລອນ ເອວສະວາດໍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L404'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Nakfa"
+msgstr "ນາກຟາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L411'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kroon"
+msgstr "ຄຣູນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L418'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Ethiopian Birr"
+msgstr "ເບຍ ເອທິໂອເປຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L425'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Falkland Islands Pound"
+msgstr "ປອນ ໝູ່ເກາະຟັງແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L439'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Fiji Dollar"
+msgstr "ດອນລາ ຟີຈິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L446'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L859'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1321'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cfp Franc"
+msgstr "ຟຣັງ ເຊເອບພີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L460'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Dalasi"
+msgstr "ດາລາຊິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L467'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lari"
+msgstr "ລາຣິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L474'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cedi"
+msgstr "ຊີດີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L481'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Gibraltar Pound"
+msgstr "ປອນ ຈີບຣາຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L502'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Quetzal"
+msgstr "ເຄັດຊອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L509'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Guinea Franc"
+msgstr "ຟຣັງ ກິນີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L523'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Guyana Dollar"
+msgstr "ດອນລາ ກາອານາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L530'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Gourde"
+msgstr "ກົວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L537'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lempira"
+msgstr "ເລັມປິຣາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L544'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Hong Kong Dollar"
+msgstr "ດອນລາ ຮົງກົງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L551'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Forint"
+msgstr "ໂຟຣິນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L558'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Iceland Krona"
+msgstr "ໂຄຣນາ ໄອສແລນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L565'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Indian Rupee"
+msgstr "ລູປີ ອິນເດຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L572'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Rupiah"
+msgstr "ຣູເປຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L579'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Iranian Rial"
+msgstr "ຣຽວ ອິຣານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L586'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Iraqi Dinar"
+msgstr "ດີນາ ອີຣັກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L593'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "New Israeli Sheqel"
+msgstr "ເຊແກວ ອິສຣາແອວ ໃໝ່"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L600'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Jamaican Dollar"
+msgstr "ດອນລາ ຈາໄມກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L607'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Yen"
+msgstr "ເຢັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L614'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Jordanian Dinar"
+msgstr "ດີນາ ຈໍແດນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L621'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tenge"
+msgstr "ເທັງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L628'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kenyan Shilling"
+msgstr "ຊິນຣິງ ເຄນຢາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L635'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "North Korean Won"
+msgstr "ວອນ ເກົາຫຼີເໝືອ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L642'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Won"
+msgstr "ວອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L649'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kuwaiti Dinar"
+msgstr "ດີນາ ຄູເວດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L656'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Som"
+msgstr "ສົມ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L663'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kip"
+msgstr "ກີບ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L670'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Latvian Lats"
+msgstr "ລັດ ລັດເວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L677'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lebanese Pound"
+msgstr "ປອນ ເລບານອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L684'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Loti"
+msgstr "ໂລຕີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L691'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Liberian Dollar"
+msgstr "ດອນລາ ໄລບີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L698'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Libyan Dinar"
+msgstr "ດີນາ ລີເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L705'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1160'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Swiss Franc"
+msgstr "ຟຣັງ ສະວິດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L712'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lithuanian Litas"
+msgstr "ລີຕາ ລີທົວເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L719'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Pataca"
+msgstr "ປາຕາກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L726'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Denar"
+msgstr "ເດັນນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L733'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Malagasy Ariary"
+msgstr "ອາເຣຍຣີ ມາລາກາສກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L740'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1342'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kwacha"
+msgstr "ຄະວາຈາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L747'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Malaysian Ringgit"
+msgstr "ລິງກິດ ມາເລເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L754'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Rufiyaa"
+msgstr "ຣູບ ຟີຢາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L768'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Maltese Lira"
+msgstr "ລີຣາ ມອນຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L775'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Ouguiya"
+msgstr "ອຸກີຢາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L782'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Mauritius Rupee"
+msgstr "ຣູມໍຣິເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L789'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Mexican Peso"
+msgstr "ເປໂຊ ແມັກຊິໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L796'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Moldovan Leu"
+msgstr "ລື ມອນໂດວາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L803'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tugrik"
+msgstr "ຕູກຣິກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L817'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1328'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Moroccan Dirham"
+msgstr "ເດຍແຮມ ມໍຣັອກໂຄ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L824'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Merical"
+msgstr "ເມີຣິຄອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L831'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kyat"
+msgstr "ຫຍັດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L838'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Namibian Dollar"
+msgstr "ດອນລາ ນາມິເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L845'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Nepalese Rupee"
+msgstr "ຣູປີ ເນປານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L852'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Netherlands Antillian Guikder"
+msgstr "ກີກເດີ ເນເທີແລນ ແອນຕີລຽນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L873'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Cordoba Oro"
+msgstr "ໂອໂຣ ໂຄໂດບາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L887'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Naira"
+msgstr "ໄນຣາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L908'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Rial Omani"
+msgstr "ຣຽວ ໂອມານີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L915'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Pakistan Rupee"
+msgstr "ຣູປີ ປາກິສຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L922'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Balboa"
+msgstr "ບອນບົວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L929'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Kina"
+msgstr "ກິນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L936'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Guarani"
+msgstr "ກົວຣານີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L943'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Nuevo Sol"
+msgstr "ນູໂວ ໂຊນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L950'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Philippine Peso"
+msgstr "ເປໂຊ ຟີລິບປິນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L964'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Zloty"
+msgstr "ລອດຕີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L971'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Qatari Rial"
+msgstr "ຣຽວກາຕາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L978'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "New Leu"
+msgstr "ລື ໃໝ່"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L985'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Russian Ruble"
+msgstr "ຣູເບີນ ລັດເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L992'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Rwanda Franc"
+msgstr "ຟຣັງ ຣະວັນດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L999'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Saint Helena Pound"
+msgstr "ປອນ ເຊນ ເຮເລນາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1027'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tala"
+msgstr "ຕາລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1034'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Dobra"
+msgstr "ໂດບຣາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1041'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Saudi Riyal"
+msgstr "ຣີຢອນ ຊາອຸດິ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1055'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Serbian Dinar"
+msgstr "ດີນາ ເຊີເບຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1062'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Seychelles Rupee"
+msgstr "ຣູປີ ເຊແຊວ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1069'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Leone"
+msgstr "ລີອອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1076'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Singapore Dollar"
+msgstr "ດອນລາ ສິງກະໂປ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1083'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Slovak Koruna"
+msgstr "ໂຄຣູນາ ສະໂລວາເກຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1090'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tolar"
+msgstr "ໂຕລາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1097'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Solomon Islands Dollar"
+msgstr "ດອນລາ ໝູ່ເກາະ ໂຊໂລມອນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1104'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Somali Shilling"
+msgstr "ຊິນຣິງ ໂຊມາເລຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1111'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Rand"
+msgstr "ແຣນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1118'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Sri Lanka Rupee"
+msgstr "ຣູປີ ສີລັງກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1125'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Sudanese Dinar"
+msgstr "ດີນາ ສຸດານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1132'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Surinam Dollar"
+msgstr "ດອນລາ ສຸຣີນຳ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1146'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Lilangeni"
+msgstr "ລີລັງຈີນີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1153'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Swedish Krona"
+msgstr "ໂຄຣນາ ສະວີເດັນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1167'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Syrian Pound"
+msgstr "ປອນ ຊີເຣຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1174'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "New Taiwan Dollar"
+msgstr "ດອນລາ ໃຕ້ຫວັນໃໝ່"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1181'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Somoni"
+msgstr "ໂຊໂມນີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1188'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tanzanian Shilling"
+msgstr "ຊິນຣິງ ຕັນຊາເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1195'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Baht"
+msgstr "ບາດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1216'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Pa'Anga"
+msgstr "ປາ ອັງກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1223'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Trinidad And Tobago Dollar"
+msgstr "ດອນລາ ທຣີນີດາດ ແລະ ໂຕບາໂກ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1230'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Tunisian Dinar"
+msgstr "ດີນາ ຕູນີເຊຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1237'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "New Turkish Lira"
+msgstr "ລີຣາ ຕຸຣະກີໃໝ່"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1244'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Manat"
+msgstr "ມານັດ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1251'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Uganda Shilling"
+msgstr "ຊິນຣິງ ອູກັນດາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1258'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Hryvnia"
+msgstr "ຣີວະເນຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1265'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "UAE Dirham"
+msgstr "ເດຍແຮມ ຢູເອອີ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1272'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Pound Sterling"
+msgstr "ປອນສະເຕີລິງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1279'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "US Dollar"
+msgstr "ດອນລາ ອາເມລິກາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1286'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Peso Uruguayo"
+msgstr "ເປໂຊ ອູລາກວຍ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1293'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Uzbekistan Sum"
+msgstr "ຊຳ ອຸເບກິສະຖານ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1300'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Vatu"
+msgstr "ວາຕຸ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1307'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Bolivar"
+msgstr "ໂບລີວາ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1314'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Dong"
+msgstr "ດົ້ງ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1335'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Yemeni Rial"
+msgstr "ຣຽວ ເຢແມນ"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml#L1349'>modules/Currency/modules/ISO_Currency/configs/en_US/ISO_Currency.xml</a>
+#, no-c-format
+msgid "Zimbabwe Dollar"
+msgstr "ດອນລາ ຊິມບາເວ"

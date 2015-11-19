@@ -1,0 +1,295 @@
+# Translation of iHRIS I2CE - Login Page to Ukrainian (українська)
+# Exported from translatewiki.net
+#
+# Author: Andriykopanytsia
+# Author: Steve.rusyn
+# Author: SteveR
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Login Page\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:15:10+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: uk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:18+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:23:55+0000\n"
+"Plural-Forms: nplurals=3; plural=(n%10 == 1 && n%100 != 11) ? 0 : ( (n%10 >= "
+"2 && n%10 <= 4 && (n%100 < 10 || n%100 >= 20)) ? 1 : 2 );\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/login.html#L5'>modules/Pages/modules/Login/templates/en_US/login.html</a>
+#, no-c-format
+msgid "Please Log In"
+msgstr "Будь ласка, увійдіть"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/login.html#L10'>modules/Pages/modules/Login/templates/en_US/login.html</a>
+#, no-c-format
+msgid "Username"
+msgstr "Ім'я користувача"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/login.html#L11'>modules/Pages/modules/Login/templates/en_US/login.html</a>
+#, no-c-format
+msgid "Password"
+msgstr "Пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_cant_change.html#L3'>modules/Pages/modules/Login/templates/en_US/password_cant_change.html</a>
+#, no-c-format
+msgid "That account cannot change passwords."
+msgstr "Цей обліковий запис не можна змінювати паролі."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/configs/en_US/Login.xml#L33'>modules/Pages/modules/Login/configs/en_US/Login.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password.html#L2'>modules/Pages/modules/Login/templates/en_US/password.html</a>
+#, no-c-format
+msgid "Change Password"
+msgstr "Змінити пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback.html#L2'>modules/Pages/modules/Login/templates/en_US/feedback.html</a>
+#, no-c-format
+msgid "Send Feedback"
+msgstr "Надіслати відгук"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_none.html#L3'>modules/Pages/modules/Login/templates/en_US/password_none.html</a>
+#, no-c-format
+msgid "You did not set a password. Please try again."
+msgstr "Ви не встановили пароль. Будь ласка, спробуйте ще раз."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_form.html#L5'>modules/Pages/modules/Login/templates/en_US/password_form.html</a>
+#, no-c-format
+msgid "Old Password"
+msgstr "Старий пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_form.html#L6'>modules/Pages/modules/Login/templates/en_US/password_form.html</a>
+#, no-c-format
+msgid "New Password"
+msgstr "Новий пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_form.html#L7'>modules/Pages/modules/Login/templates/en_US/password_form.html</a>
+#, no-c-format
+msgid "Confirm New Password"
+msgstr "Підтвердження нового пароля"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_thanks.html#L3'>modules/Pages/modules/Login/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "Thank you for your feedback."
+msgstr "Дякуємо за Ваш відгук!"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_thanks.html#L6'>modules/Pages/modules/Login/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "return"
+msgstr "повернутися"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L11'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Site Feedback Form"
+msgstr "Форма зворотнього зв'язку сайту"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L18'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Comments"
+msgstr "Коментарі"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L23'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Name"
+msgstr "Ім'я"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L28'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Company"
+msgstr "Компанія"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L33'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Title"
+msgstr "Заголовок"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L38'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Industry"
+msgstr "Промисловість"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L42'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Address"
+msgstr "Адреса"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L47'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "City"
+msgstr "Місто"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L52'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "State/Province"
+msgstr "Штат/Провінція/Область"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L57'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Postal Code"
+msgstr "Поштовий індекс"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L62'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Country"
+msgstr "Країна"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L67'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Telephone"
+msgstr "Телефон"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L72'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Fax"
+msgstr "Факс"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L77'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Email"
+msgstr "Електронна пошта"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/configs/en_US/Login.xml#L12'>modules/Pages/modules/Login/configs/en_US/Login.xml</a>
+#, no-c-format
+msgid "Login"
+msgstr "Увійти"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/configs/en_US/Login.xml#L19'>modules/Pages/modules/Login/configs/en_US/Login.xml</a>
+#, no-c-format
+msgid "Logout"
+msgstr "Вийти"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/configs/en_US/Login.xml#L26'>modules/Pages/modules/Login/configs/en_US/Login.xml</a>
+#, no-c-format
+msgid "Forgotten Password"
+msgstr "Забули пароль?"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/login.html#L6'>modules/Pages/modules/Login/templates/en_US/login.html</a>
+#, no-c-format
+msgid "Enter your username and password."
+msgstr "Введіть ваше ім'я користувача і пароль."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_wrong.html#L3'>modules/Pages/modules/Login/templates/en_US/password_wrong.html</a>
+#, no-c-format
+msgid "Your old password didn't match the database. Please try again."
+msgstr ""
+"Ваш старий пароль не відповідає базі даних. Будь ласка, спробуйте ще раз."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_no_match.html#L3'>modules/Pages/modules/Login/templates/en_US/password_no_match.html</a>
+#, no-c-format
+msgid ""
+"Your new password didn't match your confirmed password. Please try again."
+msgstr ""
+"Ваш новий пароль не збігається з підтвердженим вами паролем. Будь ласка, "
+"спробуйте ще раз."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/feedback_form.html#L8'>modules/Pages/modules/Login/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid ""
+"If you have a bug report, problem with the page, feature request or "
+"question, please contact us by filling out and submitting the following "
+"form. We will use your email address only to reply to your request."
+msgstr ""
+"Якщо у вас є звіт про помилку, проблема зі сторінкою, є прохання або "
+"питання, будь ласка, зв'яжіться з нами, заповнивши і надіславши наступну "
+"форму. Ми будемо використовувати вашу адресу електронної пошти лише для "
+"відповіді на ваш запит."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L6'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Forgot Password"
+msgstr "Забув пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L12'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Reset Password"
+msgstr "Скинути пароль"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L13'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Enter your username to reset your password"
+msgstr "Введіть своє ім'я користувача для зміни паролю"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L18'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Display Username"
+msgstr "Показувати ім'я користувача"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L19'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Enter your email address to see your username"
+msgstr "Введіть адресу електронної пошти, щоб побачити своє ім'я користувача"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L24'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Return to login page"
+msgstr "Повернутися до сторінки входу"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/forgot.html#L30'>modules/Pages/modules/Login/templates/en_US/forgot.html</a>
+#, no-c-format
+msgid "Please contact your system adminstator to reset your password"
+msgstr ""
+"Будь ласка, зв'яжіться з вашим системним адміністратором для зміни паролю"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/login.html#L21'>modules/Pages/modules/Login/templates/en_US/login.html</a>
+#, no-c-format
+msgid "Forgot username or password?"
+msgstr "Забули ім'я користувача або пароль?"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Pages/modules/Login/templates/en_US/password_success.html#L3'>modules/Pages/modules/Login/templates/en_US/password_success.html</a>
+#, no-c-format
+msgid "Your password has been changed."
+msgstr "Ваш пароль вже змінено."

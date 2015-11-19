@@ -1,0 +1,188 @@
+# Translation of iHRIS I2CE - Form Browser to Dutch (Nederlands)
+# Exported from translatewiki.net
+#
+# Author: Siebrand
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Form Browser\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:14:02+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Dutch <https://translatewiki.net/wiki/Portal:nl>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: nl\n"
+"X-Message-Group: #out-ihris-i2ce-fbr\n"
+"X-POT-Import-Date: 2013-10-07 17:23:21+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L6'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu_form.html#L4'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu_form.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L7'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "The"
+msgstr "Het"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L7'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu_form.html#L5'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu_form.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L8'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "form"
+msgstr "fornulier"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L15'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L16'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "The form '"
+msgstr "Het formulier \""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L18'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L19'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "Warning: There is no class registered for this form."
+msgstr "Waarschuwing: er is geen klasse geregistreerd voor dit formulier."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L26'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L27'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "Select a record to view"
+msgstr "Selecteer een te bekijken record"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L30'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L31'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "None"
+msgstr "Geen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L40'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L40'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "Select a child form to view"
+msgstr "Selecteer een weer te geven kindformulier"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L52'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L51'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "View the parent form ("
+msgstr "Het ouderformulier bekijken ("
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L55'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L54'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "View Parent"
+msgstr "Ouder bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L63'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#, no-c-format
+msgid "Edit Form"
+msgstr "Formulier bewerken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu.html#L2'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_menu.html</a>
+#, no-c-format
+msgid "Available Forms"
+msgstr "Beschikbare formulieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/configs/en_US/FormBrowser.xml#L11'>modules/Forms/modules/FormBrowser/configs/en_US/FormBrowser.xml</a>
+#, no-c-format
+msgid "Can view form browser"
+msgstr "Kan de formulierbrowser bekijken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/configs/en_US/FormBrowser.xml#L18'>modules/Forms/modules/FormBrowser/configs/en_US/FormBrowser.xml</a>
+#, no-c-format
+msgid "Form Browser"
+msgstr "Formulierbrowser"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L15'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L16'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "' is provided via the class '"
+msgstr "\" wordt aangeboden via de klasse \""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html#L59'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_edit.html</a>
+#, no-c-format
+msgid "Save this form ("
+msgstr "Formulier opslaan ("
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html#L60'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details.html</a>
+#, no-c-format
+msgid "Edit this form ("
+msgstr "Formulier bewerken ("
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L8'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L12'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "The field"
+msgstr "Het veld"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L8'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L12'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "is registered as type"
+msgstr "is geregistreerd als type"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L9'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "which is provided by"
+msgstr "dat wordt geleverd door"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L13'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L17'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "Warning: The field '"
+msgstr "Waarschuwing: Het veld \""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L13'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "' is not associated with any class."
+msgstr "\" is niet gekoppeld aan een klasse."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L17'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "' has no registed type."
+msgstr "\" heeft geen geregistreerd type."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L20'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "The field has id"
+msgstr "Het veld heeft ID"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html#L23'>modules/Forms/modules/FormBrowser/templates/en_US/formBrowser_form_details_no_record.html</a>
+#, no-c-format
+msgid "This field links to the form"
+msgstr "Dit veld is gekoppeld aan het formulier"

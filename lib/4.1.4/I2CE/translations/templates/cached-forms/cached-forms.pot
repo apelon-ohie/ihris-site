@@ -1,0 +1,152 @@
+# Translation Template of I2CE module (CachedForms Version 4.1.6.0)
+# Copyright (C) 2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: I2CE@CachedForms 4.1.6.0\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"Last-Translator: Intrahealth <hris@capacityproject.org>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml#L11'>modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml</a>
+#, no-c-format
+msgid "Allows administering of cached forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L4'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Last Generated"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L7'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Create/Update Cache"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L7'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Force Cache Generation"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L9'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Drop Cached Table"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L20'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "of all forms if not stale"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L21'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Drop"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L22'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "caches of all forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml#L18'>modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml</a>
+#, no-c-format
+msgid "Cached Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L5'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L17'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L18'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "all forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L19'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Force Caching"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L26'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Export Cached Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L33'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Modification Date"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L36'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Enable bzip2 Compression"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L43'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create/Edit Profile"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L45'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create a profile or edit an existing profile of forms."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L46'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create A New Profile"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L52'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Manage Caching of Individual Forms"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L2'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Define Profile"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L4'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Define a profile of forms to export"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L5'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Profile Name"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L6'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Select Forms in Profile"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L9'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L31'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L46'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Select a profile"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L8'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache all forms in the selected profile."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L30'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Export all cached forms in the selected profile. If you select a modification date, then only records that have been modified on or after the specified date will be exported. Otherwise, all records that have been modified for the selected profile will be exported."
+msgstr ""
+

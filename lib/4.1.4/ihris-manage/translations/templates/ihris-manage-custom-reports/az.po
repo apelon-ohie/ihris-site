@@ -1,0 +1,38 @@
+# Translation of iHRIS Manage - Custom Reports to Azerbaijani (azərbaycanca)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:17:53+0000\n"
+"Last-Translator: Rashid Aliyev <Unknown>\n"
+"Language-Team: Azerbaijani <az@li.org>\n"
+"Language: az\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:25:32+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/configs/en_US/ManageCustomReports.xml#L12'>modules/ManageCustomReports/configs/en_US/ManageCustomReports.xml</a>
+#, no-c-format
+msgid "iHRIS Manage"
+msgstr "iHRIS İdarəetmə"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/configs/en_US/ManageCustomReports.xml#L15'>modules/ManageCustomReports/configs/en_US/ManageCustomReports.xml</a>
+#, no-c-format
+msgid "iHRIS Manage Site"
+msgstr "iHRIS İdarəetmə Saytı"

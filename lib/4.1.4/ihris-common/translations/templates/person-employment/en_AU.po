@@ -1,0 +1,128 @@
+# English (Australia) translation for ihris-common
+# Copyright (c) 2010 Rosetta Contributors and Canonical Ltd 2010
+# This file is distributed under the same license as the ihris-common package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2010.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-common@PersonEmployment 4.1.0\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2010-10-20 07:25+0000\n"
+"Last-Translator: IntraHealth Informatics <Unknown>\n"
+"Language-Team: English (Australia) <en_AU@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:15+0000\n"
+"X-Generator: Launchpad (build 16869)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/templates/en_US/view_employment.html#L3'>modules/Person/modules/Employment/templates/en_US/view_employment.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Edit This Information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/templates/en_US/view_employment.html#L5'>modules/Person/modules/Employment/templates/en_US/view_employment.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Update this Information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/templates/en_US/view_employment.html#L12'>modules/Person/modules/Employment/templates/en_US/view_employment.html</a>
+#, no-c-format
+msgid "Employer Information"
+msgstr "Employer Information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/templates/en_US/form_employment.html#L3'>modules/Person/modules/Employment/templates/en_US/form_employment.html</a>
+#, no-c-format
+msgid "Company Information"
+msgstr "Company Information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/templates/en_US/form_employment.html#L4'>modules/Person/modules/Employment/templates/en_US/form_employment.html</a>
+#, no-c-format
+msgid "Position Information"
+msgstr "Position Information"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L11'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Can view employment child form of a person"
+msgstr "Can view employment child form of a person"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L14'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Can edit employment child forms of a person"
+msgstr "Can edit employment child forms of a person"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L21'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Add/Update Employment History"
+msgstr "Add/Update Employment History"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L30'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Employment History"
+msgstr "Employment History"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L39'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Company Name"
+msgstr "Company Name"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L44'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Company Address"
+msgstr "Company Address"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L49'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Company Telephone"
+msgstr "Company Telephone"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L54'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Date Started"
+msgstr "Date Started"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L59'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Starting Wage"
+msgstr "Starting Wage"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L64'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Starting Position"
+msgstr "Starting Position"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L69'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Date Ended (leave blank if still employed)"
+msgstr "Date Ended (leave blank if still employed)"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L74'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Ending Wage"
+msgstr "Ending Wage"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L79'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Ending Position"
+msgstr "Ending Position"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L84'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Supervisor"
+msgstr "Supervisor"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L89'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Ok to Contact?"
+msgstr "Ok to Contact?"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L94'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Job Responsibilities"
+msgstr "Job Responsibilities"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Employment/configs/en_US/Employment.xml#L99'>modules/Person/modules/Employment/configs/en_US/Employment.xml</a>
+#, no-c-format
+msgid "Reason for Leaving"
+msgstr "Reason for Leaving"

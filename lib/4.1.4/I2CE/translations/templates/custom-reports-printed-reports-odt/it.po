@@ -1,0 +1,54 @@
+# Italian translation for i2ce
+# Copyright (c) 2012 Rosetta Contributors and Canonical Ltd 2012
+# This file is distributed under the same license as the i2ce package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: i2ce\n"
+"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2012-08-14 09:20+0000\n"
+"Last-Translator: Edoardo Putti <edoardo.putti@gmail.com>\n"
+"Language-Team: Italian <it@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:19+0000\n"
+"X-Generator: Launchpad (build 16877)\n"
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L2'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Select ODT options and view this report for printing as a table"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L2'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L15'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Forms Print"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L5'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Forms Print Options"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L7'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "This will create an ODT file based on the selected ODT template."
+msgstr "Verrà creato un fie ODT sul modello ODT selezionato."
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L11'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Select the printed form template to use for this report."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L15'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Print this report as an ODT"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html#L16'>modules/CustomReports/modules/PrintedReportsODT/templates/en_US/customReports_display_control_ODT.html</a>
+#, no-c-format
+msgid "Close"
+msgstr ""

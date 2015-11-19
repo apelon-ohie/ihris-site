@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE I2CEConfiguration SYSTEM "I2CE_Configuration.dtd">
+<I2CEConfiguration name="ihris-manage-Salary" path="/I2CE">
+  <metadata>
+    <version>4.1.9.0</version>
+  </metadata>
+  <configurationGroup name="ihris-manage-Salary" path="/I2CE" locale="si">
+    <version>4.1.0.1</version>
+    <configurationGroup name="tasks" path="/I2CE/tasks/task_description">
+      <configuration name="person_can_view_child_form_salary" locale="si">
+        <value>පුද්ගලයෙකුගේ උප වැටුප් ෆෝරමය බැලීමට හැක</value>
+      </configuration>
+      <configuration name="person_can_edit_child_form_salary" locale="si">
+        <value>පුද්ගලයෙකුගේ උප වැටුප් ෆෝරමය සංස්කරණය කිරීමට හැක</value>
+      </configuration>
+      <configuration name="can_edit_database_list_salary_source" locale="si">
+        <value>වැටුප්_මූලාශ්‍ර ලැයිස්තුව සංස්කරණය කරන්න</value>
+      </configuration>
+      <configuration name="can_view_database_list_salary_source" locale="si">
+        <value>වැටුප්_මූලාශ්‍ර ලැයිස්තුව දක්වන්න</value>
+      </configuration>
+    </configurationGroup>
+    <configurationGroup name="forms" path="/modules/forms">
+      <configurationGroup name="forms">
+        <configurationGroup name="salary">
+          <configuration name="display" values="single" locale="si">
+            <value>වැටුප/වේතනය</value>
+          </configuration>
+        </configurationGroup>
+        <configurationGroup name="salary_source">
+          <configuration name="display" values="single" locale="si">
+            <value>වැටුප් මූලාශ්‍රය</value>
+          </configuration>
+        </configurationGroup>
+      </configurationGroup>
+      <configurationGroup name="formClasses">
+        <configurationGroup name="iHRIS_Salary">
+          <configurationGroup name="fields">
+            <configurationGroup name="start_date">
+              <configuration name="headers" type="delimited" locale="si">
+                <value>default:ඇරඹුම් දිනය</value>
+              </configuration>
+            </configurationGroup>
+            <configurationGroup name="salary">
+              <configuration name="headers" type="delimited" locale="si">
+                <value>default:වැටුප/වේතනය</value>
+              </configuration>
+            </configurationGroup>
+            <configurationGroup name="end_date">
+              <configuration name="headers" type="delimited" locale="si">
+                <value>default:අවසන් දිනය</value>
+              </configuration>
+            </configurationGroup>
+            <configurationGroup name="notes">
+              <configuration name="headers" type="delimited" locale="si">
+                <value>default:සටහන්</value>
+              </configuration>
+            </configurationGroup>
+          </configurationGroup>
+        </configurationGroup>
+      </configurationGroup>
+    </configurationGroup>
+  </configurationGroup>
+</I2CEConfiguration>

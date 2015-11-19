@@ -1,0 +1,883 @@
+# Translation of iHRIS I2CE - Form Relationships to Japanese (日本語)
+# Exported from translatewiki.net
+#
+# Author: Allinpunchay
+# Author: Shirayuki
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Form Relationships\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:14:10+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-POT-Import-Date: 2013-10-07 17:23:27+0000\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L7'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L10'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L23'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Sql Query"
+msgstr "SQL クエリ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L34'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L32'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L42'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L22'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid "Description"
+msgstr "説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L33'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "A description of this function to be displayed to the end user"
+msgstr "エンドユーザーに表示される、この関数の説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L23'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L18'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L40'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Form Field"
+msgstr "フォーム フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L24'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L41'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Select the form field that this function takes values in"
+msgstr "この関数が値を返すフォーム フィールドを選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L40'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L26'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid "Selectable Forms"
+msgstr "選択可能なフォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L50'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L36'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid "Linked Fields"
+msgstr "リンク フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "Existing Limit"
+msgstr "既存の条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "There is a limit on the field"
+msgstr "フィールドに表示条件が適用されています。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "with style"
+msgstr "スタイルで"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "You may"
+msgstr "可能性があります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "Remove"
+msgstr "除去"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_limit.html</a>
+#, no-c-format
+msgid "this limit."
+msgstr "この条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_container.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_container.html</a>
+#, no-c-format
+msgid "There are no forms which are able to be joined to this form."
+msgstr "このフォームを結合することができる相手フォームがありません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html</a>
+#, no-c-format
+msgid "Limit this form by a field"
+msgstr "このフォームは、フィールドで制限されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html</a>
+#, no-c-format
+msgid "Select a field and limit type to limit this form by."
+msgstr "フォーム絞込のための、フィールドと条件種類を選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html#L7'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html</a>
+#, no-c-format
+msgid "Form field"
+msgstr "フォーム フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limits.html</a>
+#, no-c-format
+msgid "Select a field"
+msgstr "フィールドを選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_view.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html#L13'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_view.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship_each.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship_each.html</a>
+#, no-c-format
+msgid "View"
+msgstr "閲覧"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_edit.html#L8'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_view.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_edit.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_join.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_join.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_condition.html#L7'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_condition.html</a>
+#, no-c-format
+msgid "Delete"
+msgstr "削除"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_edit.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_function_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_edit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list_member_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship_each.html#L10'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship_each.html</a>
+#, no-c-format
+msgid "Edit"
+msgstr "編集"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid "The SQL Function"
+msgstr "SQL 関数"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L19'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid "The form field that this function takes values in"
+msgstr "この関数が値を返すフォーム フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formrelationships_options.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formrelationships_options.html</a>
+#, no-c-format
+msgid "Editing Language"
+msgstr "言語の編集"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html#L18'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view_relation.html</a>
+#, no-c-format
+msgid "Export"
+msgstr "エクスポート"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L5'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_view.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_view.html</a>
+#, no-c-format
+msgid "Existing Functions"
+msgstr "既存の関数"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html</a>
+#, no-c-format
+msgid "Form Relationships"
+msgstr "フォームの関係性"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html</a>
+#, no-c-format
+msgid "View an Existing Relationship"
+msgstr "既存の関係性を表示します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_view.html</a>
+#, no-c-format
+msgid "There are no existing relationships"
+msgstr "既存の関係性が存在しません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_operand.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_operand.html</a>
+#, no-c-format
+msgid "Add a new operand."
+msgstr "新しいオペランドを追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_operand.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_operand.html</a>
+#, no-c-format
+msgid "You may add a new operand to this operator."
+msgstr "この演算子に新しいオペランドを追加できます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid "Add a new child form"
+msgstr "新規の子フォームを追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid "Add A New Form"
+msgstr "新規フォームを追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid "Select a child form to join to this form"
+msgstr "このフォームに結合する子フォームを選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L17'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid "Short Name"
+msgstr "短い名前"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html#L8'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L26'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L34'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L13'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid "Display Name"
+msgstr "表示名"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L27'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid "The name of the joined form that is displayed to the end user."
+msgstr "エンドユーザーに表示される結合されたフォームの名前"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L35'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid ""
+"A description of the form and its role in the relationship that should be "
+"understandable to the end user."
+msgstr "フォームと、エンドユーザーにわかりやすい関係性の役割についての説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L43'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L48'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Close"
+msgstr "閉じる"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "Choose Limit Node Type"
+msgstr "条件ノードの種類を選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "Operator Node"
+msgstr "演算子ノード"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "Select One"
+msgstr "1 つを選択"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "NOT"
+msgstr "否定"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "AND"
+msgstr "論理積"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L17'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "OR"
+msgstr "論理和"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L18'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "XOR"
+msgstr "排他的論理和"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L26'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "Limit by a field (end node)"
+msgstr "フィールド (終了ノード) による条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L32'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid "No limit"
+msgstr "制限なし"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"You may either choose to modify an existing form relationship, or construct "
+"a new one."
+msgstr ""
+"既存のフォームの関係性の変更、または新しい関係性の作成のいずれかができます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L7'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "You may construct an existing form relationship with this page."
+msgstr "このページを使って既存のフォーム関係性を構築できます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "Edit an Existing Relationship"
+msgstr "既存の関係性を編集します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L13'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "Construct a New Relationship"
+msgstr "新規の関係性を構築します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L25'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "Relationship Short Name"
+msgstr "関係性のショートネーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L35'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "The name of the form relationship that is displayed to the end user."
+msgstr "エンドユーザーに表示されるフォーム関係性の名前"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L43'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"A description of the form relationship that should be understandable to the "
+"end user."
+msgstr "エンドユーザーにわかりやすいフォーム関係性の説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L61'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "Select an existing relationship to copy."
+msgstr "コピーする既存の関係性を選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L62'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid "Do not copy"
+msgstr "コピーしないでください。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html</a>
+#, no-c-format
+msgid "The form %1$s in the relationship refers to the real form %2$s."
+msgstr "関係性のうちのフォーム %1$s は、実際のフォーム %2$sを参照します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html</a>
+#, no-c-format
+msgid "The name of this relationship that is displayed to the end user."
+msgstr "エンドユーザーに表示される関係性の名前"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_styles.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_styles.html</a>
+#, no-c-format
+msgid "Field limit style"
+msgstr "フィールド条件のスタイル"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_styles.html#L7'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_styles.html</a>
+#, no-c-format
+msgid "Select A Style"
+msgstr "スタイルを選択します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand.html</a>
+#, no-c-format
+msgid "Limits"
+msgstr "制限"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand.html</a>
+#, no-c-format
+msgid "All limits under this node are grouped under the operator"
+msgstr "このノードの下のすべての条件は、演算子の下でグループ化されています。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_joins.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_joins.html</a>
+#, no-c-format
+msgid "Existing Joined Forms"
+msgstr "既存の結合フォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Add a new function"
+msgstr "新規の関数を追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Add A New Function"
+msgstr "新規の関数を追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "Function name"
+msgstr "関数名"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid "A name for this function that can be refred to when creating reports."
+msgstr "レポートを作成するときに参照できる関数名"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid "The reported form"
+msgstr "レポートフォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid "uses the form"
+msgstr "フォームの使用"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid ") is displayed."
+msgstr ") が表示されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L23'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid ""
+"A description of the form that should be understandable to the end user."
+msgstr "エンドユーザーにわかりやすいフォームの説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_operand_list.html</a>
+#, no-c-format
+msgid "Existing Limits"
+msgstr "既存の条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L5'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "Field"
+msgstr "フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "The field of this form we wish to link with."
+msgstr "このフォームにリンクさせたいフィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/configs/en_US/FormRelationship.xml#L11'>modules/Forms/modules/FormRelationship/configs/en_US/FormRelationship.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L19'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "Select Value"
+msgstr "値を選択"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L15'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "Ancestor Form"
+msgstr "先祖フォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L16'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "The named form we wish to specify the condition."
+msgstr "条件を指定したい名称有フォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L25'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "Ancestor Field"
+msgstr "先祖フィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html#L26'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_condition.html</a>
+#, no-c-format
+msgid "The field of the ancestral form we wish to link with."
+msgstr "リンクさせたい先祖フォームのフィールド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_conditions.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_existing_conditions.html</a>
+#, no-c-format
+msgid "Existing Conditions"
+msgstr "既存の条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_conditions_container.html#L5'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_conditions_container.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_condition.html#L2'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_condition.html</a>
+#, no-c-format
+msgid "Add a new condition"
+msgstr "新規の条件を追加します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L8'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid ""
+"The defining SQL for this function. You refer to reported fields as "
+"`reportform+field`"
+msgstr ""
+"この関数を定義する SQL。レポートフィールドは ”レポートフォーム + フィールド” "
+"で参照してください。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_view.html#L5'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_view.html</a>
+#, no-c-format
+msgid "Row will be dropped if form is not found"
+msgstr "フォームが見つからない場合、行は削除されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_view.html#L8'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_view.html</a>
+#, no-c-format
+msgid "Row will not be dropped if form is not found"
+msgstr "フォームが見つからない場合でも、行は削除されません。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html#L19'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join.html</a>
+#, no-c-format
+msgid ""
+"An internal key used to identify the form relationship. It may not be the "
+"same as the key for any of the existing named forms in this relationship."
+msgstr ""
+"フォーム関係性を識別するために使用される内部キーです。既存の名前付きのフォー"
+"ムのいずれのキーとも同じではない場合があります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_new_limit_choice.html</a>
+#, no-c-format
+msgid ""
+"You have not defined any limiting information under this node. You may "
+"either choose to limit by a field or set this node to be an operator."
+msgstr ""
+"このノード下の制限情報が定義されていません。フィールドでの制限、またはオペ"
+"レーターにこのノードを設定することのいずれかを選択できます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L17'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"Please select either a form to use as the primary form for this form "
+"relationship or choose to copy an existing form relationship to a new one by "
+"clicking on the appropriate Options link below."
+msgstr ""
+"このフォーム関係性のための主フォームとして使うフォームを選択する、または下部"
+"の適切なオプションリンクをクリックして既存のフォーム関係性からコピーする、の"
+"いずれかを選択してください。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L21'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"Please select a form to use as the primary form for this form relationship "
+"by clicking on the Options link below."
+msgstr ""
+"以下のオプション リンクをクリックしてこのフォーム関係性のための主フォームとし"
+"て使うフォームを選択してください。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L27'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"An internal key used to identify the form relationship. It may not be the "
+"same as the key for any of the existing form relationships."
+msgstr ""
+"フォーム関係性を識別するために使用する内部キーです。既存のフォーム関係性の"
+"キーと同じではない場合があります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html#L52'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_edit.html</a>
+#, no-c-format
+msgid ""
+"To construct a new form relationship, you will need to first choose a "
+"Primary Form"
+msgstr ""
+"新規のフォーム関係性を構築するには、まず主フォームを選択する必要があります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html#L17'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_meta_edit.html</a>
+#, no-c-format
+msgid ""
+"A description of the relationship that should be understandable to the end "
+"user."
+msgstr "エンドユーザーにわかりやすいフォーム関係性の説明"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html#L23'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_reporting_functions_edit.html</a>
+#, no-c-format
+msgid ""
+"The defining SQL for this function. You refer to a form with the name "
+"<formname> and the field <field> `<formname>+<field>` in your function."
+msgstr ""
+"この関数を定義する SQL。フォーム名<formname>、また関数内のフィールド"
+"<field>'<formname>+<field>'、</field></formname></field></formname>を参照して"
+"ください。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html#L14'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_meta.html</a>
+#, no-c-format
+msgid ""
+"The name of the form that is displayed to the end user. If none is "
+"specified, then the short name ("
+msgstr ""
+"エンドユーザーに表示されるフォームの名前です。何も指定しない場合、ショート"
+"ネーム(["
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "Join Method"
+msgstr "結合メソッド"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "LEFT JOIN"
+msgstr "外部結合（LEFT JOIN)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L9'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "Limit Join"
+msgstr "結合条件"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "ALLOW MULTIPLE JOINS"
+msgstr "複数の結合を許可します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid "Edit the SQL function"
+msgstr "SQL 関数を編集します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L32'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid "Aggregate"
+msgstr "集計"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L55'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid ""
+"The fields that are linked when listing options. Only applies if the form "
+"field is a subclass of I2CE_FormField_MAPPED. It should be a colon separated "
+"list of 'forms' or 'form+linkfield's. Example: \"county:district+region:"
+"[region]:country\". If not set, it defaults to the name of this function."
+msgstr ""
+"オプションリストにリンクされているフィールド。フォーム フィールドが "
+"I2CE_FormField_MAPPED のサブクラスの場合のみ適用されます。'フォーム' また"
+"は'フォーム + リンクフィールド'はコロンで区切られた一覧である必要があります。"
+"例:\"郡: 地区 + 地域: [地域]: 国\"。設定が無い場合、関数の名前がデフォルトと"
+"して設定されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L63'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid "Dependent Functions"
+msgstr "関数従属"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid "Joined Forms"
+msgstr "結合されたフォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L13'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid "Join in new forms to this relationship."
+msgstr "新規フォームと、この関係性を結合します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L23'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid "Limit This Form"
+msgstr "フォームを制限します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L25'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid ""
+"Limit the type of forms added based on values of one of the fields of this "
+"form"
+msgstr ""
+"フォームのフィールドのいずれかの値に基づいて追加されるフォーム種類を制限しま"
+"す。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L34'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid "Link This Form"
+msgstr "このフォームにリンクします。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L36'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid ""
+"Link this form to an ancestor form in the relationship by specifying fields "
+"that need to be the same."
+msgstr ""
+"このフォームから、関係性を同じくする必要がある先祖フォームへリンクします。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html#L48'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_relationship.html</a>
+#, no-c-format
+msgid "Functions"
+msgstr "関数"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L33'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid ""
+"A comma separated list of the forms in the relationship on whose fields you "
+"which you wish to aggregate on (i.e. those not in the groupby clause, these "
+"are the forms that appear in your function)"
+msgstr ""
+"集計したいフィールドがフォーム関係性上にあるフォームのカンマで区切られたリス"
+"ト。(すなわち文節グループではなく、関数で表示されるフォーム)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html#L43'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_edit.html</a>
+#, no-c-format
+msgid ""
+"The forms which are selectable for this field. Only applies if the form "
+"field is a subclass of I2CE_FormField_MAPPED. In which case it should be a "
+"comma separated list of forms. If not set, it defaults to the name of this "
+"function."
+msgstr ""
+"このフィールドに選択可能なフォーム。フォーム フィールドが "
+"I2CE_FormField_MAPPED のサブクラスの場合のみ適用されます。その場合、コンマ区"
+"切りの一覧にする必要があります。設定が無い場合、関数の名前がデフォルトとして"
+"設定されます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L29'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid ""
+"The forms which are selectable for this field. Only applies if the form "
+"field is a subclass of I2CE_FormField_MAPPED. In which case it should be a "
+"comma separated list of forms."
+msgstr ""
+"このフィールドに選択可能なフォーム。フォーム フィールドが "
+"I2CE_FormField_MAPPED のサブクラスの場合のみ適用されます。その場合、コンマ区"
+"切りの一覧にする必要があります。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_edit.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_view.html#L3'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_view.html</a>
+#, no-c-format
+msgid "Display Style For Form"
+msgstr "フォームの表示スタイル"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_edit.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_view.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_displaystyle_view.html</a>
+#, no-c-format
+msgid "Affects how a form can be linked"
+msgstr "フォームへのリンクに影響を与えます。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html#L40'>modules/Forms/modules/FormRelationship/templates/en_US/swiss_sqlfunction_view.html</a>
+#, no-c-format
+msgid ""
+"The fields that are linked when listing options. Only applies if the form "
+"field is a subclass of I2CE_FormField_MAPPED. It should be a colon separated "
+"list of 'forms' or 'form+linkfield's. Example: \"county:district+region:"
+"[region]:country\"."
+msgstr ""
+"オプションリストにリンクされているフィールド。フォーム フィールドが "
+"I2CE_FormField_MAPPED のサブクラスの場合のみ適用されます。'フォーム' また"
+"は'フォーム + リンクフィールド'はコロンで区切られた一覧である必要があります。"
+"例:\"郡: 地区 + 地域: [地域]: 国\"。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L5'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "JOIN"
+msgstr "結合"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "RIGHT JOIN"
+msgstr "外部結合（RIGHT JOIN）"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html#L10'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_join_drop_empty_edit.html</a>
+#, no-c-format
+msgid "LIMIT TO ONE JOINED"
+msgstr "単結合に制限します。"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_menu_form.html#L4'>modules/Forms/modules/FormRelationship/templates/en_US/formRelationship_menu_form.html</a>
+#, no-c-format
+msgid "The %s form"
+msgstr "%s フォーム"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/auto_view_relationship_form.html#L6'>modules/Forms/modules/FormRelationship/templates/en_US/auto_view_relationship_form.html</a>
+#, no-c-format
+msgid "Hide"
+msgstr "非表示"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/FormRelationship/templates/en_US/auto_view_relationship_form.html#L11'>modules/Forms/modules/FormRelationship/templates/en_US/auto_view_relationship_form.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "この情報を編集"

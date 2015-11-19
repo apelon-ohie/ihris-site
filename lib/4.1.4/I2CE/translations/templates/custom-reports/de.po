@@ -1,0 +1,1149 @@
+# Translation of iHRIS I2CE - Custom Reports to German (Deutsch)
+# Exported from translatewiki.net
+#
+# Author: Giftpflanze
+# Author: Kghbln
+# Author: Metalhead64
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Custom Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 21:04+0200\n"
+"PO-Revision-Date: 2014-01-06 11:12:58+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: German <https://translatewiki.net/wiki/Portal:de>\n"
+"Language: de\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:18+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: de\n"
+"X-Message-Group: #out-ihris-i2ce-cre\n"
+"X-POT-Import-Date: 2013-10-07 17:22:44+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_views_each_edit.html#L7'>modules/CustomReports/templates/en_US/customReports_reportViews_views_each_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_category_report.html#L6'>modules/CustomReports/templates/en_US/customReports_reports_category_report.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_existing_reportview.html#L11'>modules/CustomReports/templates/en_US/customReports_reportViews_existing_reportview.html</a>
+#, no-c-format
+msgid "Edit"
+msgstr "Bearbeiten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L9'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Enabled"
+msgstr "Aktiviert"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L13'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "with values in"
+msgstr "mit Werten in"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_function.html#L9'>modules/CustomReports/templates/en_US/customReports_report_function.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L16'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_internal.html#L9'>modules/CustomReports/templates/en_US/customReports_report_internal.html</a>
+#, no-c-format
+msgid "Limit Options"
+msgstr "Einschränkungsoptionen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L18'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Link Options"
+msgstr "Optionen verlinken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_function.html#L14'>modules/CustomReports/templates/en_US/customReports_report_function.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L28'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_internal.html#L14'>modules/CustomReports/templates/en_US/customReports_report_internal.html</a>
+#, no-c-format
+msgid "Header"
+msgstr "Kopfzeile"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_function.html#L14'>modules/CustomReports/templates/en_US/customReports_report_function.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L28'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_internal.html#L14'>modules/CustomReports/templates/en_US/customReports_report_internal.html</a>
+#, no-c-format
+msgid "The header text which is displayed for this field"
+msgstr "Der Text der Kopfzeile, die für dieses Feld angezeigt wird"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L33'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Link url"
+msgstr "URL des Links"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L33'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "The (base) url for the link"
+msgstr "Die (Basis-)URL des Links"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L37'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Link field"
+msgstr "Feld für den Link"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L37'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "The data, if any, we append to the link."
+msgstr "Die Daten, sofern vorhanden, die an den Link angefügt werden."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L40'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L17'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L17'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "None"
+msgstr "Keine"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L2'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#, no-c-format
+msgid "Reports By Category"
+msgstr "Berichte nach Kategorie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L15'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#, no-c-format
+msgid "Create a new view for a report"
+msgstr "Eine neue Ansicht für einen Bericht erstellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L19'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#, no-c-format
+msgid "Name of View"
+msgstr "Name der Ansicht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L40'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L26'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L23'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L21'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "Description"
+msgstr "Beschreibung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L30'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#, no-c-format
+msgid "Report"
+msgstr "Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_edit.html#L32'>modules/CustomReports/templates/en_US/customReports_reportViews_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field_module_limit.html#L8'>modules/CustomReports/templates/en_US/customReports_report_form_field_module_limit.html</a>
+#, no-c-format
+msgid "Select One"
+msgstr "Einen auswählen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L2'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#, no-c-format
+msgid "Custom Reporting Tools"
+msgstr "Selbstdefinierte Berichtswerkzeuge"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L4'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_nav_menu.html#L3'>modules/CustomReports/templates/en_US/customReports_nav_menu.html</a>
+#, no-c-format
+msgid "Report Relationships"
+msgstr "Berichtsbeziehungen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L9'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_view.html#L2'>modules/CustomReports/templates/en_US/customReports_reportViews_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_nav_menu.html#L6'>modules/CustomReports/templates/en_US/customReports_nav_menu.html</a>
+#, no-c-format
+msgid "Reports"
+msgstr "Berichte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L14'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_nav_menu.html#L9'>modules/CustomReports/templates/en_US/customReports_nav_menu.html</a>
+#, no-c-format
+msgid "Report Views"
+msgstr "Berichtsansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form.html#L8'>modules/CustomReports/templates/en_US/customReports_report_form.html</a>
+#, no-c-format
+msgid "Required"
+msgstr "Erforderlich"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L72'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form.html#L11'>modules/CustomReports/templates/en_US/customReports_report_form.html</a>
+#, no-c-format
+msgid "Reported Fields"
+msgstr "Gemeldete Felder"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_Default_base.html#L26'>modules/CustomReports/templates/en_US/customReports_display_Default_base.html</a>
+#, no-c-format
+msgid "Choose options to limit results"
+msgstr "Optionen zum Einschränken der Ergebnisse auswählen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_Default_base.html#L28'>modules/CustomReports/templates/en_US/customReports_display_Default_base.html</a>
+#, no-c-format
+msgid "Save as default view"
+msgstr "Als Standardansicht speichern"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L62'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_Default_base.html#L42'>modules/CustomReports/templates/en_US/customReports_display_Default_base.html</a>
+#, no-c-format
+msgid "Related Views"
+msgstr "Ähnliche Ansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_module_limits.html#L6'>modules/CustomReports/templates/en_US/customReports_report_module_limits.html</a>
+#, no-c-format
+msgid "Field"
+msgstr "Feld"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L16'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L16'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Choose a method to collect (aggregate) this data"
+msgstr "Eine Methode zum Sammeln (Aggregieren) dieser Daten auswählen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L108'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L18'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Sum"
+msgstr "Summe"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L111'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L19'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Maximum"
+msgstr "Maximum"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L114'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L20'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Minimum"
+msgstr "Minimum"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L117'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L21'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Average"
+msgstr "Durchschnitt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L18'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L22'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Total Number"
+msgstr "Gesamtzahl"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L123'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L19'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L23'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Total Distinct"
+msgstr "Gesamtunterschied"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_no_new.html#L3'>modules/CustomReports/templates/en_US/customReports_reports_no_new.html</a>
+#, no-c-format
+msgid "Before you can create (or edit) a report, you must"
+msgstr ""
+"Bevor Du einen Bericht erstellst (oder bearbeitest), musst Du eine "
+"Berichtsbeziehung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_no_new.html#L3'>modules/CustomReports/templates/en_US/customReports_reports_no_new.html</a>
+#, no-c-format
+msgid "create"
+msgstr "erstellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_table.html#L5'>modules/CustomReports/templates/en_US/customReports_table.html</a>
+#, no-c-format
+msgid "Jump to"
+msgstr "Springe zu"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_table.html#L18'>modules/CustomReports/templates/en_US/customReports_table.html</a>
+#, no-c-format
+msgid "Sorting by"
+msgstr "Sortierung nach"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_view.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Report View"
+msgstr "Berichtsansicht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_view.html#L3'>modules/CustomReports/templates/en_US/customReports_reportView_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L3'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "View"
+msgstr "Ansicht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L13'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Reported View Information"
+msgstr "Informationen zu Berichtsansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L17'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Display Name"
+msgstr "Anzeigename"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L19'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "A short descriptive name of this report"
+msgstr "Ein kurzer aussagekräftiger Name für diesen Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L28'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "A longer description of this report"
+msgstr "Eine längere Beschreibung dieses Berichts"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L56'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Include Total"
+msgstr "Summe aufnehmen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L58'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Include a total number of rows for this view."
+msgstr "Die Gesamtzahl der Zeilen dieses Berichts mit aufnehmen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_fields.html#L2'>modules/CustomReports/templates/en_US/customReports_report_form_fields.html</a>
+#, no-c-format
+msgid "Available fields"
+msgstr "Verfügbare Felder"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_fields.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_fields.html</a>
+#, no-c-format
+msgid "Fields Displayed in Report"
+msgstr "Die im Bericht angezeigten Felder"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L24'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L5'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "Display name"
+msgstr "Anzeigename"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L25'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L6'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "A name for the report which is displayed to the end user"
+msgstr "Ein dem Endanwender anzuzeigender Name für den Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L32'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L13'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "Category"
+msgstr "Kategorie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L14'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "A category for this report"
+msgstr "Eine Kategorie für diesen Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_meta.html#L22'>modules/CustomReports/templates/en_US/customReports_report_meta.html</a>
+#, no-c-format
+msgid "A description of the report"
+msgstr "Eine Beschreibung dieses Berichts"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_limits.html#L5'>modules/CustomReports/templates/en_US/customReports_report_limits.html</a>
+#, no-c-format
+msgid "Limit Style"
+msgstr "Einschränkungsart"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_limits.html#L5'>modules/CustomReports/templates/en_US/customReports_report_limits.html</a>
+#, no-c-format
+msgid "The type of the limit"
+msgstr "Die Art der Einschränkung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_limits.html#L6'>modules/CustomReports/templates/en_US/customReports_report_limits.html</a>
+#, no-c-format
+msgid "Limit Header"
+msgstr "Kopfzeile einschränken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_limits.html#L6'>modules/CustomReports/templates/en_US/customReports_report_limits.html</a>
+#, no-c-format
+msgid "The description of this limit when shown in the report view"
+msgstr ""
+"Die Beschreibung dieser Einschränkung, die in der Berichtsansicht angezeigt "
+"wird"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customreports_options.html#L4'>modules/CustomReports/templates/en_US/customreports_options.html</a>
+#, no-c-format
+msgid "Editing Language"
+msgstr "Bearbeitungssprache"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L2'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "Create a new report"
+msgstr "Einen neuen Bericht erstellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L6'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "Shortname"
+msgstr "Kurzname"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L7'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "A unique short name used to reference this report."
+msgstr "Ein kurzer eindeutiger Name zum Verweisen auf diese Bericht."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L14'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "Report relationship"
+msgstr "Berichtsbeziehung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L33'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "The catgegory for this report"
+msgstr "Die Kategorie für diesen Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L41'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "A description of this report"
+msgstr "Eine Beschreibung dieses Berichts"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_forms.html#L2'>modules/CustomReports/templates/en_US/customReports_report_forms.html</a>
+#, no-c-format
+msgid "Report Details"
+msgstr "Berichtsdetails"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_forms.html#L5'>modules/CustomReports/templates/en_US/customReports_report_forms.html</a>
+#, no-c-format
+msgid "Choose and specify fields you wish added to your report."
+msgstr "Wähle die Felder aus, die deinem Bericht hinzugefügt werden sollen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_views_view.html#L7'>modules/CustomReports/templates/en_US/customReports_reportViews_views_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_views_edit.html#L7'>modules/CustomReports/templates/en_US/customReports_reportViews_views_edit.html</a>
+#, no-c-format
+msgid "Existing Report Views"
+msgstr "Bestehende Berichtsansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_views_view.html#L15'>modules/CustomReports/templates/en_US/customReports_reportViews_views_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportViews_views_edit.html#L15'>modules/CustomReports/templates/en_US/customReports_reportViews_views_edit.html</a>
+#, no-c-format
+msgid "Add a new view"
+msgstr "Eine neue Ansicht hinzufügen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_categories.html#L2'>modules/CustomReports/templates/en_US/customReports_reports_categories.html</a>
+#, no-c-format
+msgid "Edit existing reports"
+msgstr "Bestehende Berichte bearbeiten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_category_report.html#L7'>modules/CustomReports/templates/en_US/customReports_reports_category_report.html</a>
+#, no-c-format
+msgid "Generate"
+msgstr "Generieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_category_report.html#L9'>modules/CustomReports/templates/en_US/customReports_reports_category_report.html</a>
+#, no-c-format
+msgid "Generate (Forced)"
+msgstr "Generieren (erzwungen)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L2'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "The"
+msgstr "Der"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L2'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "report"
+msgstr "Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L3'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "This report is based on the report relationship"
+msgstr "Dieser Bericht basiert auf der Berichtsbeziehung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L5'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "Report Information"
+msgstr "Berichtsinformationen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L9'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "Reported Forms"
+msgstr "Berichtete Datenblätter"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L13'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "Reported Functions"
+msgstr "Berichtete Funktionen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L132'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows deletion of data about custom reports"
+msgstr "Ermöglicht das Löschen von Daten über selbstdefinierte Berichte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L135'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows access to the Custom Report Relationships"
+msgstr "Ermöglicht den Zugriff auf die selbstdefinierten Berichtsbeziehungen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L141'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows access to the Custom Reports"
+msgstr "Ermöglicht den Zugriff auf die selbstdefinierten Berichte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L147'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows view of the Custom Report Views"
+msgstr "Ermöglicht die Ansicht der selbstdefinierten Berichtsansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L150'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows editing of the Custom Report Views"
+msgstr "Ermöglicht die Bearbeitung der selbstdefinierten Berichtsansichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L153'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid ""
+"Administator for custom reports. Can perform all tasks associated with "
+"custom reports"
+msgstr ""
+"Administrator für selbstdefinierte Berichte. Kann alle Aufgaben durchführen, "
+"die mit selbstdefinierten Berichten zusammenhängen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L170'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Create Reports"
+msgstr "Berichte erstellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_table.html#L3'>modules/CustomReports/templates/en_US/customReports_table.html</a>
+#, no-c-format
+msgid "Results found"
+msgstr "Gefundene Ergebnisse"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L138'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows editing of the Custom Report Relationships"
+msgstr "Ermöglicht die Bearbeitung der selbstdefinierten Berichtsbeziehungen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L80'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_displays.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_displays.html</a>
+#, no-c-format
+msgid "Edit Display Options"
+msgstr "Bearbeite Darstellungsoptionen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L6'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Clear Default Display"
+msgstr "Lösche Standardansicht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L11'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Increasing"
+msgstr "Aufsteigend"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L14'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Decreasing"
+msgstr "Absteigend"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L18'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "You need to specify a report to view"
+msgstr "Du musst einen Bericht zur Ansicht auswählen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L21'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "You specified an invalid report to view"
+msgstr "Du hast einen ungültigen Bericht zur Ansicht ausgewählt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L24'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "You do not have permission to view this report"
+msgstr "Du hast nicht die Berechtigung, diesen Bericht anzusehen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L27'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Could not find any valid displays for this report view"
+msgstr "Konnte keine gültigen Darstellungen für diese Berichtsansicht finden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L33'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L43'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "%s linked on %s"
+msgstr "%s verlinkt auf %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L37'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "%s linked on %s as a parent form"
+msgstr "%s verlinkt als übergeordnetes Datenblatt auf %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L40'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "%s linked on %s as a child form"
+msgstr "%s verlinkt als untergeordnetes Datenblatt auf %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L47'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "No shortname specified for the report"
+msgstr "Es wurde kein Kurzname für diesen Bericht festgelegt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L50'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Invalid shortname specified for the report"
+msgstr "Es wurde ein ungültiger Kurzname für diesen Bericht festgelegt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L53'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Shortname specified for the report is already in use"
+msgstr "Der für diesen Bericht festgelegte Kurzname wird bereits verwendet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L56'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "No report relationship specified for the report"
+msgstr "Es wurde keine Berichtsbeziehung für diesen Bericht festgelegt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L59'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Specified report relationship is invalid"
+msgstr "Die festgelegte Berichtsbeziehung ist ungültig"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L62'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "You don't have access to delete report data"
+msgstr ""
+"Du hast nicht die erforderliche Berechtigung, Berichtsdaten löschen zu "
+"können."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L65'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Invalid path for deletion"
+msgstr "Ungültiger Löschpfad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L68'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Unable to setup cached form"
+msgstr "Das gecachte Datenblatt kann nicht eingerichtet werden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L71'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Could not save display options"
+msgstr "Die Darstellungsoptionen konnten nicht gespeichert werden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L74'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Saved display options"
+msgstr "Die Darstellungsoptionen wurden gespeichert"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L77'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Unable to generate report"
+msgstr "Der Bericht konnte nicht generiert werden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L88'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Does Not Exist"
+msgstr "Nicht vorhanden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L94'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Stale"
+msgstr "Veraltet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L97'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Failed"
+msgstr "Gescheitert"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L103'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Generated"
+msgstr "Generiert"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L120'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Total"
+msgstr "Gesamt"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L160'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L178'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L185'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "View Reports"
+msgstr "Berichte ansehen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L17'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Merge Options"
+msgstr "Optionen zusammenführen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L7'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#, no-c-format
+msgid ""
+"Define relationships between the various forms in the system for creating "
+"reports. For advanced users."
+msgstr ""
+"Beziehungen zwischen verschiedenen Datenblättern des Systems für das "
+"Erstellen von Berichten definieren. Für fortgeschrittene Benutzer."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L12'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#, no-c-format
+msgid ""
+"Create and save reports by selecting the data to view from defined report "
+"relationships."
+msgstr ""
+"Erstelle und speichere Berichte, indem Du die darzustellenden Daten aus "
+"definierten Berichtsbeziehungen auswählst."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_menu.html#L17'>modules/CustomReports/templates/en_US/customReports_menu.html</a>
+#, no-c-format
+msgid ""
+"View saved reports and create new views that define how to display the data "
+"in a report."
+msgstr ""
+"Gespeicherter Berichten einsehen und neuen Ansichten erstellen, die die "
+"Datenansicht in einem Bericht definieren."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_merge_edit.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_merge_edit.html</a>
+#, no-c-format
+msgid "Merged Report View"
+msgstr "Zusammengeführte Berichtsansicht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field_limit.html#L12'>modules/CustomReports/templates/en_US/customReports_report_form_field_limit.html</a>
+#, no-c-format
+msgid "Enable Pivoting On This Limit"
+msgstr "Umstellungen für diese Einschränkung aktivieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form.html#L10'>modules/CustomReports/templates/en_US/customReports_report_form.html</a>
+#, no-c-format
+msgid ""
+"Require that the data for this form be found. Otherwise remove the row from "
+"the report."
+msgstr ""
+"Erfordernis festlegen, dass die Daten für dieses Datenblatt gefunden werden "
+"können. Ansonsten die Zeile aus dem Bericht entfernen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L13'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L13'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Enabled: Check to enable this field in the report view"
+msgstr ""
+"Aktiviert: Auswählen, um dieses Feld in der Berichtsansicht zu aktivieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L32'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L36'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Merge Another Report"
+msgstr "Einen weiteren Bericht zusammenführen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_merge_edit.html#L2'>modules/CustomReports/templates/en_US/customReports_report_merge_edit.html</a>
+#, no-c-format
+msgid "Mergable Report"
+msgstr "Zusammenführbarer Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_merge_edit.html#L6'>modules/CustomReports/templates/en_US/customReports_report_merge_edit.html</a>
+#, no-c-format
+msgid "Enable Merging"
+msgstr "Zusammenführen aktivieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_no_new.html#L4'>modules/CustomReports/templates/en_US/customReports_reports_no_new.html</a>
+#, no-c-format
+msgid ""
+"a report relationship which describe how the data you are interested in is "
+"related to one another"
+msgstr ""
+", die beschreibt, wie die Daten, an denen Du interessiert bist, miteinander "
+"verbunden sind."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L8'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid ""
+"Select the fields and any aggregate data you want in this report view. You "
+"may drag and drop fields to change their displayed order"
+msgstr ""
+"Felder und jegliche Datenzusammenfassungen auswählen, die in dieser "
+"Berichtsansicht angezeigt werden sollen. Du kannst Felder verschieben, um "
+"ihre Anzeigereihenfolge zu ändern."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_internals_has.html#L5'>modules/CustomReports/templates/en_US/customReports_report_internals_has.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_functions_has.html#L5'>modules/CustomReports/templates/en_US/customReports_report_functions_has.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_fields.html#L5'>modules/CustomReports/templates/en_US/customReports_report_form_fields.html</a>
+#, no-c-format
+msgid ""
+"Here you may set the header information for the report for each field. You "
+"may also enable and disable setting report limits as well as add a "
+"description for that limit"
+msgstr ""
+"Hier können Sie die Kopfzeileninformationen für jedes Feld des Berichts "
+"festlegen. Sie können auch Berichtseinschränkungen aktivieren oder "
+"deaktivieren und eine Beschreibung für diese Einschränkung hinzufügen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_merges.html#L2'>modules/CustomReports/templates/en_US/customReports_report_merges.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_merges.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_merges.html</a>
+#, no-c-format
+msgid "Merged Reports"
+msgstr "Zusammengeführte Berichte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_notfound.html#L5'>modules/CustomReports/templates/en_US/customReports_notfound.html</a>
+#, no-c-format
+msgid ""
+"Error: No data was found that matched your request. You may need to cache "
+"the report or modify your limits."
+msgstr ""
+"Fehler: Es wurden keine Daten zu Ihrer Anfrage gefunden. Sie müssen "
+"eventuell den Bericht zwischenspeichern oder Ihre Einschränkungen anpassen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reports_new.html#L16'>modules/CustomReports/templates/en_US/customReports_reports_new.html</a>
+#, no-c-format
+msgid "The relationship that this report is to be based off of."
+msgstr "Die Beziehung, auf die dieser Bericht basieren soll."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_pivot_each.html#L2'>modules/CustomReports/templates/en_US/customReports_pivot_each.html</a>
+#, no-c-format
+msgid "Switch to %s"
+msgstr "Wechsle zu %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L30'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "%s from %s"
+msgstr "%s von %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L91'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Not Generated"
+msgstr "Nicht generiert"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_merge_edit.html#L10'>modules/CustomReports/templates/en_US/customReports_reportView_merge_edit.html</a>
+#, no-c-format
+msgid "Allow blank rows in %s"
+msgstr "Ermögliche leere Zeilen in %s"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L23'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L27'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "Select Additional Values To Match"
+msgstr "Zusätzliche Abgleichwerte auswählen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field.html#L24'>modules/CustomReports/templates/en_US/customReports_reportView_field.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html#L28'>modules/CustomReports/templates/en_US/customReports_reportView_field_numeric.html</a>
+#, no-c-format
+msgid "No Additional Values"
+msgstr "Keine zusätzlichen Werte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_functions_has.html#L2'>modules/CustomReports/templates/en_US/customReports_report_functions_has.html</a>
+#, no-c-format
+msgid "Available functions"
+msgstr "Verfügbare Funktionen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_functions_no.html#L4'>modules/CustomReports/templates/en_US/customReports_report_functions_no.html</a>
+#, no-c-format
+msgid "The relationship has no available functions"
+msgstr "Die Beziehung hat keine verfügbaren Funktionen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_limit_apply_Default.html#L4'>modules/CustomReports/templates/en_US/customReports_display_limit_apply_Default.html</a>
+#, no-c-format
+msgid "Apply Limits"
+msgstr "Einschränkungen anwenden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_Default_base.html#L9'>modules/CustomReports/templates/en_US/customReports_display_Default_base.html</a>
+#, no-c-format
+msgid "Results limited by"
+msgstr "Ergebnisse eingeschränkt durch"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L35'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Report View Permissions"
+msgstr "Berechtigungen zum Ansehen von Berichten"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L37'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Select a task to limit the viewing of this report to the selected task."
+msgstr ""
+"Eine Aufgabe auswählen, mit der die Anzeige dieses Berichts auf die gewählte "
+"Aufgabe beschränkt wird."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L40'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Do Not Limit Viewing Of This Report"
+msgstr "Die Anzeige dieses Berichts nicht einschränken"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_control_Default.html#L2'>modules/CustomReports/templates/en_US/customReports_display_control_Default.html</a>
+#, no-c-format
+msgid "Table"
+msgstr "Tabelle"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_limit_apply_Default.html#L4'>modules/CustomReports/templates/en_US/customReports_display_limit_apply_Default.html</a>
+#, no-c-format
+msgid "Apply the limits to the table."
+msgstr "Diese Einschränkungen auf die Tabelle anwenden."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_display_control_Default.html#L2'>modules/CustomReports/templates/en_US/customReports_display_control_Default.html</a>
+#, no-c-format
+msgid "View this report as a table"
+msgstr "Diesen Bericht als Tabelle ansehen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L20'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Module Limits"
+msgstr "Einschränkungen für das Modul"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L45'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Link Type"
+msgstr "Verweisart"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L45'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "The type of the link."
+msgstr "Die Art des Verweises."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_form_field.html#L48'>modules/CustomReports/templates/en_US/customReports_report_form_field.html</a>
+#, no-c-format
+msgid "Link (a href)"
+msgstr "Verweis (a href)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_module_limits.html#L5'>modules/CustomReports/templates/en_US/customReports_report_module_limits.html</a>
+#, no-c-format
+msgid "Module"
+msgstr "Modul"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_module_limits.html#L5'>modules/CustomReports/templates/en_US/customReports_report_module_limits.html</a>
+#, no-c-format
+msgid "The module with the limit"
+msgstr "Das Modul mit der Einschränkung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_module_limits.html#L6'>modules/CustomReports/templates/en_US/customReports_report_module_limits.html</a>
+#, no-c-format
+msgid "The field that the module links to for this field"
+msgstr "Das Feld, auf das das Modul für dieses Feld verlinkt."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L100'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "In Progress"
+msgstr "In Bearbeitung"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_notfound_create.html#L2'>modules/CustomReports/templates/en_US/customReports_notfound_create.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_notfound_create.html#L4'>modules/CustomReports/templates/en_US/customReports_notfound_create.html</a>
+#, no-c-format
+msgid "Create"
+msgstr "Erstellen"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_notfound_create.html#L3'>modules/CustomReports/templates/en_US/customReports_notfound_create.html</a>
+#, no-c-format
+msgid "Create a %s with this data."
+msgstr "Ein %s mit diesen Daten erstellen."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report.html#L17'>modules/CustomReports/templates/en_US/customReports_report.html</a>
+#, no-c-format
+msgid "Reporting Internals"
+msgstr "Berichtsinternas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L48'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Disable"
+msgstr "Deaktivieren"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L50'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "Disable this report from non-administrative users."
+msgstr "Diesen Bericht für Nicht-Administratoren deaktivieren."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_report_internals_has.html#L2'>modules/CustomReports/templates/en_US/customReports_report_internals_has.html</a>
+#, no-c-format
+msgid "Available Internals"
+msgstr "Verfügbare Internas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L129'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows minimal access to the Custom Reporting System"
+msgstr "Ermöglicht minimalen Zugriff auf das benutzerdefinierte Berichtssystem"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_edit.html#L4'>modules/CustomReports/templates/en_US/customReports_reportView_edit.html</a>
+#, no-c-format
+msgid "This report view is based on the report"
+msgstr "Diese Berichtansicht basiert auf den Bericht"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L192'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_nodisplay.html#L2'>modules/CustomReports/templates/en_US/customReports_reportView_nodisplay.html</a>
+#, no-c-format
+msgid "No Valid Display"
+msgstr "Keine gültige Anzeige"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/templates/en_US/customReports_reportView_nodisplay.html#L6'>modules/CustomReports/templates/en_US/customReports_reportView_nodisplay.html</a>
+#, no-c-format
+msgid ""
+"An error occured trying to display this report. This is most likely because "
+"the report has not been generated or there was a problem generating the "
+"report."
+msgstr ""
+"Beim Versuch, den Bericht anzuzeigen, ist ein Fehler aufgetreten. Dies kann "
+"vorkommen, wenn der Bericht nicht erstellt wurde oder es ein Problem bei der "
+"Erstellung gab."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L80'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Unable to Update Values"
+msgstr "Werte konnten nicht aktualisiert werden"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L83'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Updated Values"
+msgstr "Aktualisierte Werte"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/CustomReports/configs/en_US/CustomReports.xml#L144'>modules/CustomReports/configs/en_US/CustomReports.xml</a>
+#, no-c-format
+msgid "Allows editing of the Custom Report"
+msgstr "Ermöglicht das Bearbeiten von benutzerdefinierten Berichten"

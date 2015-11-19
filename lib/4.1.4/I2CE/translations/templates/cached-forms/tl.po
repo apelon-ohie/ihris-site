@@ -1,0 +1,204 @@
+# Translation of iHRIS I2CE - Cached Forms to Tagalog (Tagalog)
+# Exported from translatewiki.net
+#
+# Author: AnakngAraw
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Cached Forms\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:12:48+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Tagalog <https://translatewiki.net/wiki/Portal:tl>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: tl\n"
+"X-Message-Group: #out-ihris-i2ce-cfo\n"
+"X-POT-Import-Date: 2013-10-07 17:22:35+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml#L11'>modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml</a>
+#, no-c-format
+msgid "Allows administering of cached forms"
+msgstr "Nagpapahintulot ng pangangasiwa ng mga pormularyong nakatago"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L4'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Last Generated"
+msgstr "Huling Nilikha"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L7'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Create/Update Cache"
+msgstr "Likhain/Isapanahon ang Taguan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L7'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Force Cache Generation"
+msgstr "Pilitin ang Paglikha ng Taguan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html#L9'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_each.html</a>
+#, no-c-format
+msgid "Drop Cached Table"
+msgstr "Ibagsak ang Talaang Nakatago"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L20'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "of all forms if not stale"
+msgstr "ng lahat ng mga pormularyo kung hindi bilasa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L21'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Drop"
+msgstr "Ibagsak"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L22'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "caches of all forms"
+msgstr "mga taguan ng lahat ng mga pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml#L18'>modules/Forms/modules/CachedForms/configs/en_US/CachedForms.xml</a>
+#, no-c-format
+msgid "Cached Forms"
+msgstr "Nakatagong mga Pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L5'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache Forms"
+msgstr "Itago ang mga Pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L17'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache"
+msgstr "Taguan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L18'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "all forms"
+msgstr "lahat ng mga pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L19'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Force Caching"
+msgstr "Sapiling Pagtatago"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L26'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Export Cached Forms"
+msgstr "Iluwas ang Itinagong mga Pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L33'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Modification Date"
+msgstr "Petsa ng Pagbago"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L36'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Enable bzip2 Compression"
+msgstr "Paganahin ang Pagsisiksik na bzip2"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L43'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create/Edit Profile"
+msgstr "Likhain/Baguhin ang Balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L45'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create a profile or edit an existing profile of forms."
+msgstr ""
+"Lumikha ng isang balangkas o baguhin ang umiiral na balangkas ng mga "
+"pormularyo."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L46'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Create A New Profile"
+msgstr "Lumikha ng Isang Bagong Balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L52'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Manage Caching of Individual Forms"
+msgstr "Pamahalaan ang Pagtatago ng Bawat Isang mga Pormularyo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L2'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Define Profile"
+msgstr "Tukuyin ang Balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L4'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Define a profile of forms to export"
+msgstr "Tukuyin ang isang balangkas ng mga pormularyong iluluwas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L5'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Profile Name"
+msgstr "Pangalan ng Balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html#L6'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu_exportProfile.html</a>
+#, no-c-format
+msgid "Select Forms in Profile"
+msgstr "Piliin ang mga Pormularyo sa loob ng Balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L9'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L31'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L46'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Select a profile"
+msgstr "Pumili ng isang balangkas"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L8'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid "Cache all forms in the selected profile."
+msgstr "Itago ang lahat ng mga pormularyo sa loob ng napiling balangkas."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html#L30'>modules/Forms/modules/CachedForms/templates/en_US/cachedforms_menu.html</a>
+#, no-c-format
+msgid ""
+"Export all cached forms in the selected profile. If you select a "
+"modification date, then only records that have been modified on or after the "
+"specified date will be exported. Otherwise, all records that have been "
+"modified for the selected profile will be exported."
+msgstr ""
+"Iluwas ang lahat ng mga pormularyong nakatago na nasa loob ng napiling "
+"balangkas.  Kapag pumili ka ng isang petsa ng pagbabago, kung gayon ang mga "
+"rekord lamang na nabago noon o pagkalipas ng tinukoy na petsa ang iluluwas.  "
+"Kung hindi, iluluwas ang lahat ng mga rekord na nabago para sa napiling "
+"balangkas."

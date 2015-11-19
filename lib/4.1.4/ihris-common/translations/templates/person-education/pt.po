@@ -1,0 +1,170 @@
+# Translation of iHRIS Common - Person Education to Portuguese (português)
+# Exported from translatewiki.net
+#
+# Author: Luckas
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Person Education\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-30 15:09-0700\n"
+"PO-Revision-Date: 2014-01-06 11:08:36+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Portuguese <https://translatewiki.net/wiki/Portal:pt>\n"
+"Language: pt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:15+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: pt\n"
+"X-Message-Group: #out-ihris-common-ped\n"
+"X-POT-Import-Date: 2013-10-07 17:20:23+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_degree.html#L4'>modules/Person/modules/Education/templates/en_US/view_list_degree.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_edu_type.html#L4'>modules/Person/modules/Education/templates/en_US/view_list_edu_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_education.html#L3'>modules/Person/modules/Education/templates/en_US/view_education.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Editar Esta Informação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_degree.html#L6'>modules/Person/modules/Education/templates/en_US/view_list_degree.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_edu_type.html#L6'>modules/Person/modules/Education/templates/en_US/view_list_edu_type.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_education.html#L5'>modules/Person/modules/Education/templates/en_US/view_education.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Actualizar esta Informação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_edu_type.html#L7'>modules/Person/modules/Education/templates/en_US/view_list_edu_type.html</a>
+#, no-c-format
+msgid "Select another Education Type"
+msgstr "Seleccionar outro Tipo de Educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L47'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L66'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_edu_type.html#L14'>modules/Person/modules/Education/templates/en_US/view_list_edu_type.html</a>
+#, no-c-format
+msgid "Education Type"
+msgstr "Tipode de Educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_education.html#L12'>modules/Person/modules/Education/templates/en_US/view_education.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/form_education.html#L3'>modules/Person/modules/Education/templates/en_US/form_education.html</a>
+#, no-c-format
+msgid "Institution Information"
+msgstr "Informação sobre a Instituição"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/form_education.html#L4'>modules/Person/modules/Education/templates/en_US/form_education.html</a>
+#, no-c-format
+msgid "Degree Information"
+msgstr "Informação sobre o Grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_degree.html#L7'>modules/Person/modules/Education/templates/en_US/view_list_degree.html</a>
+#, no-c-format
+msgid "Select another Degree"
+msgstr "Selecionar outro grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L42'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L76'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/templates/en_US/view_list_degree.html#L14'>modules/Person/modules/Education/templates/en_US/view_list_degree.html</a>
+#, no-c-format
+msgid "Degree"
+msgstr "Grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L11'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can view education child form of a person"
+msgstr "Pode visualizar os child forms de educação de uma pessoa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L14'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can edit education child forms of a person"
+msgstr "Pode editar os child forms de educação de uma pessoa"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L17'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can edit education type database lists"
+msgstr "Pode editar as listas de dados de base sobre o tipo de educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L20'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can view education type database lists"
+msgstr "Pode visualizar as listas de dados de base sobre o tipo de educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L23'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can edit degree type database lists"
+msgstr "Pode editar as listas de dados de base sobre o grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L26'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Can view degree type database lists"
+msgstr "Pode visualizar as listas de dados de base sobre o grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L33'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Add/Update Education History"
+msgstr "Adicionar/Actualizar Histórico da Educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L52'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Education History"
+msgstr "Histórico Educação"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L61'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Name"
+msgstr "Nome"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L67'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Select Education Type then Degree"
+msgstr "Seleccionar Tipo de Educação e o Grau"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L81'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Institution Name"
+msgstr "Nome da Instituição"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L86'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Institution Location"
+msgstr "Localização da Instituição"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L91'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Year of Graduation (leave blank if In Progress)"
+msgstr "Ano de Graduação (deixar em branco se estiver em curso)"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/modules/Education/configs/en_US/Education.xml#L96'>modules/Person/modules/Education/configs/en_US/Education.xml</a>
+#, no-c-format
+msgid "Major"
+msgstr "Especialidade"

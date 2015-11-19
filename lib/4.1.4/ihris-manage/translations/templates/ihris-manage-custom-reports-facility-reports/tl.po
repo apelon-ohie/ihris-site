@@ -1,0 +1,154 @@
+# Translation of iHRIS Manage - Custom Reports - Facility Reports to Tagalog (Tagalog)
+# Exported from translatewiki.net
+#
+# Author: AnakngAraw
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports - Facility Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:18:10+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Tagalog <https://translatewiki.net/wiki/Portal:tl>\n"
+"Language: tl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: tl\n"
+"X-Message-Group: #out-ihris-manage-crfr\n"
+"X-POT-Import-Date: 2013-10-07 17:25:35+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L12'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L49'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L148'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility List"
+msgstr "Tala ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L15'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility information"
+msgstr "Kabatiran sa Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L20'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "The facility type for this facility."
+msgstr "Ang uri ng pasilidad para sa pasilidad na ito."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L23'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L65'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L134'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Type"
+msgstr "Uri ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L28'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "The contact information for this facility."
+msgstr "Ang kabatirang pangpakikipag-ugnayan para sa pasilidad na ito."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L31'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Contact"
+msgstr "Pakikipag-ugnayang Pangpasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L36'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "The district where this facility is."
+msgstr "Ang distrito kung nasaan ang pasilidad na ito."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L39'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "District"
+msgstr "Distrito"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L52'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility information."
+msgstr "Kabatiran sa pasilidad."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L70'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Type ID"
+msgstr "ID ng Uri ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L77'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L82'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Location"
+msgstr "Lokasyon ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L87'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Location ID"
+msgstr "ID ng Lokasyon ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L92'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Name"
+msgstr "Pangalan ng Pasilidad"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L101'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Location"
+msgstr "Kinalalagyan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L110'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Mailing Address"
+msgstr "Tirahang Padalahan ng Liham"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L115'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Telephone Number"
+msgstr "Numero ng Telepono"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L120'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Email Address"
+msgstr "Tirahan ng e-liham"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L125'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Contact Notes"
+msgstr "Mga Talaan na Pangpakikipag-ugnayan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L145'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "A list of all facilities."
+msgstr "Isang listahan ng lahat ng mga pasilidad."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml#L55'>modules/ManageCustomReports/Reports/FacilityReports/configs/en_US/FacilityReports.xml</a>
+#, no-c-format
+msgid "Facility Report"
+msgstr "Ulat sa Pasilidad"

@@ -1,0 +1,265 @@
+# Translation of iHRIS Train - Site to Kurdish (Latin script) (Kurdî (latînî)‎)
+# Exported from translatewiki.net
+#
+# Author: Bikarhêner
+# Author: George Animal
+# --
+# Copyright (c) 2011-2014 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2014 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"POT-Creation-Date: 2014-01-13 13:40-0700\n"
+"PO-Revision-Date: 2015-09-10 08:35:31+0000\n"
+"Language: ku-Latn\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-POT-Import-Date: 2014-03-23 19:25:07+0000\n"
+"X-Generator: MediaWiki 1.26alpha; Translate 2015-08-28\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Train-BLANK.xml#L11'>sites/blank/configs/en_US/iHRIS-Train-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Train-BLANK.xml#L16'>sites/blank/configs/en_US/iHRIS-Train-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/configs/en_US/iHRIS-Train-BLANK.xml#L22'>sites/blank/configs/en_US/iHRIS-Train-BLANK.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L5'>sites/blank/templates/en_US/intro.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L7'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L31'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/report_print.html#L7'>sites/blank/templates/en_US/report_print.html</a>
+#, no-c-format
+msgid "iHRIS Train"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L3'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Welcome"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L7'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "is a free, Open Source software solution developed by"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L7'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid "Capacity"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L7'>sites/blank/templates/en_US/intro.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L5'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Plus"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/intro.html#L9'>sites/blank/templates/en_US/intro.html</a>
+#, no-c-format
+msgid ""
+"an innovative global initiative to help developing countries build and "
+"sustain the health workforce."
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L3'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid "Welcome, %s"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L10'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid ""
+"To get started using iHRIS Train, please click one of the options below. "
+"Return to this page at any time by clicking the Home button in the bar "
+"above. If you need help with any function, click the Help button. We "
+"encourage you to send us any errors you find, suggestions for improvements "
+"or additional features, and any other feedback you may have about this "
+"software; contact us at any time by clicking the Feedback button or visiting "
+"the"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/welcome.html#L11'>sites/blank/templates/en_US/welcome.html</a>
+#, no-c-format
+msgid "HRIS Strengthening Website"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L32'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "In-Service Training Management"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L37'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Home"
+msgstr "Mal"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L39'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Help"
+msgstr "Alîkarî"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L41'>sites/blank/templates/en_US/main.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L42'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Feedback"
+msgstr "Paşragihandin"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L43'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "iHRIS Website"
+msgstr "Malpera iHRIS"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L46'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Log out as %s"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L49'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "Log In"
+msgstr "Têkeve"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/main.html#L70'>sites/blank/templates/en_US/main.html</a>
+#, no-c-format
+msgid "iHRIS Train Version"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/report_print.html#L28'>sites/blank/templates/en_US/report_print.html</a>
+#, no-c-format
+msgid "Results for"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L5'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid ""
+"If you have a bug report, problem with the page, feature request or "
+"question, please contact us by filling out and submitting the following "
+"form. Your comments and email address will be kept private in accordance "
+"with Capacity"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L6'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "privacy policy"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L10'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid ""
+". We will use your email address only to reply to your request. You may also "
+"contact us by emailing us directly at"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L14'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Site Feedback Form"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L21'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Comments"
+msgstr "Şîrove"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L26'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Name"
+msgstr "Nav"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L31'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Company"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L36'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Title"
+msgstr "Sernav"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L41'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Industry"
+msgstr "Endustrî"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L45'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Address"
+msgstr "Navnîşan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L50'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "City"
+msgstr "Bajar"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L55'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "State/Province"
+msgstr ""
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L60'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Postal Code"
+msgstr "Koda Posteyê"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L65'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Country"
+msgstr "Welat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L70'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Telephone"
+msgstr "Telefon"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L75'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Fax"
+msgstr "Faks"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_form.html#L80'>sites/blank/templates/en_US/feedback_form.html</a>
+#, no-c-format
+msgid "Email"
+msgstr "E-name"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_thanks.html#L3'>sites/blank/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "Thank you for your feedback."
+msgstr "Ji bo paşragihandina te em spasdar in."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-train/4.0-dev/annotate/head%3A/sites/blank/templates/en_US/feedback_thanks.html#L6'>sites/blank/templates/en_US/feedback_thanks.html</a>
+#, no-c-format
+msgid "return"
+msgstr "vegere"

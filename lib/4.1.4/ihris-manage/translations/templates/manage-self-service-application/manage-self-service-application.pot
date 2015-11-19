@@ -1,0 +1,107 @@
+# Translation Template of ihris-manage module (ManageSelfServiceApplication Version 4.1.0)
+# Copyright (C) 2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: ihris-manage@ManageSelfServiceApplication 4.1.0\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"Last-Translator: Intrahealth <hris@capacityproject.org>\n"
+"Language-Team: Intrahealth <hris@capacityproject.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L14'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Add/Update Person"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L24'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L27'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L106'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Open Positions"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L35'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position List"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L38'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Details for all positions."
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L41'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position Reports"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L49'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Code"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L54'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Position Job"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L59'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L66'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Title"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L71'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L76'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L83'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Department ID"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L88'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Department"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L95'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "Posted Date"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml#L109'>modules/ManageSelfService/modules/SelfServiceApplication/configs/en_US/ManageSelfServiceApplication.xml</a>
+#, no-c-format
+msgid "The currently open positions"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L2'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "Apply for a Position"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L12'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "Personal Information"
+msgstr ""
+
+#: <a href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html#L19'>modules/ManageSelfService/modules/SelfServiceApplication/templates/en_US/form_self_service_apply.html</a>
+#, no-c-format
+msgid "User Details"
+msgstr ""
+

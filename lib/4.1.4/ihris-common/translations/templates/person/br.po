@@ -1,0 +1,257 @@
+# Translation of iHRIS Common - Person to Breton (brezhoneg)
+# Exported from translatewiki.net
+#
+# Author: Fohanno
+# Author: Gwenn-Ael
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Common - Person\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-18 13:51-0500\n"
+"PO-Revision-Date: 2014-01-06 11:07:36+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Breton <https://translatewiki.net/wiki/Portal:br>\n"
+"Language: br\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2013-12-13 05:14+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: br\n"
+"X-Message-Group: #out-ihris-common-person\n"
+"X-POT-Import-Date: 2013-10-07 17:19:52+0000\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L92'>modules/Person/configs/en_US/Person.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L2'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "View Person"
+msgstr "Gwelet un den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L2'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L5'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Individual Information"
+msgstr "Titouroù personel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L6'>modules/Person/templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L42'>modules/Person/templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L56'>modules/Person/templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L81'>modules/Person/templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L93'>modules/Person/templates/en_US/view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L105'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Hide"
+msgstr "Kuzhat"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L8'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Identification"
+msgstr "Ouzhpennañ an anaoudadur"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L14'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Edit This Information"
+msgstr "Cheñch an titour-mañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L16'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Update this Information"
+msgstr "Hizivaat an titour-mañ"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L25'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Name / Nationality"
+msgstr "Anv / Broadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L4'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L41'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Contact Information"
+msgstr "Daveennoù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L6'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L55'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Qualifications"
+msgstr "Perzhekadurioù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L58'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Language Proficiency"
+msgstr "Ouzhpennañ ur yezh komzet"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L61'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Competency"
+msgstr "Ouzhpennañ ur varregezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L62'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Competency Evaluations"
+msgstr "Priziañ ar barregezhioù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L8'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L80'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Employment History"
+msgstr "Chemet micherel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L82'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Employment"
+msgstr "Ouzhpennañ ar chemet micherel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L11'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L92'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Education History"
+msgstr "Diagentoù deskadurezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L94'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Education"
+msgstr "Ouzhpennañ an deskadurezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_person.html#L13'>modules/Person/templates/en_US/menu_view_person.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L104'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Notes"
+msgstr "Notennoù"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L106'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "Add Note"
+msgstr "Ouzhpennañ un notenn"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/menu_view_link.html#L2'>modules/Person/templates/en_US/menu_view_link.html</a>
+#, no-c-format
+msgid "View Record"
+msgstr "Diskwel un enrolladenn"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L85'>modules/Person/configs/en_US/Person.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/form_person.html#L2'>modules/Person/templates/en_US/form_person.html</a>
+#, no-c-format
+msgid "Add/Update Person"
+msgstr "Ouzhpennañ/Hizivaat un Den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/form_person.html#L10'>modules/Person/templates/en_US/form_person.html</a>
+#, no-c-format
+msgid "Personal Information"
+msgstr "Titouroù personel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L24'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Can view the person page"
+msgstr "A c'hall diskwel ar bajenn bersonel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L27'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Can edit the person page"
+msgstr "A c'hall kemmañ ar bajenn bersonel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L30'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Can view all of the child forms of a person"
+msgstr "A c'hall diskwel holl furmskridoù bugel an den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L33'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Can edit all of the child forms of a person"
+msgstr "A c'hall kemmañ holl furmskridoù un den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L40'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Person"
+msgstr "Den"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L44'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid ""
+"This form holds basic information about a person such as their names and "
+"residence"
+msgstr ""
+"Titouroù diazez war un den, evel e anv hag e annez, zo er furmskrid-mañ."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L54'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Surname"
+msgstr "Anv"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L59'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "First Name"
+msgstr "Anv-bihan"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L64'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Other Names"
+msgstr "Anvioù all"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L69'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Nationality"
+msgstr "Broadelezh"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L74'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Residence"
+msgstr "Lec'h annez"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L19'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "Duplicate records match this record's name"
+msgstr "Doublennoù enrollet a glot gant an an anv enrolladenn-se."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L11'>modules/Person/configs/en_US/Person.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/configs/en_US/Person.xml#L14'>modules/Person/configs/en_US/Person.xml</a>
+#, no-c-format
+msgid "This record has been saved."
+msgstr "Enrollet eo bet en teul-mañ."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-common/4.0-dev/annotate/head%3A/modules/Person/templates/en_US/view.html#L18'>modules/Person/templates/en_US/view.html</a>
+#, no-c-format
+msgid "View Name History"
+msgstr "Gwelet istor an anv"

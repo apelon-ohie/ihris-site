@@ -1,0 +1,259 @@
+# Translation of iHRIS Manage - Custom Reports - Position Reports to Dutch (Nederlands)
+# Exported from translatewiki.net
+#
+# Author: McDutchie
+# Author: Siebrand
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS Manage - Custom Reports - Position Reports\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-01-02 09:03-0500\n"
+"PO-Revision-Date: 2014-01-06 11:18:30+0000\n"
+"Last-Translator: Siebrand Mazeland <Unknown>\n"
+"Language-Team: Dutch <https://translatewiki.net/wiki/Portal:nl>\n"
+"Language: nl\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:21+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: nl\n"
+"X-Message-Group: #out-ihris-manage-crpr\n"
+"X-POT-Import-Date: 2013-10-07 17:25:47+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L16'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L181'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L204'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Cadre"
+msgstr "Kader"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L19'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The cadre associated with this job."
+msgstr "Het kader dat bij deze functie hoort."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L24'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L193'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L213'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Classification"
+msgstr "Classificatie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L27'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The classification associated with this job."
+msgstr "De classificatie die bij deze functie hoort."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L32'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L114'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Job"
+msgstr "Functie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L35'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The job associated with this position."
+msgstr "De met deze positie verband houdende functie."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L40'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L131'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L222'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Facility"
+msgstr "Instelling"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L43'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The facility where this position works."
+msgstr "De instelling waarin deze positie wordt bekleed."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L48'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L143'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L231'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Department"
+msgstr "Afdeling"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L51'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The department this position belongs to."
+msgstr "De afdeling waar deze positie bij hoort."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L56'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Last Position"
+msgstr "Vorige positie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L59'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The last person that filled this position."
+msgstr "De vorige persoon die deze positie heeft vervuld."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L64'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Current Position"
+msgstr "Huidige positie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L67'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The current person filling this position."
+msgstr "De persoon die deze positie op het moment vervult."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L74'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The number of days this positions was open before being filled."
+msgstr ""
+"Het aantal dagen dat deze positie vacant was voordat deze vervuld werd."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L79'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Positions"
+msgstr "Posities"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L82'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "All information related to a position."
+msgstr "Alle gegevens over een positie."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L90'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L267'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position List"
+msgstr "Positielijst"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L93'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Details for all positions."
+msgstr "Gegevens over alle posities."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L104'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Code"
+msgstr "Code"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L109'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Job"
+msgstr "Positie voor functie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L121'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Title"
+msgstr "Titel"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L126'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Facility ID"
+msgstr "Nummer instelling"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L138'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Department ID"
+msgstr "Nummer afdeling"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L150'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Posted Date"
+msgstr "Datum geplaatst"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L155'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L160'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Status"
+msgstr "Status"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L171'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Job Title"
+msgstr "Functiebenaming"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L176'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Cadre ID"
+msgstr "Nummer kader"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L188'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Classification ID"
+msgstr "Nummer classificatie"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L240'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Open Date"
+msgstr "Datum vacant"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L249'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Filled Date"
+msgstr "Datum vervuld"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L258'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Days Open"
+msgstr "Dagen vacant"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L270'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "A list of all positions."
+msgstr "Een lijst van alle posities."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L275'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Open Duration"
+msgstr "Duur vacature"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L278'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "The length in days each position was open before being filled."
+msgstr ""
+"Het aantal dagen dat deze positie vacant was voordat deze vervuld werd."
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/ihris-manage/4.0-dev/annotate/head%3A/modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml#L96'>modules/ManageCustomReports/Reports/PositionReports/configs/en_US/PositionReports.xml</a>
+#, no-c-format
+msgid "Position Reports"
+msgstr "Positierapportages"

@@ -1,0 +1,113 @@
+# Translation of iHRIS I2CE - Swiss Factory to Swahili (Kiswahili)
+# Exported from translatewiki.net
+#
+# --
+# Copyright (c) 2011-2013 <hris@capacityproject.org> Capacity Project partnership via IntraHealth International, Inc.
+# Copyright (c) 2011-2013 Rosetta Contributors and Canonical Ltd 2011-2013
+# Copyright (c) 2011-2013 translatewiki.net contributors
+# This file is distributed under the same license as the iHRIS package.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: iHRIS I2CE - Swiss Factory\n"
+"Report-Msgid-Bugs-To: translatewiki.net\n"
+"POT-Creation-Date: 2013-07-22 20:36+0200\n"
+"PO-Revision-Date: 2014-01-06 11:16:01+0000\n"
+"Last-Translator: Carl Leitner <cleitner@intrahealth.org>\n"
+"Language-Team: Swahili <https://translatewiki.net/wiki/Portal:sw>\n"
+"Language: sw\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Launchpad-Export-Date: 2014-01-05 05:17+0000\n"
+"X-Generator: MediaWiki 1.23alpha (bbbb3df); Translate 2014-01-01\n"
+"X-Translation-Project: translatewiki.net <https://translatewiki.net>\n"
+"X-Language-Code: sw\n"
+"X-Message-Group: #out-ihris-i2ce-sfa\n"
+"X-POT-Import-Date: 2013-10-07 17:24:24+0000\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_list_single.html#L9'>modules/SwissFactory/templates/en_US/configuration_list_single.html</a>
+#, no-c-format
+msgid "Select one option"
+msgstr "Chagua chaguo moja"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_list_many.html#L9'>modules/SwissFactory/templates/en_US/configuration_list_many.html</a>
+#, no-c-format
+msgid "Select options"
+msgstr "Chagua chaguzi nyingi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configurations.html#L2'>modules/SwissFactory/templates/en_US/configurations.html</a>
+#, no-c-format
+msgid "Configuration Options"
+msgstr "Chaguzi za Usabidi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_string_single_view.html#L10'>modules/SwissFactory/templates/en_US/configuration_string_single_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_string_single.html#L9'>modules/SwissFactory/templates/en_US/configuration_string_single.html</a>
+#, no-c-format
+msgid "Value"
+msgstr "Thamani"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_string_many.html#L10'>modules/SwissFactory/templates/en_US/configuration_string_many.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_delimited_many.html#L10'>modules/SwissFactory/templates/en_US/configuration_delimited_many.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_delimited_single.html#L10'>modules/SwissFactory/templates/en_US/configuration_delimited_single.html</a>
+#, no-c-format
+msgid "Index"
+msgstr "Kielelezo"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_string_many.html#L10'>modules/SwissFactory/templates/en_US/configuration_string_many.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_delimited_many.html#L10'>modules/SwissFactory/templates/en_US/configuration_delimited_many.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_delimited_single.html#L10'>modules/SwissFactory/templates/en_US/configuration_delimited_single.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_noindex_string_many.html#L10'>modules/SwissFactory/templates/en_US/configuration_noindex_string_many.html</a>
+#, no-c-format
+msgid "Values"
+msgstr "Thamani"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/swiss_factory_view.html#L8'>modules/SwissFactory/templates/en_US/swiss_factory_view.html</a>
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/swiss_factory_edit.html#L10'>modules/SwissFactory/templates/en_US/swiss_factory_edit.html</a>
+#, no-c-format
+msgid "Parent"
+msgstr "Mzazi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_options.html#L6'>modules/SwissFactory/templates/en_US/configuration_options.html</a>
+#, no-c-format
+msgid "Non-Expert Mode"
+msgstr "Namna isiyo ya Kitaalam"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configurationGroups.html#L2'>modules/SwissFactory/templates/en_US/configurationGroups.html</a>
+#, no-c-format
+msgid "Configuration Sub-Options"
+msgstr "Chaguzi ndogo za Usabidi"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_boolean_single_view.html#L12'>modules/SwissFactory/templates/en_US/configuration_boolean_single_view.html</a>
+#, no-c-format
+msgid "True"
+msgstr "Kweli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_boolean_single_view.html#L15'>modules/SwissFactory/templates/en_US/configuration_boolean_single_view.html</a>
+#, no-c-format
+msgid "False"
+msgstr "Si kweli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_boolean_single.html#L9'>modules/SwissFactory/templates/en_US/configuration_boolean_single.html</a>
+#, no-c-format
+msgid "Check to set to true"
+msgstr "Angalia ili kuifanya kuwa kweli"
+
+#: <a
+#: href='http://bazaar.launchpad.net/~intrahealth+informatics/i2ce/4.0-dev/annotate/head%3A/modules/SwissFactory/templates/en_US/configuration_options.html#L3'>modules/SwissFactory/templates/en_US/configuration_options.html</a>
+#, no-c-format
+msgid "Expert Mode"
+msgstr "Namna ya Kitaalam"
