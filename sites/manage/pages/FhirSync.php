@@ -4,8 +4,8 @@ use APELON\ihrisFhirSync\ihrisSync;
 use APELON\ihrisFhirSync\APELON\ihrisFhirSync;
 
 //Dependencies
-require './ihrisSync.php'; //Standalone version
-//require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
+//require './ihrisSync.php'; //Standalone version
+require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
 require './config.values.php';
 
 //Global Variables
@@ -74,42 +74,56 @@ echo '<hr>';
 if(!isset($_POST['action'])) {
 	echo '<ul style="display:inline" style="list-style-type: none">';
 		echo '<li><div class="alert alert-warning" role="alert">Countries</div>';
-				formStart(); button('Browse iHRIS Countries', 'browseCountries', 'primary');formFinish();
-				formStart(); button('Drop Countries', 'dropCountries', 'danger');formFinish();
-				formStart(); button('Populate Countries', 'syncCountries', 'success');
-				valuesetTextbox("Country", $fhir_valueset_country);formFinish();
+			formStart(); button('Browse iHRIS Countries', 'browseCountries', 'primary');formFinish();
+			formStart(); button('Drop Countries', 'dropCountries', 'danger');formFinish();
+			formStart(); 
+				button('Populate Countries', 'syncCountries', 'success');
+				valuesetTextbox("Country", $fhir_valueset_country);
+			formFinish();
 		echo '</li><br>';
 		echo '<li><div class="alert alert-warning" role="alert">Facilities</div>';
 			formStart(); button('Browse iHRIS Facilities', 'browseFacilities', 'primary');formFinish();
 			formStart(); button('Drop Facilities', 'dropFacilities', 'danger');formFinish();
-			formStart(); button('Populate Facilities', 'syncFacilities', 'success');
-			valuesetTextbox("Country", $fhir_valueset_facilities);formFinish();
+			formStart(); 
+				button('Populate Facilities', 'syncFacilities', 'success');
+				valuesetTextbox("Facilities", $fhir_valueset_facilities);
+			formFinish();
 		echo '</li><br>';
 		echo '<li><div class="alert alert-warning" role="alert">Healthcare-Worker Types</div>';formFinish();
 			formStart(); button('Browse iHRIS Positions', 'browsePositions', 'primary');formFinish();
-			formStart(); button('Drop Positions', 'dropPositions', 'danger');
-			formStart(); button('Populate Positions', 'syncPositions', 'success');
-			valuesetTextbox("Country", $fhir_valueset_positions);formFinish();
+			formStart(); button('Drop Positions', 'dropPositions', 'danger');formFinish();
+			formStart(); 
+				button('Populate Positions', 'syncPositions', 'success');
+				valuesetTextbox("Positions", $fhir_valueset_positions);
+			formFinish();
 			//Value-Set Form
 		echo '</li><br>';
 	echo '</ul>';
 } else if(isset($_POST['action'])) {
+	
 	$action = $_POST['action'];
+	
 	if(isset($_POST['valueset'])) {
 		if($_POST['valueset'] != "") {
 			$valueset = $_POST['valueset'];
-			echo 'ValueSet: "' . $valueset . '"<br>';
 		} else {
 			$valueset = $_POST['defaultValueset'];
 		}
+		alert('ValueSet: "' . $valueset . '"<br>');
 	} else {
-		$valueset = $_POST['defaultValueset'];
+		$valueset = "";
+		if(substr($action, 0, 4) == 'sync') {
+			alertDanger("Value-Set was Null. Set VS in Config or VS Text-Box.");
+		}
 	}
+	
+	
 	$is = new ihrisSync();
 	
-	//Authenticate MySQL
+	alert("ACTION: " . $action);
+	
+	//Authenticate MySQL & FHIR
 	$mysql_auth = parse_url($i2ce_site_dsn);
-	//print_r($mysql_auth);
 	$is->setMysqlConnection('localhost', $mysql_auth['user'], $mysql_auth['pass'], substr($mysql_auth['path'], 1));
 	$is->setFhirServer($fhir_server_url, $fhir_server_username, $fhir_server_password);
 	
@@ -117,50 +131,56 @@ if(!isset($_POST['action'])) {
 		case 'browseCountries':
 			echo 'Browse Countries<br>';
 			browseCountries();
-			//print_r($is->fetchCountries());
+		break;
+		case 'browsePositions':
+			echo 'Browse Positions<br>';
+			browsePositions();
+		break;
+		case 'browseFacilities':
+			echo 'Browse Facilities<br>';
+			browseFacilities();
 		break;
 		case 'dropCountries':
 			if($is->dropCountry()) {
-				alert('Sync was OK!');
+				alert('Drop Countries OK!');
 			} else {
-				alert('Sync Failed');
+				alertDanger('Drop Countries Failed');
 			}
 		break;
 		case 'syncCountries':
 			if($is->insertCountry($valueset)) {
 				alert('Sync was OK!');
 			} else {
-				alert('Sync Failed');
+				alertDanger('Sync Failed');
 			}
 		break;
-			
 		case 'dropFacilities':
 			if($is->dropFacility()) {
-				alert('Sync was OK!');
+				alert('Drop Facilities OK!');
 			} else {
-				alert('Sync Failed');
+				alertDanger('Drop Facilities Failed');
 			}
 		break;
 		case 'syncFacilities':
 			if($is->insertFacility($valueset)) {
-				alert('Sync was OK!');
+				alert('Sync OK!');
 			} else {
-				alert('Sync Failed');
+				alertDanger('Sync Failed');
 			}
 		break;
 		
 		case 'dropPositions':
 			if($is->dropPosition()) {
-				alert('Sync was OK!');
+				alert('Drop Positions');
 			} else {
-				alert('Sync Failed');
+				alertDanger('Drop Positions Failed');
 			}
 		break;
 		case 'syncPositions':
 			if($is->insertPosition($valueset)) {
-				alert('Sync was OK!');
+				alert('Sync OK!');
 			} else {
-				alert('Sync Failed');
+				alerDangert('Sync Failed');
 			}
 		break;
 		
@@ -170,25 +190,51 @@ if(!isset($_POST['action'])) {
 	}
 }
 
-function browseCountries() {
-	$table_columns = array(0=>"id",1=>"parent",2=>"modified",3=>"hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+function browsePositions() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"i2ce_hidden",3=>"i2ce_hidden",4=>"name");
 	startTable($table_columns);
 	global $is;
-	$fetch_data = $is->fetchCountries();
-	echo 'Count: ' . count($row) . '<br>';
-	while($row = $fetch_data) {
+	foreach($is->fetchPositions() as $row) {
 		echo '<tr>';
-		for($y=0;$y < count($row);$y++) {
-			echo '<td>' . $row[$y] . '</td>';
-		}
+			foreach($table_columns as $tc) {
+				echo '<td>' . $row[$tc] . '</td>';
+			}
 		echo'</tr>';
 	}
 	echo '<table>';
 }
 
+function browseFacilities() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"last_modified",3=>"i2ce_hidden",4=>"name");
+	startTable($table_columns);
+	global $is;
+	foreach($is->fetchFacilities() as $row) {
+		echo '<tr>';
+			foreach($table_columns as $tc) {
+				echo '<td>' . $row[$tc] . '</td>';
+			}
+		echo'</tr>';
+	}
+	echo '<table>';
+}
+
+function browseCountries() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"last_modified",3=>"i2ce_hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+	startTable($table_columns);
+	global $is;
+	foreach($is->fetchCountries() as $row) {
+		echo '<tr>';
+			foreach($table_columns as $tc) {
+				echo '<td>' . $row[$tc] . '</td>';
+			}
+		echo'</tr>';
+	}
+	
+	echo '<table>';
+}
+
 function startTable($columns) {
-	echo '<table border="0"><tr>';
-	echo 'Count: ' . count($columns) . '<br>';
+	echo '<table border="1" padding="4"><tr>';
 		for($x = 0; $x < count($columns); $x++) {
 			echo '<td>' . $columns[$x] . '</td>';
 		}
