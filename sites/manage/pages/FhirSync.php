@@ -4,8 +4,8 @@ use APELON\ihrisFhirSync\ihrisSync;
 use APELON\ihrisFhirSync\APELON\ihrisFhirSync;
 
 //Dependencies
-//require './ihrisSync.php'; //Standalone version
-require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
+require './ihrisSync.php'; //Standalone version
+// require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
 require './config.values.php';
 
 //Global Variables

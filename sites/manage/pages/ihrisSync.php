@@ -67,13 +67,12 @@ class ihrisSync {
         	$xml = file_get_contents($url, false, $context);
         } catch(Exception $e) {
         	echo "Failure connecting to DTS FHIR Server";
+        	return false;
         }
         
         if($xml != null && $xml) {
-        	
         	$xml = simplexml_load_string($xml);
-        	//var_dump($xml->expansion); //TODO: Remove after testing
-        	//$fhir = new SimpleXMLElement($xml);
+        	//var_dump($xml->expansion); //Keep for Testing
         	return $xml;
         } else {
         	return false;		
@@ -132,6 +131,9 @@ class ihrisSync {
     
     public function insertCountry($valueSet) {
         $fhirData = $this->getFhirData($valueSet)->expansion->contains;
+        if(!$fhirData) {
+        	return false;
+        }
         $size = iterator_count($fhirData);
         for ($x = 0; $x < $size; $x++) {
 			$f = $fhirData[$x];
@@ -147,7 +149,11 @@ class ihrisSync {
     		echo 'MySQL Query Error, SQL: ' . $sql . ' ERROR: ' . mysqli_error($this->conn);
     		return false;
     	} else {
-    		return mysqli_fetch_assoc($query);
+    		$posts = array();
+    		while($row = mysqli_fetch_array($query, MYSQLI_BOTH)) {
+    			$posts[] = $row;
+    		}
+    		return  $posts;
     	}
     	
     }
@@ -165,7 +171,9 @@ class ihrisSync {
     
     public function insertRegion($valueSet) {
         $fhirData = $this->getFhirData($valueSet);
-        
+        if(!$fhirData) {
+        	return false;
+        }
         foreach($fhirData as $f) {
             if($f->contains != null) { //Verify this works
             ////TODO: insert Region - $this->insertRegionQuery($f->display['value'], $f->display['value']);
@@ -186,7 +194,9 @@ class ihrisSync {
     
     public function insertDistrict() {
         $fhirData = $this->getFhirData($valueSet);
-        
+        if(!$fhirData) {
+        	return false;
+        }
         foreach($fhirData as $f) {
             if($f->contains != null) { //Verify this works
                 //$this->insertDistrictQuery($f->display['value'], $f->display['value']); - TODO: District
@@ -217,7 +227,6 @@ class ihrisSync {
     	 
     	if(!$query) {
     		return false;
-    		exit();
     	} else {
     		return true;
     	}
@@ -229,7 +238,6 @@ class ihrisSync {
         
         if(!$query) {
         	return false;
-        	exit();
         } else {
         	return true;
         }
@@ -241,8 +249,10 @@ class ihrisSync {
      * @param unknown $districtId of all the County's being created here
      */
     public function insertCounty($valueSet, $districtId) {
-    $fhirData = $this->getFhirData($valueSet)->expansion->contains;
-        
+	    $fhirData = $this->getFhirData($valueSet)->expansion->contains;
+	    if(!$fhirData) {
+	    	return false;
+	    }
         $size = iterator_count($fhirData);
         for ($x = 0; $x < $size; $x++) {
 			$f = $fhirData[$x];
@@ -271,7 +281,6 @@ class ihrisSync {
     	
     	if(!$query) {
     		return false;
-    		exit();
     	} else {
     		return true;
     	}
@@ -283,7 +292,6 @@ class ihrisSync {
         
         if(!$query) {
         	return false;
-        	exit();
         } else {
         	return true;
         }
@@ -291,7 +299,9 @@ class ihrisSync {
     
     public function insertFacility($valueSet) {
    		$fhirData = $this->getFhirData($valueSet)->expansion->contains;
-        
+   		if(!$fhirData) {
+   			return false;
+   		}
         $size = iterator_count($fhirData);
         for ($x = 0; $x < $size; $x++) {
 			$f = $fhirData[$x];
@@ -300,20 +310,39 @@ class ihrisSync {
         }
     }
     
-    public function fetchFacility() {
+    public function fetchFacilities() {
     	$sql = "SELECT * FROM hippo_facility_type";
     	$query = mysqli_query($this->conn, $sql);
-    	return mysqli_fetch_array($query);
+    	if(mysqli_errno($this->conn)) {
+    		echo 'MySQL Query Error, SQL: ' . $sql . ' ERROR: ' . mysqli_error($this->conn);
+    		return false;
+    	} else {
+    		$posts = array();
+    		while($row = mysqli_fetch_array($query, MYSQLI_BOTH)) {
+    			$posts[] = $row;
+    		}
+    		return  $posts;
+    	}
+    	
     }
     
-    public function fetchPosition() {
+    public function fetchPositions() {
     	$sql = "SELECT * FROM hippo_position_type";
     	$query = mysqli_query($this->conn, $sql);
-    	return mysqli_fetch_array($query);
+    	if(mysqli_errno($this->conn)) {
+    		echo 'MySQL Query Error, SQL: ' . $sql . ' ERROR: ' . mysqli_error($this->conn);
+    		return false;
+    	} else {
+    		$posts = array();
+    		while($row = mysqli_fetch_array($query, MYSQLI_BOTH)) {
+    			$posts[] = $row;
+    		}
+    		return  $posts;
+    	}
+    	
     }
     
     private function insertPositionQuery($id, $name) {
-    
     	$sql = "INSERT INTO "
                 . "`ihris_manage`.`hippo_position_type` "
                     . "(`id`, "
@@ -332,19 +361,16 @@ class ihrisSync {
     	 
     	if(!$query) {
     		return false;
-    		exit();
     	} else {
     		return true;
     	}
     }
     
     public function dropPosition() {
-        $sql = "TRUNCATE table hippo_position_type";
+        $sql = "TRUNCATE table `hippo_position_type`";
     	$query = mysqli_query($this->conn, $sql);
-        
         if(!$query) {
         	return false;
-        	exit();
         } else {
         	return true;
         }
@@ -352,7 +378,9 @@ class ihrisSync {
     
     public function insertPosition($valueSet) {
     	$fhirData = $this->getFhirData($valueSet)->expansion->contains;
-        
+    	if(!$fhirData) {
+    		return false;
+    	}
         $size = iterator_count($fhirData);
         for ($x = 0; $x < $size; $x++) {
 			$f = $fhirData[$x];
