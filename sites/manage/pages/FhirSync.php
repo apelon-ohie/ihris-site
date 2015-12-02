@@ -1,34 +1,40 @@
 <?php
-
-use APELON\ihrisFhirSync\ihrisSync;
-use APELON\ihrisFhirSync\APELON\ihrisFhirSync;
+//test
+//use APELON\ihrisFhirSync\ihrisFhirDAO;
+//use APELON\ihrisFhirSync\APELON\ihrisFhirSync;
 
 //Dependencies
-require './ihrisSync.php'; //Standalone version
-// require './ihris-fhir-sync/src/sync/ihrisSync.php'; //GIT Version
-require './config.values.php';
+require './config.values.php'; //CONFIG
+require './ihrisFhirDAO.php'; //DATA LAYER LIB
+// require './ihris-fhir-sync/src/sync/ihrisSync.php'; //DATA LAYER LIB (GIT REPO)
 
-//Global Variables
+//Sync-Tool URL
 $url = $site_url . "FhirSync.php";
 
 //Config Value Checks
-if(!isset($fhir_valueset_country) 
+if(!isset($fhir_valueset_countries) 
 		|| !isset($fhir_valueset_positions) 
 		|| !isset($fhir_valueset_facilities)
 		|| !isset($fhir_valueset_county)
-		|| !isset($fhir_valueset_region)
-		|| !isset($fhir_valueset_district)) {
+		|| !isset($fhir_valueset_regions)
+		|| !isset($fhir_valueset_district)
+		|| !isset($geography_valueset_map)) {
 	alertDanger("The Default ValueSet was not set in config.values.php");
 } 
-// $is = new ihrisSync(); TODO: Fhir and DB Check
-// $dbCheck = $is->setMysqlConnection('localhost', $mysql_auth['user'], $mysql_auth['pass'], substr($mysql_auth['path'], 1));
-// $fhirCheck = $is->setFhirServer($fhir_server_url, $fhir_server_username, $fhir_server_password);
-// if(!$dbCheck) {
-// 	alertDanger("Could not connect to MySQL DB with configured parameters");
+
+$is = new ihrisFhirDAO();
+
+//Authenticate MySQL & FHIR
+$mysql_auth = parse_url($i2ce_site_dsn); //TODO: Fix localhost in MySQL Auth
+$mysql_check = $is->setMysqlConnection('localhost', $mysql_auth['user'], $mysql_auth['pass'], substr($mysql_auth['path'], 1));
+$fhir_check = $is->setFhirServer($fhir_server_url, $fhir_server_username, $fhir_server_password);
+
+// if(!$fhir_check) {
+// 	alertDanger("FHIR Connection failed. Please verify credentials in config.values.php");
 // }
-// if(!$fhirCheck) {
-// 	alertDanger("Could not connect to FHIR Server with configured parameters");
-// }
+if($mysql_check==false) {
+	alertDanger("MySQL Connection failed. Please verify credentials in config.values.php");
+}
 
 //HTML Helper Functions
 function button($text, $action, $level = danger) {
@@ -73,14 +79,6 @@ echo '<hr>';
 
 if(!isset($_POST['action'])) {
 	echo '<ul style="display:inline" style="list-style-type: none">';
-		echo '<li><div class="alert alert-warning" role="alert">Countries</div>';
-			formStart(); button('Browse iHRIS Countries', 'browseCountries', 'primary');formFinish();
-			formStart(); button('Drop Countries', 'dropCountries', 'danger');formFinish();
-			formStart(); 
-				button('Populate Countries', 'syncCountries', 'success');
-				valuesetTextbox("Country", $fhir_valueset_country);
-			formFinish();
-		echo '</li><br>';
 		echo '<li><div class="alert alert-warning" role="alert">Facilities</div>';
 			formStart(); button('Browse iHRIS Facilities', 'browseFacilities', 'primary');formFinish();
 			formStart(); button('Drop Facilities', 'dropFacilities', 'danger');formFinish();
@@ -96,7 +94,38 @@ if(!isset($_POST['action'])) {
 				button('Populate Positions', 'syncPositions', 'success');
 				valuesetTextbox("Positions", $fhir_valueset_positions);
 			formFinish();
-			//Value-Set Form
+		echo '</li><br>';
+		echo '<li><div class="alert alert-warning" role="alert">Countries</div>';
+		formStart(); button('Browse iHRIS Countries', 'browseCountries', 'primary');formFinish();
+		formStart(); button('Drop Countries', 'dropCountries', 'danger');formFinish();
+		formStart();
+			button('Populate Countries', 'syncCountries', 'success');
+			valuesetTextbox("Country", $fhir_valueset_countries);
+		formFinish();
+		echo '</li><br>';
+		echo '<li><div class="alert alert-warning" role="alert">Regions</div>';formFinish();
+			formStart(); button('Browse iHRIS Regions', 'browseRegions', 'primary');formFinish();
+			formStart(); button('Drop Regions', 'dropRegions', 'danger');formFinish();
+			formStart();
+				button('Populate Regions', 'syncRegions', 'success');
+				valuesetTextbox("Regions", $fhir_valueset_regions);
+			formFinish();
+		echo '</li><br>';
+		echo '<li><div class="alert alert-warning" role="alert">Districts</div>';formFinish();
+		formStart(); button('Browse iHRIS Districts', 'browseDistricts', 'primary');formFinish();
+		formStart(); button('Drop Districts', 'dropDistricts', 'danger');formFinish();
+		formStart();
+			button('Populate Districts', 'syncDistricts', 'success');
+			valuesetTextbox("Districts", $fhir_valueset_districts);
+		formFinish();
+		echo '</li><br>';
+		echo '<li><div class="alert alert-warning" role="alert">Counties</div>';formFinish();
+		formStart(); button('Browse iHRIS Counties', 'browseCounties', 'primary');formFinish();
+		formStart(); button('Drop Counties', 'dropCounties', 'danger');formFinish();
+		formStart();
+			button('Populate Counties', 'syncCounties', 'success');
+			valuesetTextbox("Counties", $fhir_valueset_counties);
+		formFinish();
 		echo '</li><br>';
 	echo '</ul>';
 } else if(isset($_POST['action'])) {
@@ -117,20 +146,25 @@ if(!isset($_POST['action'])) {
 		}
 	}
 	
-	
-	$is = new ihrisSync();
-	
-	alert("ACTION: " . $action);
-	
-	//Authenticate MySQL & FHIR
-	$mysql_auth = parse_url($i2ce_site_dsn);
-	$is->setMysqlConnection('localhost', $mysql_auth['user'], $mysql_auth['pass'], substr($mysql_auth['path'], 1));
-	$is->setFhirServer($fhir_server_url, $fhir_server_username, $fhir_server_password);
+	alert("ACTION: " . $action); //DEBUG
 	
 	switch($action) {
+		//BROWSE
 		case 'browseCountries':
 			echo 'Browse Countries<br>';
 			browseCountries();
+		break;
+		case 'browseRegions':
+			echo 'Browse Regions<br>';
+			browseRegions();
+		break;
+		case 'browseDistricts':
+			echo 'Browse Districts<br>';
+			browseDistricts();
+		break;
+		case 'browseCounties':
+			echo 'Browse Counties<br>';
+			browseCounties();
 		break;
 		case 'browsePositions':
 			echo 'Browse Positions<br>';
@@ -140,18 +174,12 @@ if(!isset($_POST['action'])) {
 			echo 'Browse Facilities<br>';
 			browseFacilities();
 		break;
-		case 'dropCountries':
-			if($is->dropCountry()) {
-				alert('Drop Countries OK!');
+		//DROP
+		case 'dropPositions':
+			if($is->dropPosition()) {
+				alert('Drop Positions');
 			} else {
-				alertDanger('Drop Countries Failed');
-			}
-		break;
-		case 'syncCountries':
-			if($is->insertCountry($valueset)) {
-				alert('Sync was OK!');
-			} else {
-				alertDanger('Sync Failed');
+				alertDanger('Drop Positions Failed');
 			}
 		break;
 		case 'dropFacilities':
@@ -161,19 +189,73 @@ if(!isset($_POST['action'])) {
 				alertDanger('Drop Facilities Failed');
 			}
 		break;
+		case 'dropCountries':
+			if($is->dropCountry()) {
+				alert('Drop Countries OK!');
+			} else {
+				alertDanger('Drop Countries Failed');
+			}
+		break;
+		case 'dropRegions':
+			if($is->dropRegions()) {
+				alert('Drop Regions OK!');
+			} else {
+				alertDanger('Drop Regions Failed');
+			}
+		break;
+		case 'dropDistricts':
+			if($is->dropDistricts()) {
+				alert('Drop Districts OK!');
+			} else {
+				alertDanger('Drop Districts Failed');
+			}
+		break;
+		case 'dropCounties':
+			if($is->dropCounties()) {
+				alert('Drop Counties OK!');
+			} else {
+				alertDanger('Drop Counties Failed');
+			}
+		break;
+		//SYNC
+		case 'syncCountries':
+			$insertCountyResult = $is->insertCountry($valueset);
+			if($insertCountryResult) {
+				if($insertCountyResult != 'INVALID-VALUESET') {
+					alert('Sync was OK!');
+				} else {
+					alertDanger('Sync Failed. Valueset "' . $valueset . '" does not exist');
+				}
+			} else {
+				alertDanger('Sync Failed');
+			}
+		break;
+		case 'syncRegions':
+			if($is->insertRegions($valueset)) {
+				alert('Sync was OK!');
+			} else {
+				alertDanger('Sync Failed');
+			}
+		break;
+		case 'syncDistricts':
+			if($is->insertDistricts($valueset)) {
+				alert('Sync was OK!');
+			} else {
+				alertDanger('Sync Failed');
+			}
+		break;
+		case 'syncCounties':
+			if($is->insertCounties($valueset)) {
+				alert('Sync was OK!');
+			} else {
+				alertDanger('Sync Failed');
+			}
+		break;
 		case 'syncFacilities':
 			if($is->insertFacility($valueset)) {
 				alert('Sync OK!');
 			} else {
 				alertDanger('Sync Failed');
-			}
-		break;
-		
-		case 'dropPositions':
-			if($is->dropPosition()) {
-				alert('Drop Positions');
-			} else {
-				alertDanger('Drop Positions Failed');
 			}
 		break;
 		case 'syncPositions':
@@ -190,6 +272,7 @@ if(!isset($_POST['action'])) {
 	}
 }
 
+//BROWSE
 function browsePositions() {
 	$table_columns = array(0=>"id",1=>"parent",2=>"i2ce_hidden",3=>"i2ce_hidden",4=>"name");
 	startTable($table_columns);
@@ -233,6 +316,51 @@ function browseCountries() {
 	echo '<table>';
 }
 
+function browseRegions() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"last_modified",3=>"i2ce_hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+	startTable($table_columns);
+	global $is;
+	foreach($is->fetchRegions() as $row) {
+		echo '<tr>';
+		foreach($table_columns as $tc) {
+			echo '<td>' . $row[$tc] . '</td>';
+		}
+		echo'</tr>';
+	}
+
+	echo '<table>';
+}
+
+function browseDistricts() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"last_modified",3=>"i2ce_hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+	startTable($table_columns);
+	global $is;
+	foreach($is->fetchDistricts() as $row) {
+		echo '<tr>';
+		foreach($table_columns as $tc) {
+			echo '<td>' . $row[$tc] . '</td>';
+		}
+		echo'</tr>';
+	}
+
+	echo '<table>';
+}
+
+function browseCounty() {
+	$table_columns = array(0=>"id",1=>"parent",2=>"last_modified",3=>"i2ce_hidden",4=>"name", 5=>"alpha_two",6=>"code",7=>"primary",8=>"location");
+	startTable($table_columns);
+	global $is;
+	foreach($is->fetchDistricts() as $row) {
+		echo '<tr>';
+		foreach($table_columns as $tc) {
+			echo '<td>' . $row[$tc] . '</td>';
+		}
+		echo'</tr>';
+	}
+
+	echo '<table>';
+}
+
 function startTable($columns) {
 	echo '<table border="1" padding="4"><tr>';
 		for($x = 0; $x < count($columns); $x++) {
@@ -243,4 +371,10 @@ function startTable($columns) {
 
 echo '</div></body></html>';
 
+# Local Variables:
+# mode: php
+# c-default-style: "bsd"
+# indent-tabs-mode: nil
+# c-basic-offset: 4
+# End:
 

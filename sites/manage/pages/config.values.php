@@ -65,13 +65,24 @@ $fhir_server_password = 'dtsadmin';
 
 $site_url = 'http://hardevhim.ct.apelon.com:83/manage/';
 
-$fhir_valueset_country = 'valueset-c80-facilitycodes';
+//VALUE-SETS
+//FACILITIES + POSITIONS
 $fhir_valueset_facilities = 'valueset-c80-facilitycodes';
 $fhir_valueset_positions = 'HeathCareWorkerTypes';
-//Not Tested
-$fhir_valueset_county = '';
-$fhir_valueset_region = '';
-$fhir_valueset_district = '';
+//GEOGRAPHY
+$fhir_valueset_countries = 'Countries';
+$fhir_valueset_county = 'Countries';
+$fhir_valueset_regions = 'Countries';
+$fhir_valueset_district = 'Countries';
+
+//Geographic Value-Set Mapping
+$geography_valueset_map = array
+(
+  array(
+	"223688001"=>"united-states",
+	"223690000"=>"223688001"
+	)
+);
 
 /**
  * Initialization string for user access.  See http://open.intrahealth.org/mediawiki/Pluggable_Authentication
